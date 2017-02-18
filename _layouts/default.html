@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  {% include head.html %}
+
+  <!-- Custom JavaScript files set in YAML front matter -->
+  {% for js in page.customjs %}
+  <script src="{{ js }}"></script>
+  {% endfor %}
+
+  </head>
+
+  <body class="theme-base-0c">
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+      {{ content }}
+
+      <div>
+        <p><small><i><a href="https://github.com/jeffreymoro/jeffreymoro-dot-com/commits/gh-pages{{page.url}}"><i class="fa fa-refresh" aria-hidden="true"></i> revision history for this page</a></i></small></p>
+      </div>
+    </div>
+
+  </body>
+</html>

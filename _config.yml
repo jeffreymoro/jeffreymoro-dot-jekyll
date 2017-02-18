@@ -1,0 +1,68 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Jeffrey Moro
+tagline:          'electric words & grainy pictures'
+description:      'electric words & <br/> grainy pictures'
+baseurl:          /
+
+author:
+  name:           'Jeffrey Moro'
+  url:            https://twitter.com/jeffreymoro
+
+paginate:         5
+paginate_path: 	  blog/page:num
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/jeffreymoro
+
+# Include / Exclude
+exclude:          [assets/img-retina]
+
+# Retina Images
+#retinamagick:
+#  header:
+#    source: assets/img/compressed/header-compressed/
+#    destination: assets/img/
+#    resize: "760x350"
+#  projects: 
+#    source: assets/img/compressed/projects-compressed
+#    destination: assets/img/
+#    resize: "400x400"
+#  blog: 
+#    source: assets/img/compressed/blog-compressed
+#    destination: assets/img/
+#    resize: "760x500"
+
+# Sass settings
+sass:
+  sass_dir: public/css/_scss
+  style: compressed
+
+# Full URL for indexing
+url: https://jeffreymoro.com
+
+# Pagination
+gems: [jekyll-paginate]
+
+# Markdown
+kramdown:
+  smart_quotes: ["lsquo", "rsquo", "ldquo", "rdquo"]
+  input:          GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1

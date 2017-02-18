@@ -1,0 +1,108 @@
+// Call fonts 
+@font-face {
+    font-family: 'Calibre';
+    src: url("/assets/fonts/Calibre-Regular.woff");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Calibre';
+    src: url("/assets/fonts/Calibre-Bold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Calibre';
+    src: url("/assets/fonts/Calibre-Italic.woff");
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Calibre';
+    src: url("/assets/fonts/Calibre-BoldItalic.woff");
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Crimson';
+    src:    url("/assets/fonts/crimson-roman-webfont.woff2") format("woff2"),
+            url("/assets/fonts/crimson-roman-webfont.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Crimson';
+    src:    url("/assets/fonts/crimson-bold-webfont.woff2") format("woff2"),
+            url("/assets/fonts/crimson-bold-webfont.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Crimson';
+    src:    url("/assets/fonts/crimson-italic-webfont.woff2") format("woff2"),
+            url("/assets/fonts/crimson-italic-webfont.woff") format("woff");
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Crimson';
+    src:    url("/assets/fonts/crimson-bolditalic-webfont.woff2") format("woff2"),
+            url("/assets/fonts/crimson-bolditalic-webfont.woff") format("woff");
+    font-weight: 700;
+    font-style: italic;
+}
+
+.calibre {
+	font-family: "Calibre";
+}
+
+.inputmono {
+	font-family: "Input Mono";
+}
+
+.crimson {
+    font-family: "Crimson";
+}
+
+$primaryfont: Calibre;
+$monospacefont: "Input Mono";
+$essayfont: Crimson;
+
+// Fonts Style
+.sidebar-about h1, body, .pagination {
+	font-family: $primaryfont;
+}
+.lead {
+    font-family: $essayfont;
+    font-weight: 700;
+    font-style: italic;
+}
+.page-title {
+	font-family: $essayfont;
+	font-weight: 700;
+	font-style: italic;
+    margin-bottom: 1.5rem;
+}
+.posts, .post {
+	& p {
+		font-family: $essayfont;
+        @media (min-width: 48em) {
+            font-size: 0.9em;
+            line-height: 1.45rem;
+        }
+        text-rendering: optimizelegibility;
+	}
+    & ul {
+        font-family: $essayfont;
+        @media (min-width: 48em) {
+            font-size: 0.9em;
+            line-height: 1.45rem;
+        }
+        text-rendering: optimizelegibility;
+    }
+}
+body {
+    hanging-punctuation: first;
+}
+

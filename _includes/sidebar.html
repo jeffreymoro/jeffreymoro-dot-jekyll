@@ -1,0 +1,33 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.description }}</p>
+    </div>
+
+    <!-- Sidebar -->
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="/cv">CV</a>
+      <a class="sidebar-nav-item" href="/projects">Projects</a>
+      <a class="sidebar-nav-item" href="/blog">Blog</a>
+    </nav>
+    
+    <!-- Share sheet -->
+    <div class="sharesheet">
+      <a href="https://www.twitter.com/jeffreymoro" target="_blank"><i class="fa fa-fw fa-twitter fa-2x shareicon"></i></a>
+      <a href="https://www.github.com/jeffreymoro" target="_blank"><i class="fa fa-fw fa-github fa-2x shareicon"></i></a>
+      <a href="https://pinboard.in/u:jeffreymoro" target="_blank"><i class="fa fa-fw fa-bookmark fa-2x shareicon"></i></a>
+      <a href="https://www.linkedin.com/in/jeffreymoro" target="_blank"><i class="fa fa-fw fa-linkedin fa-2x shareicon"></i></a>
+      <a href="https://keybase.io/jeffreymoro" target="_blank"><i class="fa fa-fw fa-key fa-2x shareicon"></i></a>
+      <a id="showmailbox"><i class="fa fa-fw fa-envelope-o fa-2x shareicon"></i></a>
+        <div id="mailbox">Write me at jm [at] the domain of this website</div> 
+    </div>
+    <div class="credit">
+      <p>&copy; {{ site.time | date: '%Y' }} / I built this with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> & <a href="http://hyde.getpoole.com" target="_blank">Hyde</a>.</p>
+    </div>
+  </div>
+</div>
