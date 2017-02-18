@@ -1,1 +1,336 @@
-/Users/jeffreymoro/Documents/Projects/Writing/_cv/cv.yaml
+---
+########### Meta ###########
+meta: 
+  link: "cv-2017-02-18.pdf"
+
+########### Contact ###########
+contact: 
+  name: 
+    first: Jeffrey
+    last: Moro
+  url: jeffreymoro.com
+  mail: jm@jeffreymoro.com
+  twitter: \@jeffreymoro
+  github: github.com/jeffreymoro
+  linkedin: linkedin.com/in/jeffreymoro
+  phone: "678.200.3951"
+  address: |
+    11 Arnold Ave, Apt 2C
+    Northampton, MA 01060
+  keybase: keybase.io/jeffreymoro
+
+########### Profile ###########
+profile: "I work across academia, industry, and the arts to understand our media present and to build its future. I&rsquo;m a skilled collaborator, with experience in project management, grant administration, events planning, and digital outreach. I&rsquo;m trained in the arts, humanities, and information sciences, and I can speak fluently the languages of the classroom, gallery, and command line. In my academic work and teaching, I investigate electronic literature, media archaeology, and software studies—in short, the textual and material history of media forms and technologies."
+
+########### Education ###########
+education: 
+  - institution: University of Maryland, College Park
+    degree: Ph.D, English
+    location: College Park, MD
+    date: "2021 (Expected)"
+    awards: certificate in Digital Studies (in progress)
+  - institution: Amherst College
+    degree: BA, English; BA, Theater & Dance
+    location: Amherst, MA
+    date: "2013"
+    awards: magna cum laude, Phi Beta Kappa
+
+########### Employment ###########
+employment: 
+  - title: Site Manager
+    company: <i>Romantic Circles</i>
+    company-latex: \emph{Romantic Circles}
+    location: College Park, MD
+    second-location: ""
+    date: "2016 – Present"
+    context: ""
+  - title: Post-Baccalaureate Resident in Digital Humanities
+    company: Five Colleges, Inc
+    location: Amherst, MA
+    second-location: (Appointed at Smith College. Northampton, MA)
+    date: "2013 – 2016"
+    context: "I collaborated with Five College Digital Humanities' faculty director to comprehensively administer a variety of academic programs, events, and grant-funded projects. I managed an Undergraduate Student Fellowship program, an Undergraduate Microgrant program, a Speaker Series, and taught workshops on digital media and digital project management. In short: I kept all the pieces moving so that faculty, staff, and students alike could do innovative work."
+
+########### Publications ###########
+publications:
+  - title:
+    journal:
+    date:
+    url:
+
+########### Projects ###########
+projects: 
+  - title: "The_Critical_Is"
+    role: PI
+    url: "http://gaming.thecritical.is"
+    date: "2014 – 2015"
+    context: A workgroup and web publishing concern, exploring critical issues in video games and interactive media. Funded by a microgrant from the Association for Computers and the Humanities."
+  - title: AIRLab (Aerial Innovation and Robotics Laboratory)
+    role: PI
+    url: "http://airlab.5colldh.org"
+    date: "2014 – 2015"
+    context: "A hybrid makerspace and workgroup exploring, historicizing, and critiquing creative robotics in the undergraduate classroom and the world at large. Funded by Five College Digital Humanities."
+  - title: The Space of Mexico City
+    role: Consultant
+    url: "http://5colldh.org/spaces-of-mexico-city"
+    date: "2014 – 2015"
+    context: "Researched and advised on the development of Scalar and Omeka platforms for a material cultures and mapping project. Led focus group on undergraduate digital humanities research and pedagogy."
+  - title: "E.LIT / NET.ART"
+    role: Curator & Organizer
+    url: "http://elit.jeffreymoro.com"
+    date: "2013 – 2016"
+    context: "An introduction to and exploration of electronic literature and Internet art, comprising pop-up IRL and URL galleries, workshops, and a screening program."
+
+minor-projects: 
+  - title: "Still Life in Digital: Black Life, Trauma, and Social Media"
+    role: Collaborator
+    url: "http://stilllife.mp285.com"
+    date: "2015 – Present"
+    context: "In collaboration with Marisa Parham: essays, maps, and interactive visualizations on Black life, trauma, and social media."
+  - title: The Recirculator
+    role: PI
+    url: "http://recirculator.jeffreymoro.com"
+    date: "2015 – 2016"
+    context: "A web app that lets you randomly check out books that have never before circulated within the Five College library system, and learn more about the collection through data visualizations."
+  
+creative:  
+  - title: "<i>No Wind Blows Against the Pines</i>"
+    title-latex: \emph{No Wind Blows Against the Pines}
+    role: "Director & Author"
+    url: ""
+    date: "2012 – 2013"
+    context: "A new play based on the Noh plays <i>Pining Wind</i> and <i>The Sumida River</i>."
+    location: Holden Experimental Theater, Amherst College, Amherst, MA
+  - title: "<i>Two Winds</i>"
+    title-latex: \emph{Two Winds}
+    role: "Director & Choreographer"
+    url: ""
+    date: "2012"
+    context: "A dance-theater piece in collaboration with Skye Landgraf & Morgan Brown."
+    location: Holden Experimental Theater, Amherst College, Amherst, MA
+  - title: Shakespeare on the Quad Theater Company
+    role: "Co-founder & Producer"
+    url: ""
+    date: "2011 – 2013"
+    context: "Produced crowd-funded productions of Shakespeare plays for local audiences."
+    location: Environs of Amherst, MA
+
+########### Courses and Workshops ###########
+courses: 
+  - title: "Media Archaeology, Climate Change, and the Digital (Non)humanities"
+    location: "Smith & Amherst Colleges. Northampton & Amherst, MA"
+    date: "Jan. 2016"
+    url: "https://ecomedia.jeffreymoro.com"
+    context: "A week-long course exploring the material history of computational technologies and how media studies might respond to climate change and the Anthropocene."
+  - title: "E.LIT / NET.ART: An Extraordinarily Brief History of Digital Literature, 1975 – 2015"
+    location: "Smith College. Northampton, MA"
+    date: "Jan. 2015"
+    url: "https://elit.jeffreymoro.com/course"
+    context: "A week-long course on electronic literature and Internet art, exploring key pieces throughout the medium's history while providing students critical and historical vocabularies for engaging with born-digital work."
+  - title: "Practicing Digital History"
+    location: "Smith College. Northampton, MA"
+    date: "Jan. 2014"
+    url: ""
+    context: "A week-long course on planning, managing, and executing digital research projects."
+    
+workshop:
+  - title: "The New Rigor: Linking digital scholarship to useful structures of support & evaluation"
+    organizer: Five College Digital Humanities
+    location: Amherst College. Amherst, MA
+    date: AY 2015 – 2016
+    url: "http://thenewrigor.5colldh.org"
+  - title: Five College Digital Humanities Undergraduate Fellowship Workshop
+    organizer: ""
+    location: Amherst College. Amherst, MA
+    date: Jan. 2015
+    url: ""
+  - title: "Five College Digital Humanities Kickoff Celebration & Workshops"
+    organizer: by Five College Digital Humanities
+    location: Amherst College. Amherst, MA
+    date: Sept. 2014
+    url: ""
+  - title: Five College Digital Humanities Speaker Series
+    organizer: Organized by Five College Digital Humanities
+    location: "Amherst College. Amherst, MA"
+    date: AY 2014 – 2015 (6 speakers), AY 2015 – 2016 (5 speakers)
+  - title: Five College Digital Humanities Student Symposia
+    organizer: Organized by Five College Digital Humanities
+    location: "Smith & Amherst Colleges. Northampton & Amherst, MA"
+    date: "April 2014, May 2015, April 2016"
+            
+guest: 
+  - title: "ENGL-456: Ghosts in Shells?: Virtuality and Embodiment from Passing to the Posthuman"
+    institution: Amherst College
+    location: Amherst, MA
+    date: Fall 2015
+    role: TA
+    prof: Marisa Parham
+  - title: "ENGL-277: Videogames and the Boundaries of Narrative"
+    institution: Amherst College
+    location: Amherst, MA
+    date: Spring 2015
+    role: TA
+    prof: Marisa Parham
+  - title: "ARX-340: Capstone Seminar for the Archives Concentration"
+    institution: Smith College
+    location: Northampton, MA
+    date: Feb. 2015
+    role: Guest lecturer
+    prof: Kelly Anderson
+  - title: "ENGL-338: Shakespeare"
+    institution: Amherst College
+    location: Amherst, MA
+    date: Nov. 2013
+    role: Guest lecturer
+    prof: Anston Bosman
+
+########### Awards ###########
+awards: 
+  - title: Association for Computers and the Humanities Travel Subvention
+    date: "2017"
+    secondary: For SIGCIS 2017
+    context: ""
+    latex: "SIGCIS 2017"
+  - title: Jacob K. Goldhaber Travel Award
+    date: "2017"
+    secondary: From the University of Maryland, College Park.
+    context: "Jacob K. Goldhaber Travel Grants help defray the expenses incurred by graduate students who are traveling to scholarly, scientific, or professional conferences to present papers, posters, or other scholarly material."
+    latex: "Graduate School, University of Maryland, College Park"
+  - title: Flagship Fellowship
+    date: "2016 – Present"
+    secondary: From the University of Maryland, College Park.
+    context: "The Flagship Fellowship Program is used to recruit outstanding doctoral students to the University of Maryland Graduate School."
+    latex: "University of Maryland, College Park"
+  - title: Association for Computers and the Humanities Microgrant
+    date: "2014 – 2015"
+    secondary: 'For &ldquo;The_Critical_Is: Mapping New Approaches to Videogame Pedagogy.&rdquo;'
+    context: ACH Microgrants support small projects engaging computer-assisted humanities research.
+    latex: ""
+  - title: Five College Digital Humanities Project Grant
+    date: "2014 – 2015"
+    secondary: 'For &ldquo;AIRLab (Aerial Innovation and Robotics Laboratory).&rdquo;'
+    context: "5CollDH Faculty/Staff Grants support projects that cultivate the humanities and arts through digital innovation."
+    latex: ""
+  - title: Pease (Lane) Research Fellowship for Creative Artists
+    date: 2012 – 2013
+    secondary: 'For <i>No Wind Blows Against the Pines</i>'
+    secondary-latex: 'For \emph{No Wind Blows Against the Pines}.'
+    context: Pease (Lane) Fellowships provide financial and research support for students interested in using historical and rare source materials towards projects in the arts.
+    latex: Amherst College
+  - title: Alpha Delta Phi Grant
+    date: 2012 – 2013
+    secondary: 'For &ldquo;Shakespeare Film and the Media of Translation.&rdquo;'
+    context: ADP Grants from the Amherst College Dean of the Faculty support undergraduate thesis research.
+    latex: Amherst College
+  - title: Gregory S. Call Undergraduate Summer Research Grant
+    date: "2012"
+    secondary: 'For <i>No Wind Blows Against the Pines</i>'
+    secondary-latex: 'For \emph{No Wind Blows Against the Pines}.'
+    context: Call Summer Research Grants support intensive undergraduate research experience during summer terms at Amherst College.
+    latex: Amherst College
+
+########### Talks ###########
+other-talks:
+  - title: "Plastic, Logic, & Time"
+    institution: Five College Digital Humanities
+    location: Amherst, MA
+    date: April 2016
+    type: Lightning talk
+    event: Five College Digital Humanities Community Showcase
+    url: "https://jeffreymoro.com/2016/05/03/showcase-plastic-logic-time/"
+  - title: "Digital Humanities / Digital Projects"
+    institution: UMass Amherst
+    location: Amherst, MA
+    date: Jan. 2015
+    type: Talk
+    event: Applied Humanities Learning Lab
+    url: ""
+  - title: "The Space of Mexico City"
+    institution: Five College Digital Humanities
+    location: Amherst, MA
+    date: Sept. 2014
+    type: Lightning talk
+    event: Five College Digital Humanities Kickoff Celebration
+    url: ""
+
+conference-presentations:
+  - title: "Decaying Plastic Play: Flappy Bird’s Hacked Afterlife as Media Archaeological Praxis"
+    institution: "Digital Humanities 2017"
+    location: Montréal, QC
+    date: August 2017
+    type: Panel
+    event: "The Environmental and Human Costs of DH"
+    url: ""
+  - title: "Critical Unmaking: DRM, Proprietary Networks, and Versioning Variances in 3-D Printing Technologies"
+    institution: Rutgers-Camden Archive of Digital Ephemera
+    location: Camden, NJ
+    date: April 2017
+    type: Panel
+    event: "R-CADE 2017 Symposium"
+    url: ""
+  - title: "Roomba in Revolt: Sociability and Securitization in the Internet of Things"
+    institution: SIGCIS
+    location: Mountain View, CA
+    date: March 2017
+    type: Paper
+    event: "Command Lines: Software, Power, Performance"
+    url: ""
+  - title: "The Critical Is: Mapping New Approaches to Video Game Criticism"
+    institution: Michigan State University
+    location: East Lansing, MI
+    date: May 2015
+    type: Poster
+    event: "HASTAC 2015: The Art and Science of Digital Humanities"
+    url: ""
+  - title: "Undergraduate Digital Humanities, Three Ways"
+    institution: NERCOMP
+    location: Norwood, MA
+    date: April 2014
+    type: Talk
+    event: "Emerging Digital Scholars: Undergraduates and Digital Humanities"
+    url: ""
+  - title: "After the End: Dissolving <i>No Wind Blows Against the Pines</i>"
+    institution: Amherst College
+    location: Amherst, MA
+    date: April 2013
+    type: Panel
+    event: "Amherst Explorations: A Celebration of Student Research and Creative Work"
+    url: ""
+  - title: "Shakespeare Film and the Media of Translation"
+    institution: Smith College
+    location: Northampton, MA
+    date: Feb. 2013
+    type: Paper
+    event: Five College Film Studies Undergraduate Conference
+    url: ""
+
+########### Membership and Service ###########
+membership: 
+  - title: "Modern Language Association"
+    year: "2017 – Present"
+  - title: "Association for Computers and the Humanities"
+    year: "2017 – Present"
+  - title: "Society for Textual Scholarship"
+    year: "2017 – Present"
+service: 
+  - title: "Information Technology Advisory Committee"
+    institution: "University of Maryland, College Park"
+    year: "2016 – Present"
+
+########### Skills ###########
+skills: 
+  - title: "Webdev"
+    things: "HTML, CSS/SASS, PHP, cPanel, twarc, CartoDB, Jekyll, Javascript, Twitter API, D3.js"
+  - title: "Social Media & Branding"
+    things: Twitter, Facebook, Tumblr, Rebelmouse, Google Analytics
+  - title: Around the Office
+    things: Microsoft Office, Apple iWork, Google Apps, Mailchimp, Formstack, Trello, Slack, Basecamp
+  - title: "Presentation & Media Production"
+    things: "Twine, Camtasia, iMovie, Prezi, LaTeX"
+  - title: Project Management
+    things: "Git/GitHub, Acquia"
+  - title: "CMS"
+    things: Wordpress, Drupal, Moodle, Tumblr
+  - title: "Markup"
+    things: TEI
+---
