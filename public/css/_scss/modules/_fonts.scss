@@ -87,7 +87,7 @@ $essayfont: Crimson;
 .posts, .post {
 	& p {
 		font-family: $essayfont;
-        @media (min-width: 48em) {
+        @media (min-width: 38em) {
             font-size: 0.9em;
             line-height: 1.45rem;
         }
@@ -106,4 +106,3 @@ body {
     color: $text-color;
     hanging-punctuation: first;
 }
-
