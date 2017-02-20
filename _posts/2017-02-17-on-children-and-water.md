@@ -23,7 +23,7 @@ But what I'm thinking about is water.
 
 # 3. 
 
-There have been more takes on the Women's March that followed Trump's inauguration than I care to read, and I spend most of my time getting Mad On The Internet. So I'm not offering a take beyond the idea that mass mobilization against the Republican Party, [whom I regard alongside Noam Chomsky as a domestic terrorist organization](https://www.democracynow.org/2016/5/16/noam_chomsky_climate_change_nuclear_proliferation), is in aggregate a good thing.
+There have been more takes on the Women's March that followed Trump's inauguration than I care to read, and I spend most of my time getting Mad On The Internet. So I'm not offering a take beyond the idea that mass mobilization against the Republican Party, [whom I regard as does Noam Chomsky a domestic terrorist organization](https://www.democracynow.org/2016/5/16/noam_chomsky_climate_change_nuclear_proliferation), is in aggregate a good thing.
 
 But one thing that gave me a tremendous amount of hope, and that I hope continues to stay at the core of any resistance or revolution to come, hashtagged or not, was the repeated attempts on the part of the March organizers to center indigenous voices, indigenous women's voices, those people who are on the front lines of absolute central fights over neocolonialism, the right to sovereignty, the imbricated nature of ecological and racial justice, and so much more. The #NoDAPL cry that water is life seems to me to need to be a central organizing call across all registers. 
 
