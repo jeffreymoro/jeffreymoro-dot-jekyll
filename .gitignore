@@ -1,5 +1,5 @@
 .htaccess
 .DS_Store
 _drafts
-_site
-.sass-cache
+_site/
+.sass-cache/
