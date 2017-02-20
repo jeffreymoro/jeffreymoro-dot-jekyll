@@ -1,1 +1,0 @@
-# _plugins/my-plugin.rb
