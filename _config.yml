@@ -12,36 +12,8 @@ tagline:          'electric words & grainy pictures'
 description:      'electric words & <br/> grainy pictures'
 baseurl:          /
 
-author:
-  name:           'Jeffrey Moro'
-  url:            https://twitter.com/jeffreymoro
-
 paginate:         5
 paginate_path: 	  blog/page:num
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/jeffreymoro
-
-# Include / Exclude
-exclude:          [assets/img-retina]
-
-# Retina Images
-#retinamagick:
-#  header:
-#    source: assets/img/compressed/header-compressed/
-#    destination: assets/img/
-#    resize: "760x350"
-#  projects: 
-#    source: assets/img/compressed/projects-compressed
-#    destination: assets/img/
-#    resize: "400x400"
-#  blog: 
-#    source: assets/img/compressed/blog-compressed
-#    destination: assets/img/
-#    resize: "760x500"
 
 # Sass settings
 sass:
