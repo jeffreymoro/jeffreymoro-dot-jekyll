@@ -1,3 +1,5 @@
+*This is the license for the Jekyll theme that I'm using, [Hyde](http://hyde.getpoole.com/).*
+
 # Released under MIT License
 
 Copyright (c) 2013 Mark Otto.
