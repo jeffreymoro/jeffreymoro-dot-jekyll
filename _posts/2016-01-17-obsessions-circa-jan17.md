@@ -1,7 +1,8 @@
 ---
 layout: post
 title: A semi-comprehensive list of my obsessions circa January 17th, 2016
-comments: false
+tags: 
+- obsessions
 ---
 
 In the lacuna between the Smith and Amherst iterations of [my Interterm course on media archaeology and climate change](http://ecomedia.jeffreymoro.com), a few things that have lodged themselves in my brainspace: 

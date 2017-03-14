@@ -1,7 +1,8 @@
 ---
 layout: post
 title: A semi-comprehensive list of my obsessions circa April 11th, 2016
-comments: false
+tags: 
+- obsessions
 ---
 
 In a brief moment of calm that is the onslaught of April in academia (although I hope this week to finally finish up some of the posts that have been sitting in my drafts folder for months now), a few things I can't stop thinking about:

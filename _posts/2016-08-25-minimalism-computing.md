@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Minimalism and Computing
-comments: true
+tags: 
+- minimalism
+- computing
 ---
 
 A few weeks late on the hot take treadmill to this piece, although I was on writing hiatus so I get temporary immunity. From Kyle Chayka’s “The Oppressive Gospel of Minimalism,” back in the *New York Times Magazine* at the end of July: 

@@ -1,0 +1,9 @@
+---
+layout: page
+title: Tag List
+---
+<div>
+	{% for tag in site.data.tags %}
+		<a href="{{ tag | downcase | replace: ' ', '_' }}">{{ tag }}</a>{% if forloop.last %}{% else %} • {% endif %}
+	{% endfor %}
+</div>

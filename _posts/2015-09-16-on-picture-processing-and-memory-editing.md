@@ -1,7 +1,9 @@
 ---
 layout: post
 title: On Memory Editing, Glitches, and Play
-comments: false
+tags: 
+- videgames
+- memory
 ---
 
 

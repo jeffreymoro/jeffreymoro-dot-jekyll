@@ -1,7 +1,9 @@
 ---
 layout: post
 title: On seeing through Twitter
-comments: false
+tags: 
+- twitter
+- visualization
 ---
 
 On August 24th, Ars Technica reported that Twitter (the corporation) cut off API access to Twitter (the database) for a number of websites. These websites, [Politwoops](http://politwoops.sunlightfoundation.com) and [Diplotwoops](http://diplotwoops.org), were dedicated to archiving and displaying tweets that the official accounts of politicians, diplomats, and other governmental agencies tweeted and then deleted. [From Ars’ article](http://arstechnica.com/tech-policy/2015/08/twitter-cuts-api-access-to-more-sites-archiving-deleted-politicians-tweets/):

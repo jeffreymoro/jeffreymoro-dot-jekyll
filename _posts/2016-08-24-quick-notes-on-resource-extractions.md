@@ -2,7 +2,8 @@
 layout: post
 title: Quick Notes on Resource Extractions
 topic: 'Holsinger, Bruce. "Of Pigs and Parchment: Medieval Studies and the Coming of the Animal." <i>PMLA</i>, vol. 124, no. 2, March 2009, pp. 616–623.'
-comments: true
+tags: 
+- anthropocene
 ---
 
 One of my first assigned readings in graduate school is Bruce Holsinger’s “Of Pigs and Parchment: Medieval Studies and the Coming of the Animal,” (2009) a short *cri de cœur* exhorting Medieval studies and the study of the history of the book to grapple concertedly with the simple fact that parchment culture depended on the mass slaughter of non-human animals.

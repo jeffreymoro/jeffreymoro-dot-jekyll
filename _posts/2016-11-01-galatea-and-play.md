@@ -1,8 +1,9 @@
 ---
 layout: post
 title: <i>Galatea</i> and the Play of Self-Disclosure
-comments: true
 topic: 'Short, Emily. <i>Galatea.</i> 2000. <a href="http://pr-if.org/play/galatea/">pr-if.org/play/galatea/</a>.'
+tags: 
+- elit
 ---
 
 *Another syndicated piece of writing, this time from Matthew Kirschenbaum and Neil Fraistat's seminar on the nonhuman.*

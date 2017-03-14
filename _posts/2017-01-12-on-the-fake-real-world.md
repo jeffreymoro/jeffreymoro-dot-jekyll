@@ -1,8 +1,10 @@
 ---
 layout: post
 title: On “the Real World”
-comments: true
 topic: <a href="http://www.chronicle.com/article/Missouri-Lawmaker-Who-Wants-to/238886/">“Missouri Lawmaker Who Wants to Eliminate Tenure Says It’s ‘Un-American’”</a>
+tags: 
+- political
+- academia
 ---
 
 The news is a Category 5 shitstorm these days and it's difficult to surface any rage-inducing story for any more than a few moments at a time. One in particular that's driving pins into the back of my eyes is a pair of moves from Missouri and [Iowa to eliminate the concept of tenure in their state university systems](http://www.desmoinesregister.com/story/news/education/2017/01/12/iowa-lawmaker-looking-end-tenure-public-univerisities/96460626/). These moves come on the heels of [Wisconsin's relatively succesful attempts](http://www.npr.org/sections/itsallpolitics/2015/06/12/413995691/wisconsin-gov-walkers-next-battle-tenure) to neuter the concept of "tenure" beyond any utility. These attacks are only going to become more and more common as increasingly Republican-led state legislatures defenstrate the American education system. 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Plastic, Logic, and Time — A Lightning Talk
-comments: true
+tags: 
+- speaking
+- videogames
+- media archaeology
 ---
 
 *This is the blog version of a lightning talk that I've given a few times at Five College Digital Humanities and the Maryland Institute for Technology in the Humanities.*

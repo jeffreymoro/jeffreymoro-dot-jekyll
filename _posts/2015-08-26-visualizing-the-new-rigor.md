@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Visualizing the New Rigor
-comments: false
 customjs:
 - https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js
+tags: 
+- 5colldh
+- visualization
 ---
 
 Back in May, Five College Digital Humanities organized a conference called *The New Rigor*, in which we tackled the question of what kinds of support and evaluation structures would best facilitate making interesting, innovative digital work. The conference was a whole lot of fun, and if you're interested in some of those conversations, I recommend [checking out the conference's website](http://thenewrigor.org), which has documentation and notes out the wazoo. I don't want to talk about evaluating digital projects, though—I want to talk about making silly sproingy toys in Javascript. 

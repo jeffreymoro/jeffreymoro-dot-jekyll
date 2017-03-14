@@ -1,7 +1,8 @@
 ---
 layout: post
 title: On the Virtues of Knockoffs, or, How to Make an Encrypted Journal on Your Computer
-comments: false
+tags: 
+- howto
 ---
 
 I used to use a journal app called [Day One](http://dayoneapp.com). It was a good enough app, given how infrequently I used it. It synced across my devices, it was a pleasing shade of start-up blue, and it was featured often enough in the App Store that I felt reasonably confident that it wasn't going anywhere anytime soon. I put around four hundred entries in it over the course of three or so years. 

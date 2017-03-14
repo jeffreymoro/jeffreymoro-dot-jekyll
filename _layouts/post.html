@@ -4,27 +4,10 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }} • <a href="/blog/index/">Index</a></span>
+  <span class="post-date">{{ page.date | date_to_string }} • <a href="/blog/index/">Index</a> • <em>tagged in {% for tag in page.tags %}<a href="/tags/{{ tag | downcase | replace: ' ', '_' }}/">{{ tag }}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}</em></span>
   {% if page.topic %}<div class="topic">On: {{ page.topic }}</div>{% endif %}
   {{ content }}
 </div>
-
-<!-- Comments, enabled in YAML front matter -->
-{% if page.comments %}
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = 'jeffreymoro';
-    
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-{% endif %}
 
 <div class="related">
   <h2>Recent Posts</h2>
@@ -42,3 +25,6 @@ layout: default
   </ul>
   <h4><a href="/blog/index"><em>Blog Index</em></a></h4>
 </div>
+
+<p class="meta">Tagged in: {% for tag in page.tags %}<code><a href="/tags/{{ tag | downcase | replace: ' ', '_' }}/">{{ tag }}</a></code>{% if forloop.last %}{% else %} {% endif %}{% endfor %}</p>
+

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: On Post-Baccalaureate Residencies
-comments: true
+tags:
+- 5colldh
 ---
 
 Today is my last day as Five College Post-Baccalaureate Resident in Digital Humanities. 

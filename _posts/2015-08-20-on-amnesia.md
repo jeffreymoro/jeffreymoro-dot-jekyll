@@ -1,7 +1,9 @@
 ---
 layout: post
 title: On Amnesia
-comments: false
+tags: 
+- videogames
+- memory
 ---
 > This is a post that I wrote back in the fall of 2014 for [*The Critical Is*](http://gaming.thecritical.is). When setting up this blog, this felt like as good a post as any to port over, given that 1) I'm proud of it and 2) the issues it raises have not gotten any better in the intervening year.
 

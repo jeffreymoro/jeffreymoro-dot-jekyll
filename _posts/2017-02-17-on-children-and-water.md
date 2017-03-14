@@ -2,6 +2,9 @@
 layout: post
 title: On Children and Water
 comments: false
+tags:
+- political
+- anthropocene
 ---
 
 A few interconnected thoughts. 

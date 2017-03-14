@@ -1,7 +1,8 @@
 ---
 layout: post
 title: This is a blog post
-comments: false
+tags: 
+- meta
 ---
 
 Hello! This my blog, and this is a blog post. Welcome: I brought snacks.
