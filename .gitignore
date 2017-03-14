@@ -4,3 +4,6 @@ _drafts
 _site/
 .sass-cache/
 Gemfile.lock
+
+research.html
+_data/research.yaml

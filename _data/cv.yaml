@@ -258,7 +258,7 @@ conference-presentations:
     institution: "Digital Humanities 2017"
     location: Montréal, QC
     date: August 2017
-    type: Panel
+    type: Paper
     event: "The Environmental and Human Costs of DH"
     url: ""
   - title: "Critical Unmaking: DRM, Proprietary Networks, and Versioning Variances in 3-D Printing Technologies"
