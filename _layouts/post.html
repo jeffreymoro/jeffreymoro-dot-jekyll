@@ -25,6 +25,3 @@ layout: default
   </ul>
   <h4><a href="/blog/index"><em>Blog Index</em></a></h4>
 </div>
-
-<p class="meta">Tagged in: {% for tag in page.tags %}<code><a href="/tags/{{ tag | downcase | replace: ' ', '_' }}/">{{ tag }}</a></code>{% if forloop.last %}{% else %} {% endif %}{% endfor %}</p>
-
