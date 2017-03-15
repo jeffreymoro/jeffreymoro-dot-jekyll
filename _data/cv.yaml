@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta: 
-  link: "cv-2017-02-18.pdf"
+  link: "cv-2017-03-14.pdf"
 
 ########### Contact ###########
 contact: 
@@ -255,11 +255,18 @@ other-talks:
 
 conference-presentations:
   - title: "Decaying Plastic Play: Flappy Bird’s Hacked Afterlife as Media Archaeological Praxis"
-    institution: "Digital Humanities 2017"
+    institution: Alliance of Digital Humanities Organizations
     location: Montréal, QC
     date: August 2017
     type: Paper
-    event: "The Environmental and Human Costs of DH"
+    event: "Digital Humanities 2017"
+    url: ""
+  - title: "Surfaces, Standards, Layers, Stacks: Towards a Platform Textuality"
+    institution: Society for Textual Scholarship and MITH
+    location: College Park, MD
+    date: May 2017
+    type: Panel
+    event: "Textual Embodiments"
     url: ""
   - title: "Critical Unmaking: DRM, Proprietary Networks, and Versioning Variances in 3-D Printing Technologies"
     institution: Rutgers-Camden Archive of Digital Ephemera
