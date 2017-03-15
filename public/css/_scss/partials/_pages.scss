@@ -63,6 +63,7 @@
 		left: 1rem;
 		top: 1rem;
 		right: 1rem;
+		//bottom: 0rem;
 	}
 	color: #fff;
 }
@@ -76,23 +77,27 @@
 .row-final {
 	margin-bottom: 2rem;
 }
-.grad1a {
-	background-color: $grad-1a;
+.grad-1 {
+	background-color: $grad-1;
 }
-.grad1b {
-	background-color: $grad-1b;
+.grad-2 {
+	background-color: $grad-2;
 }
-.grad1c {
-	background-color: $grad-1c;
+.grad-3 {
+	background-color: $grad-3;
 }
-.grad1d {
-	background-color: $grad-1d;
+.grad-4 {
+	background-color: $grad-4;
 }
-.grad1e {
-	background-color: $grad-1e;
+.grad-5 {
+	background-color: $grad-5;
 }
-.grad1f {
-	background-color: $grad-1f;
+.grad-6 {
+	background-color: $grad-6;
+}
+
+.research-meta {
+	line-height: 1.2;
 }
 
 // CV

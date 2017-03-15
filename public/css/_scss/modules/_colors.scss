@@ -7,12 +7,20 @@ $accent-color-oncolor: #ffc9a5;
 
 // Gradient
 $blue: #406D9F;
-$grad-1a: desaturate(darken($blue, 10/1), 3);
-$grad-1b: desaturate(darken($blue, 10/2), 1);
-$grad-1c: $blue;
-$grad-1d: desaturate(lighten($blue, 5*1), 1);
-$grad-1e: desaturate(lighten($blue, 5*2), 3);
-$grad-1f: desaturate(lighten($blue, 5*3), 5);
+$grad-1: desaturate(darken($blue, 10/1), 3);
+$grad-2: desaturate(darken($blue, 10/2), 1);
+$grad-3: $blue;
+$grad-4: desaturate(lighten($blue, 5*1), 1);
+$grad-5: desaturate(lighten($blue, 5*2), 3);
+$grad-6: desaturate(lighten($blue, 5*3), 5);
+
+// To calculate the gradient:
+// 1. Put $blue in the middle
+// 2. Count remaining number of desired rows
+// 3. Rows below the middle: 
+//	overall number * incrementing number), odd/even count up to max
+// 4. Rows above the middle:
+//  overall number*2 / decrementing number, odd/even count down from max
 
 // Fonts
 $text-color: #333333;

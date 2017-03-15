@@ -1,0 +1,87 @@
+########### Publications ###########
+publications:
+  - title: 
+    snippet: 
+    journal: 
+    date: 
+    url: 
+
+########### Talks ###########
+
+public:
+  - title: "Decaying Plastic Play: Flappy Bird’s Hacked Afterlife as Media Archaeological Praxis"
+    snippet: 'A short paper using hacks of <i>Flappy Bird</i> and <i>Super Mario World</i> to explore “haunting” as a media archaeological practice, one that exposes fault lines along the circulations of technological waste, supply chains, and resource extractions.'
+    conference: Digital Humanities 2017
+    institution: ADHO
+    location: Montréal, QC
+    date: August 2017
+    panel: The Environmental and Human Costs of DH
+    url: ""
+  - title: "Surfaces, Standards, Layers, Stacks: Towards a Platform Textuality"
+    snippet: 'A panel with Kyle Bickoff and Setsuko Yokoyama on the textuality of platforms. My paper close reads the GitHub repository of Paul Ford’s “What is Code?“ to think through the version control site’s pervasive logics of hypervisibility and auto-surveillance.'
+    conference: Textual Embodiments
+    institution: Society for Textual Scholarship and MITH
+    location: College Park, MD
+    date: May 2017
+    panel: ""
+    url: ""
+  - title: "Critical Unmaking: DRM, Proprietary Networks, and Versioning Variances in 3-D Printing Technologies"
+    snippet: "A deformance/panel with Kye Bickoff, Setsuko Yokoyama, and Andy Yeh engaging 3-D printing technologies across media archaeological and archival registers."
+    conference: R-CADE 2017 Symposium
+    institution: Rutgers-Camden Archive of Digital Ephemera
+    location: Camden, NJ
+    date: April 2017
+    panel: ""
+    url: ""
+  - title: "Roomba in Revolt: Sociability and Securitization in the Internet of Things"
+    snippet: "What can large-scale hackings of Internet of Things devices teach us about what we imagine our relationships with them to be, particularly when our desires for sociability clash with our need to be secure?"
+    conference: Command Lines
+    institution: SIGCIS
+    location: Mountain View, CA
+    date: March 2017
+    panel: "The Fiction of Neutral Tools"
+    url: ""
+  - title: "The Critical Is: Mapping New Approaches to Video Game Criticism"
+    snippet: 'A poster emerging from <a href="http://gaming.thecritical.is">The_Critical_Is</a>, engaging new approaches to critical video game pedagogy.'
+    conference: "HASTAC 2015"
+    institution: Michigan State University
+    location: East Lansing, MI
+    date: May 2015
+    panel: ""
+    url: "http://codex.thecritical.is"
+  - title: "Undergraduate Digital Humanities, Three Ways"
+    snippet: "I was invited to speak at a NERCOMP (Northeast Regional Computing Program) conference called “Emerging Digital Scholars: Undergraduates and Digital Humanities” on strategies Five College Digital Humanities uses to encourage student research and engagement with the digital humanities.R"
+    conference: "Emerging Digital Scholars: Undergraduates and Digital Humanities"
+    institution: NERCOMP
+    location: Norwood, MA
+    date: April 2014
+    panel: ""
+    url: ""
+
+########### Projects ###########
+projects: 
+  - title: The Recirculator
+    snippet: "A web app that lets you randomly check out books that have never before circulated within the Five College library system."
+    role: PI
+    url: "http://recirculator.jeffreymoro.com"
+    date: "2015 – 2016"
+  - title: "E.LIT / NET.ART"
+    snippet: 'An introduction to and exploration of electronic literature and Internet art, comprising pop-up IRL and URL galleries, workshops, and a screening program.'
+    role: Curator & Organizer
+    url: "http://elit.jeffreymoro.com"
+    date: "2013 – 2016"
+  - title: "Still Life in Digital: Black Life, Trauma, and Social Media"
+    snippet: 'In collaboration with <a href="http://mp285.com" target="_blank">Marisa Parham</a>: essays, maps, and interactive visualizations on Black life, trauma, and social media. I wrote about some of my preliminary work with the Twitter API <a href="https://jeffreymoro.com/2015/09/02/on-seeing-through-Twitter/">on my blog here</a>.'
+    role: Collaborator
+    url: "http://stilllife.mp285.com"
+    date: "2015 – 2016"
+  - title: "The_Critical_Is"
+    snippet: 'A project I co-edited exploring new ways of teaching, writing, and thinking about video games and interactive narratives. My collaborators and I presented a poster at <a href="http://www.hastac2015.org" target="blank">HASTAC 2015</a>; I shared the essay <a href="http://codex.thecritical.is/strange-creatures/" target="_blank">“Strange Creatures Made of Memory,”</a> on glitch aesthetics and new possibilities for play. Funded by the <a href="http://ach.org" target="_blank">Association for Computers and the Humanities</a>.'
+    role: PI
+    url: "http://gaming.thecritical.is"
+    date: "2014 – 2015"
+  - title: AIRLab (Aerial Innovation and Robotics Laboratory)
+    snippet: "In collaboration with Jon Caris and Eric Poehler, a hybrid makerspace and workgroup exploring, historicizing, and critiquing creative robotics in the undergraduate classroom and the world at large. Funded by Five College Digital Humanities."
+    role: PI
+    url: "http://airlab.5colldh.org"
+    date: "2014 – 2015"

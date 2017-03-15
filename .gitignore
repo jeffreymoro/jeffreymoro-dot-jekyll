@@ -5,6 +5,4 @@ _site/
 .sass-cache/
 Gemfile.lock
 
-research.md
-_layouts/research-template.html
-_data/research.yaml
+projects.html
