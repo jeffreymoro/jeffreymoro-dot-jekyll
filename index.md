@@ -7,7 +7,7 @@ title: Home
 
 # Hi, I'm Jeffrey Moro.
 
-I'm currently seeking my PhD in English at [University of Maryland, College Park](http://english.umd.edu), where I'm also the Site Manager for [Romantic Circles](https://www.rc.umd.edu), a refereed scholarly website on Romantic-period literature and culture. [In my research](/projects), I work in the digital humanities and digital studies on topics across electronic literature, media archaeology, and software studies. I'm interested in the textual and material history of media forms and technologies, particularly in relationship to political practice, obsolescence, waste, sustainability, infrastructure, and anthropogenic climate change.
+I'm currently seeking my PhD in English at [University of Maryland, College Park](http://english.umd.edu), where I'm also the Site Manager for [Romantic Circles](https://www.rc.umd.edu), a refereed scholarly website on Romantic-period literature and culture. [In my research](/research), I work in the digital humanities and digital studies on topics across electronic literature, media archaeology, and software studies. I'm interested in the textual and material history of media forms and technologies, particularly in relationship to political practice, obsolescence, waste, sustainability, infrastructure, and anthropogenic climate change.
 
 Past lives include: post-baccalaureate resident for [Five College Digital Humanities](http://5colldh.org) and degrees in English and Theater & Dance from [Amherst College](https://www.amherst.edu). 
 
