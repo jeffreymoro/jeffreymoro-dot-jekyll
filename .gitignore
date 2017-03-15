@@ -1,7 +1,8 @@
 .htaccess
 .DS_Store
+_archive
 _drafts
-_site/
+_site
 .sass-cache/
 Gemfile.lock
 
