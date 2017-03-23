@@ -19,7 +19,17 @@
 }
 .shareicon {
 	padding-right: 0.85rem;
-	font-size: 1rem;
+	font-size: 1.4rem !important;
+}
+#searchsite {
+	& form {
+		width: 100%;
+		padding-top: 1em;
+	}
+	& input {
+		width: 100%;
+		font-size: 1rem;
+	}
 }
 
 // Credit
