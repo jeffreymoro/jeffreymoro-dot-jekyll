@@ -17,8 +17,7 @@ public:
     date: August 2017
     panel: The Environmental and Human Costs of DH
     url: ""
-  - title: "Surfaces, Standards, Layers, Stacks: Towards a Platform Textuality"
-  - title: ""
+  - title: "Surfaces, Standards, Layers, Stacks: Toward a Platform Textuality"
     snippet: 'A panel with Kyle Bickoff and Setsuko Yokoyama on the textuality of platforms. My paper close reads the GitHub repository of Paul Ford’s “What is Code?” to think through the version control site’s pervasive logics of hypervisibility and auto-surveillance.'
     conference: Textual Embodiments
     institution: Society for Textual Scholarship and MITH
@@ -26,13 +25,13 @@ public:
     date: May 2017
     panel: ""
     url: ""
-  - title: "Critical Unmaking: DRM, Proprietary Networks, and Versioning Variances in 3-D Printing Technologies"
-    snippet: "A deformance/panel with Kyle Bickoff, Setsuko Yokoyama, and Andy Yeh engaging 3-D printing technologies across media archaeological and archival registers."
+  - title: "What Can and Cannot Kill You, or the Particulates of Computing"
+    snippet: "A deformance/panel with Kyle Bickoff, Setsuko Yokoyama, and Andy Yeh engaging 3-D printing technologies across media archaeological and archival registers. My contribution maps out our sensory relationships with 3-D printed and computational objects."
     conference: R-CADE 2017 Symposium
     institution: Rutgers-Camden Archive of Digital Ephemera
     location: Camden, NJ
     date: April 2017
-    panel: ""
+    panel: "Critical Unmaking"
     url: ""
   - title: "Roomba in Revolt: Sociability and Securitization in the Internet of Things"
     snippet: "What can large-scale hackings of Internet of Things devices teach us about what we imagine our relationships with them to be, particularly when our desires for sociability clash with our need to be secure?"
