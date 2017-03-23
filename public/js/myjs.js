@@ -24,6 +24,9 @@ $(document).ready(function(){
     $("#showheaderhidden1").click(function(){
         $("#headerhidden1").slideToggle();
     });
+    $("#showsearch").click(function(){
+        $("#search").slideToggle();
+    });
   {% for title in site.data.cv.employment %}
     $("#showEmployment{{ forloop.index }}").click(function(){
         $("#employment{{ forloop.index }}").slideToggle();
