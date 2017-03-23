@@ -46,13 +46,13 @@ title: Research
 {% for public in site.data.research.public %}
 	{% if forloop.last == true %}
 		<div class="row row-final grad-{{ forloop.index }} clear">
-			<h3>{{ public.title }}</h3>
+			<h3>“{{ public.title }}”</h3>
 			<p class="research-meta"><small>{{ public.date }}. <i>{{ public.conference }}</i>, {{ public.institution }}, {{ public.location }}{% if public.url == "" %}{% else %} • <a href="{{ public.url }}">{{ public.url }}</a>{% endif %}</small></p>
 			<p>{{ public.snippet }} {% if public.panel == "" %}{% else %}<i>Panel: “{{ public.panel }}.”</i>{% endif %}</p>
 		</div>
 	{% else %}
 		<div class="row grad-{{ forloop.index }} clear">
-			<h3>{{ public.title }}</h3>
+			<h3>“{{ public.title }}”</h3>
 			<p class="research-meta"><small>{{ public.date }}. <i>{{ public.conference }}</i>, {{ public.institution }}, {{ public.location }}{% if public.url == "" %}{% else %} • <a href="{{ public.url }}">{{ public.url }}</a>{% endif %}</small></p>
 			<p>{{ public.snippet }} {% if public.panel == "" %}{% else %}<i>Panel: “{{ public.panel }}.”</i>{% endif %}</p>
 		</div>
