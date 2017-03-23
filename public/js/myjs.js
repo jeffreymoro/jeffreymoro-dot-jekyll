@@ -21,9 +21,6 @@ $(document).ready(function(){
     $("#showmailbox").click(function(){
         $("#mailbox").slideToggle();
     });
-    $("#showsearch").click(function(){
-        $("#search").slideToggle();
-    });
     $("#showheaderhidden1").click(function(){
         $("#headerhidden1").slideToggle();
     });
