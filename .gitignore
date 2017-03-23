@@ -1,9 +1,7 @@
-.htaccess
 .DS_Store
 _archive
 _drafts
 _site
 .sass-cache/
-Gemfile.lock
 
 projects.html
