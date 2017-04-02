@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta: 
-  link: "cv-2017-03-14.pdf"
+  link: "cv-2017-04-02.pdf"
 
 ########### Contact ###########
 contact: 
@@ -186,7 +186,7 @@ guest:
 
 ########### Awards ###########
 awards: 
-  - title: Association for Computers and the Humanities Travel Subvention
+  - title: SIGCIS Travel Subvention
     date: "2017"
     secondary: For SIGCIS 2017
     context: ""
