@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta: 
-  link: "cv-2017-04-02.pdf"
+  link: "cv-2017-04-09.pdf"
 
 ########### Contact ###########
 contact: 
@@ -265,7 +265,7 @@ conference-presentations:
     institution: Society for Textual Scholarship and MITH
     location: College Park, MD
     date: May 2017
-    type: Panel
+    type: Roundtable
     event: "Textual Embodiments"
     url: ""
   - title: "Vapor Ware, or the Particulates of 3D Printing"
