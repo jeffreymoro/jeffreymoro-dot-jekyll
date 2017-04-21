@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta: 
-  link: "cv-2017-04-09.pdf"
+  link: "cv-2017-04-20.pdf"
 
 ########### Contact ###########
 contact: 
@@ -268,7 +268,7 @@ conference-presentations:
     type: Roundtable
     event: "Textual Embodiments"
     url: ""
-  - title: "Vapor Ware, or the Particulates of 3D Printing"
+  - title: "Vapor Ware, or the Odors of 3D Printing"
     institution: Rutgers-Camden Archive of Digital Ephemera
     location: Camden, NJ
     date: April 2017
