@@ -60,6 +60,11 @@ publications:
 
 ########### Projects ###########
 projects: 
+  - title: "E.LIT / NET.ART"
+    role: Curator & Organizer
+    url: "http://elit.jeffreymoro.com"
+    date: "2013 – 2016"
+    context: "An introduction to and exploration of electronic literature and Internet art, comprising pop-up IRL and URL galleries, workshops, and a screening program."
   - title: "The_Critical_Is"
     role: PI
     url: "http://gaming.thecritical.is"
@@ -70,29 +75,24 @@ projects:
     url: "http://airlab.5colldh.org"
     date: "2014 – 2015"
     context: "A hybrid makerspace and workgroup exploring, historicizing, and critiquing creative robotics in the undergraduate classroom and the world at large. Funded by Five College Digital Humanities."
-  - title: The Space of Mexico City
-    role: Consultant
-    url: "http://5colldh.org/spaces-of-mexico-city"
-    date: "2014 – 2015"
-    context: "Researched and advised on the development of Scalar and Omeka platforms for a material cultures and mapping project. Led focus group on undergraduate digital humanities research and pedagogy."
-  - title: "E.LIT / NET.ART"
-    role: Curator & Organizer
-    url: "http://elit.jeffreymoro.com"
-    date: "2013 – 2016"
-    context: "An introduction to and exploration of electronic literature and Internet art, comprising pop-up IRL and URL galleries, workshops, and a screening program."
-
+  
 minor-projects: 
   - title: "Still Life in Digital: Black Life, Trauma, and Social Media"
     role: Collaborator
     url: "http://stilllife.mp285.com"
-    date: "2015 – Present"
+    date: "2015 – 2017"
     context: "In collaboration with Marisa Parham: essays, maps, and interactive visualizations on Black life, trauma, and social media."
   - title: The Recirculator
     role: PI
     url: "http://recirculator.jeffreymoro.com"
     date: "2015 – 2016"
     context: "A web app that lets you randomly check out books that have never before circulated within the Five College library system, and learn more about the collection through data visualizations."
-  
+  - title: The Space of Mexico City
+    role: Consultant
+    url: "http://5colldh.org/spaces-of-mexico-city"
+    date: "2014 – 2015"
+    context: "Researched and advised on the development of Scalar and Omeka platforms for a material cultures and mapping project. Led focus group on undergraduate digital humanities research and pedagogy."
+
 creative:  
   - title: "<i>No Wind Blows Against the Pines</i>"
     title-latex: \emph{No Wind Blows Against the Pines}
@@ -188,7 +188,7 @@ guest:
 awards: 
   - title: SIGCIS Travel Subvention
     date: "2017"
-    secondary: For SIGCIS 2017
+    secondary: "For &ldquo;Command Lines: Software, Power, Performance&rdquo;"
     context: ""
     latex: "SIGCIS 2017"
   - title: Jacob K. Goldhaber Travel Award
