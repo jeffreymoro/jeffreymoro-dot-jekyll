@@ -33,8 +33,7 @@ This is a self-consciously brief and impressionistic talk, one more interested i
 
 One final inhale before we dive down: I have still yet to smell any cake. But I have noticed as I come and go in whatever room this printer's working that the air is different: thicker, perhaps, or more present. It might just me getting accidentally high on fumes. But regardless, I hope you'll indulge me in what is by no means not the last bad pun in this talk, as I follow my nose.
 
-First, let's talk about plastic. 
-
+## Plastic
 The odor of a 3D printer has little to do with the machine itself and everything to do with the material one feeds into it. In 3D printing parlance, this is *filament*, named for its extruded shape. One can make filament out of almost anything, including wood or food, but typical printers—and ours—work with the familiar stuff of 21st century manufacturing: metals and plastics. Mostly the latter, as plastic's pliable at lower, safer temperatures. 
 
 There are a dizzying array of plastics available for commericial use with these printers but you'll generally see options cluster around two materials: acrylonitrile butadiene styrene, or ABS; and polylactic acid, or PLA.[^1] Each has a number of comparative affordances: ABS is more common, tougher, and easier to print; while ABS is cheaper, biodegradable, and maintains a higher color vibrancy. But when our team chose which plastic we wanted to use, we went with a very simple distinction: ABS smells absolutely wretched, and PLA smells like cake. 
@@ -51,8 +50,7 @@ PLA gets to smell nice because it's fundamentally organic in a way that ABS, bei
 
 To follow this scent further: while the manufacturing process for PLA bespeaks local topographies, it would be bad science to claim that the end product bears measurable traces as such. Iterable and replicable processes of refinement, distillation, and polymerization transform organic material into linked chains of molecules that, in their standardization, maintain shape and resist certain forms of degradation. While PLA might be a plastic with an articulable national or regional identity, this identity nevertheless gets subsumed in a rhetoric of standardization—the standardization of global manufacturing, the disciplination of chemistry, or of the .CAD and .COLLADA protocols that map shapefiles that guide how a robot forms and reforms this polymerized tapioca root.
 
-To move now to manufacturing:
-
+## Manufacturing
 In his 2015 book *A Geology of Media*, Jussi Parikka spends a chapter writing about dust.[^4] Dust, he argues, is a useful substrate through which to consider computational media, precisely because it is that-which-is-cast-off-from-it, or collects around it. Dust is a substance that denies itself as such, that constitutes traces of the subsumed, dislocated *labor* that activates our technological cognitive economies. Dust, he writes, entangles itself "in the soft organic tissue of the Chinese worker," by which he asks us to confront the operation of *breath*, and the ways that through such an entanglement, the lungs themselves become terrain upon which late techno-capitalism asserts itself.
 
 [^4]: Parikka, Jussi. “Dust and the Exhausted Life.” *A Geology of Media*, U of Minnesota P, 2015, pp. 83–108. 
@@ -65,6 +63,7 @@ The 3D printer seems to shortcircuit this arrangement, relocating the site of ma
 
 [^5]: On the little we do know about 3D printing toxicities, see Azimi, Parham, et al. “Emissions of Ultrafine Particles and Volatile Organic Compounds from Commercially Available Desktop Three-Dimensional Printers with Multiple Filaments.” *Environmental Science & Technology*, vol. 50, no. 3, Feb. 2016, pp. 1260–68, doi:10.1021/acs.est.5b04983. 
 
+## Sensation
 These two thoughts—that plastics have regional histories subsumed in the standardization of polymerization, which are in turn activated as sensation in the moment of production; and that the 3D printer as an object stages a return of sorts of the *site* of manufacturing, bringing it in miniature into the home itself—ask us to read the 3D printer, as my colleagues have suggested, as embedded within sociocultural systems of exchange, and political operations of production and consumption. I'd like to close with my third and final thought, through which I want to return more explicitly to the operations of smell as a sensation. 
 
 Vapor, like dust, enters our bodies with breath. To return to Parikka's formulation, the coal-stained lung or even, less perniciously, the smells of cake wafting through MITH, evince categories of labor otherwise submerged in the production of media and the shaping of its materiality. Our hands are not just at work, he argues: our *lungs* are at work. 
