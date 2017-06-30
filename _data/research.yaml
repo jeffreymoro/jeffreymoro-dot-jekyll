@@ -24,7 +24,7 @@ public:
     location: College Park, MD
     date: May 2017
     panel: ""
-    url: ""
+    url: "https://jeffreymoro.com/research/2017/sts"
   - title: "Vapor Ware, or the Odors of 3D Printing"
     snippet: "Part of a deformance/panel with Kyle Bickoff, Setsuko Yokoyama, and Andy Yeh engaging 3D printing technologies across media archaeological and archival registers. My contribution uses smell as an entrypoint to explore movements of manufacturing and affect in plastics production."
     conference: R-CADE 2017 Symposium
@@ -32,7 +32,7 @@ public:
     location: Camden, NJ
     date: April 2017
     panel: "Critical Unmaking"
-    url: ""
+    url: "https://jeffreymoro.com/research/2017/rcade"
   - title: "Roomba in Revolt: Sociability and Securitization in the Internet of Things"
     snippet: "What can large-scale hackings of Internet of Things devices teach us about what we imagine our relationships with them to be, particularly when our desires for sociability clash with our need to be secure?"
     conference: Command Lines
@@ -40,7 +40,7 @@ public:
     location: Mountain View, CA
     date: March 2017
     panel: "The Fiction of Neutral Tools"
-    url: ""
+    url: "https://jeffreymoro.com/research/2017/sigcis"
   - title: "The Critical Is: Mapping New Approaches to Video Game Criticism"
     snippet: 'A poster emerging from <a href="http://gaming.thecritical.is">The_Critical_Is</a>, engaging new approaches to critical video game pedagogy.'
     conference: "HASTAC 2015"
