@@ -63,12 +63,12 @@ projects:
   - title: The Recirculator
     snippet: "A web app that lets you randomly check out books that have never before circulated within the Five College library system."
     role: PI
-    url: "http://recirculator.jeffreymoro.com"
+    url: "https://github.com/jeffreymoro/recirculator/"
     date: "2015 – 2016"
   - title: "E.LIT / NET.ART"
     snippet: 'An introduction to and exploration of electronic literature and Internet art, comprising pop-up IRL and URL galleries, workshops, and a screening program.'
     role: Curator & Organizer
-    url: "http://elit.jeffreymoro.com"
+    url: "https://elit.jeffreymoro.com"
     date: "2013 – 2016"
   - title: "Still Life in Digital: Black Life, Trauma, and Social Media"
     snippet: 'In collaboration with <a href="http://mp285.com" target="_blank">Marisa Parham</a>: essays, maps, and interactive visualizations on Black life, trauma, and social media. I wrote about some of my preliminary work with the Twitter API <a href="https://jeffreymoro.com/2015/09/02/on-seeing-through-Twitter/">on my blog here</a>.'

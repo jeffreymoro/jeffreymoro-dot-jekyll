@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta: 
-  link: "cv-2017-06-29.pdf"
+  link: "cv-2017-07-02.pdf"
 
 ########### Contact ###########
 contact: 
@@ -80,7 +80,7 @@ minor-projects:
     context: "In collaboration with Marisa Parham: essays, maps, and interactive visualizations on Black life, trauma, and social media."
   - title: The Recirculator
     role: PI
-    url: "http://recirculator.jeffreymoro.com"
+    url: "https://github.com/jeffreymoro/recirculator/"
     date: "2015 – 2016"
     context: "A web app that lets you randomly check out books that have never before circulated within the Five College library system, and learn more about the collection through data visualizations."
   - title: The Space of Mexico City
