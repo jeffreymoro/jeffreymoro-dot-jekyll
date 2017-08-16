@@ -5,7 +5,7 @@ tags:
 - meta
 ---
 
-Test. Hello! This my blog, and this is a blog post. Welcome: I brought snacks.
+Hello! This my blog, and this is a blog post. Welcome: I brought snacks.
 
 <!-- more -->
 
