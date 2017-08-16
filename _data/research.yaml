@@ -16,7 +16,7 @@ public:
     location: Montréal, QC
     date: August 2017
     panel: The Environmental and Human Costs of DH
-    url: ""
+    url: "https://jeffreymoro.com/research/2017/dh2017"
   - title: "Surfaces, Standards, Layers, Stacks: Toward a Platform Textuality"
     snippet: 'A roundtable with Kyle Bickoff and Setsuko Yokoyama on the textuality of platforms. My paper close reads the GitHub repository of Paul Ford’s “What is Code?” to think through the version control site’s pervasive logics of hypervisibility and auto-surveillance.'
     conference: Textual Embodiments

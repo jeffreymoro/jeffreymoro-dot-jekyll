@@ -4,9 +4,8 @@ title: "Roomba in Revolt: Sociability and Securitization in the Internet of Thin
 date: 2017-03-18
 type: conference paper
 tags: 
-- Internet of Things
-- relations
-- objects
+- internet of things
+- security
 ---
 *This is the text of a talk that I gave at SIGCIS's 2017 conference, "Command Lines: Software, Power, Performance" in Mountain View, CA at the Computer History Museum. I was part of a panel on "The Fiction of Neutral Tools," the video for which you can see here. For those who like to read, a transcript follows.*
 
