@@ -45,4 +45,4 @@ repository: jeffreymoro/jeffreymoro-dot-com
 collections: 
   research:
     output: true
-    permalink: research/:path/
+    permalink: research/:year/:path/
