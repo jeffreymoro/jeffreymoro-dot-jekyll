@@ -19,7 +19,7 @@ I can put that paragraph in block quotes, too:
 
 I also figured out how to include sweet, sweet code: 
 
-{% highlight html linenos %}
+``` html
 <div class="tabsWrapper clear" id="t0">
 <ul class="tabs">
     <li>
@@ -38,7 +38,7 @@ I also figured out how to include sweet, sweet code:
         <a href="#t7">SKILLS</a></li>
 </ul>
 </div>
-{% endhighlight %}
+```
 
 I don't anticipate using that one that much, although it does make me feel *super* cool. 
 

@@ -179,10 +179,10 @@ pre code {
 
 // Rouge / Pygments via Jekyll
 .highlight {
-  margin-left: 1rem;
+  // margin-left: 1rem;
   padding: 1rem;
   margin-bottom: 1rem;
-  font-size: .8rem;
+  font-size: .7rem;
   line-height: 1.4;
   //background-color: #f9f9f9;
   border-radius: .25rem;
@@ -193,7 +193,7 @@ pre code {
   }
 
   .lineno {
-    display: inline-block; // Ensures the null space also isn't selectable
+    // display: inline-block; // Ensures the null space also isn't selectable
     padding-right: .75rem;
     padding-left: .25rem;
     color: white;

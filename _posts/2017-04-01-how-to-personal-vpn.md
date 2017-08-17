@@ -96,25 +96,25 @@ Enter "ssh keys." An ssh key is a pair of files: a private and a public key. The
 
 Click away from your web browser and open up your terminal program. Type in the following: 
 
-{% highlight bash %}
+``` bash
 $ ssh-keygen -t rsa -b 4096
-{% endhighlight %}
+```
 
 This instructs the `ssh-keygen` program built into your computer to generate a key with the *type* RSA (an encryption algorithm) and that's 4096 *bits*. 
 
 It'll then return something like: 
 
-{% highlight bash %}
+``` bash
 $ Enter a file in which to save the key (/Users/you/.ssh/id_rsa): [Press enter]
-{% endhighlight %}
+```
 
 You can ostensibly put the key anywhere on your hard drive but it's easier to just accept the defaults here. It'll also prompt you if you want to include a passphrase as an extra layer of security. I don't, but that's up to you. 
 
 You did it! Now we want to add the *public key* file to your DigitalOcean account. Enter this command: 
 
-{% highlight bash %}
+``` bash
 $ cat ~/.ssh/id_rsa.pub
-{% endhighlight %}
+```
 
 And copy *exactly* what it pops out. (You don't have to copy any trailing spaces at the end.) Now go back over to your browser and go to the settings in your DigitalOcean account: 
 
@@ -133,43 +133,43 @@ Again, the `streisand` documentation is actually relatively straightforward, so 
 
 Some prerequistes: you'll need to install a few command line programs. Annoyingly, the first thing we'll want to do is install a command line program that lets you install command line programs (computer folks are nothing if not obtuse sometimes). On macOS, the best one is called `homebrew`, and you can install it by copying this command into your terminal and hitting "enter": 
 
-{% highlight bash %}
+``` bash
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-{% endhighlight %}
+```
 
 Then we want to install a program called `git`, which does *many* things, but in this case lets us copy the `streisand` files locally. 
 
-{% highlight bash %}
+``` bash
 $ brew install git
-{% endhighlight %}
+```
 
 Now we have to use a slightly different program-that-lets-you-install-things to install more programs (heyo!). This one's called `pip`. Use it like this: 
 
-{% highlight bash %}
+``` bash
 $ sudo pip install pycurl
-{% endhighlight %}
+```
 
 If you get an error that `pip`'s not on your computer, you can install it like this: 
 
-{% highlight bash %}
+``` bash
 $ sudo easy_install pip
-{% endhighlight %}
+```
 
 and then try installing `pycurl` again. 
 
 We then want to install a program called `ansible`, which is root way that `streisand` works: it uses `ansible` to automate the process of provisioning the server and installing all of the VPN programs we want. 
 
-{% highlight bash %}
+``` bash
 $ brew update && brew install ansible
-{% endhighlight %}
+```
 
 Finally, these programs install some useful software to help `ansible` communicate with Digital Ocean. Run these lines one by one: 
 
-{% highlight bash %}
+``` bash
 $ sudo pip install dopy==0.3.5
 $ mkdir -p ~/Library/Python/2.7/lib/python/site-packages
-$ echo '/usr/local/lib/python2.7/site-packages' > ~/Library/Python/2.7/lib/python/site-packages/homebrew.pth
-{% endhighlight %}
+$ echo '/usr/local/lib/python2.7/site-packages' > ~/Library/Python/2.7/lib/
+```
 
 #### b. The Big Shebang
 
@@ -177,9 +177,9 @@ We're ready to *actually install the damn thing* now. Are you wishing you had ju
 
 First, find a place on your computer that you want to keep the files for `streisand` long term. Wherever you squirrel away miscellaneous files would be a good choice, I think. Make a folder called "streisand" there, and then drag that folder to the Terminal icon in your dock. That will orient your terminal into that folder without you having to do much work. Then, we'll copy the program from GitHub: 
 
-{% highlight bash %}
+``` bash
 $ git clone https://github.com/jlund/streisand.git .
-{% endhighlight %}
+```
 
 (That last period is important: it tells `git` to clone all of the files into the current folder, the "streisand" one that we're in right now.)
 
@@ -190,9 +190,9 @@ If for some reason `git` fails, you can always go to [`streisand`'s GitHub page]
 
 Now just type
 
-{% highlight bash %}
+``` bash
 $ ./streisand
-{% endhighlight %}
+```
 
 to run the set-up files!
 

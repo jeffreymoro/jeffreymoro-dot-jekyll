@@ -52,7 +52,7 @@ I quickly became obsessed with the data underneath, with understanding how someo
 
 Here’s one tweet—one of mine, taken from a few days ago: 
 
-{% highlight json linenos %}
+``` json
  {
     "contributors": null, 
     "truncated": false, 
@@ -143,7 +143,7 @@ Here’s one tweet—one of mine, taken from a few days ago:
         "result_type": "recent"
     }
  }
-{% endhighlight %}
+```
 
 It’s overwhelming. It feels like [that episode of *The West Wing*](http://westwing.wikia.com/wiki/Take_Out_the_Trash_Day) when, to bamboozle reporters who ask for internal documents from the President’s office, the Bartlet administration releases *everything*, drowning the press in paper. This 90-line .json is a single tweet. Try working with more than [13 million of them](http://inkdroid.org/2014/08/30/a-ferguson-twitter-archive/).  
 

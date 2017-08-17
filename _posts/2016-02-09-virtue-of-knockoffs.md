@@ -40,43 +40,42 @@ From there, I just put my .md files on the new disk image, and when I'm done wri
 
 But that's not super user-friendly. I mean, none of this is *super* user-friendly: that's why we have apps like Day One. But I can still hack together some knockoff functionality with the help of some carefully chosen shell aliases. 
 
-{% highlight shell linenos %}
-alias journal='hdiutil attach /path/to/journal.sparsebundle; subl --project /Volumes/journal/journal.sublime-project'
-
-alias eject='hdiutil detach /Volumes/journal; rsync -avh /path/to/journal.sparsebundle /path/to/backuplocation'
-{% endhighlight %}
+``` bash
+$ alias journal='hdiutil attach /path/to/journal.sparsebundle; subl --project /Volumes/journal/journal.sublime-project'
+$ alias eject='hdiutil detach /Volumes/journal; rsync -avh /path/to/journal.sparsebundle /path/to/backuplocation'
+```
 
 All this means is: 
 
-{% highlight shell linenos %}
-alias journal=
-{% endhighlight %}
+``` bash
+$ alias journal=
+```
 
 when I type `journal` in the command line application of my choice, it executes all of the following commands sequentially. 
 
-{% highlight shell linenos %}
-hdiutil attach /path/to/journal.sparsebundle; 
-{% endhighlight %}
+``` bash
+$ hdiutil attach /path/to/journal.sparsebundle; 
+```
 
 First, mount my journal to my Desktop (this is the same as if I double-clicked it). The command line will prompt me for my password all on its own. I could also pass the password along with the initial command, but then that would entail putting my password in plain text on my computer, which, no?
 
-{% highlight shell linenos %}
-subl --project /Volumes/journal/journal.sublime-project 
-{% endhighlight %}
+``` bash
+$ subl --project /Volumes/journal/journal.sublime-project 
+```
 
 I made a Sublime Text project that corresponds to my journal entries folder, giving me a GUI of sorts. This command pops that open automatically, saving me the extra clicks to open Sublime Text and load the project. 
 
 Then, when I type `eject`:
 
-{% highlight shell linenos %}
-hdiutil detach /Volumes/journal; 
-{% endhighlight %}
+``` bash
+$ hdiutil detach /Volumes/journal; 
+```
 
 I eject the .sparsebundle, and for kicks:
 
-{% highlight shell linenos %}
-rsync -avh /path/to/journal.sparsebundle /path/to/backuplocation
-{% endhighlight %}
+``` bash
+$ rsync -avh /path/to/journal.sparsebundle /path/to/backuplocation
+```
 
 Use `rsync` to synchronize a copy to another location on my computer, in case something terrible happens. 
 
