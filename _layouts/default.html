@@ -3,12 +3,6 @@
 
   <head>
   {% include head.html %}
-
-  <!-- Custom JavaScript files set in YAML front matter -->
-  {% for js in page.customjs %}
-  <script src="{{ js }}"></script>
-  {% endfor %}
-
   </head>
 
   <body class="theme-base-0c">
@@ -22,6 +16,21 @@
         <p><small><i><a href="https://github.com/jeffreymoro/jeffreymoro-dot-com/commits/master/{{page.path}}"><i class="fa fa-refresh" aria-hidden="true"></i> revision history for this page</a></i></small></p>
       </div>
     </div>
+
+  <!-- JavaScript -->
+  <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+  <script src="/public/js/myjs.js"></script>
+  <script src="/public/js/bigfoot.min.js"></script>
+  <script type="text/javascript">
+            $.bigfoot({
+                actionOriginalFN: "ignore"
+            });
+  </script>
+
+  <!-- Custom JavaScript files set in YAML front matter -->
+  {% for js in page.customjs %}
+  <script src="{{ js }}"></script>
+  {% endfor %}
 
   </body>
 </html>
