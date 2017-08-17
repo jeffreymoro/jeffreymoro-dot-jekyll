@@ -53,6 +53,35 @@
     font-style: italic;
 }
 
+@font-face {
+    font-family: 'Arnhem';
+    src:    url("/assets/fonts/arnhem-regular.woff2") format("woff2"),
+            url("/assets/fonts/arnhem-regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Arnhem';
+    src:    url("/assets/fonts/arnhem-bold.woff2") format("woff2"),
+            url("/assets/fonts/arnhem-bold.woff") format("woff");
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Arnhem';
+    src:    url("/assets/fonts/arnhem-regularitalic.woff2") format("woff2"),
+            url("/assets/fonts/arnhem-regularitalic.woff") format("woff");
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Arnhem';
+    src:    url("/assets/fonts/arnhem-bolditalic.woff2") format("woff2"),
+            url("/assets/fonts/arnhem-bolditalic.woff") format("woff");
+    font-weight: 700;
+    font-style: italic;
+}
+
 .calibre {
 	font-family: "Calibre";
 }
@@ -65,9 +94,13 @@
     font-family: "Crimson";
 }
 
-$primaryfont: Calibre;
-$monospacefont: "Input Mono";
-$essayfont: Crimson;
+.arnhem {
+    font-family: "Arnhem";
+}
+
+$primaryfont: "Calibre", sans-serif;
+$monospacefont: "Input Mono", monospace;
+$essayfont: "Arnhem", "Crimson", serif;
 
 // Fonts Style
 .sidebar-about h1, body, .pagination {
