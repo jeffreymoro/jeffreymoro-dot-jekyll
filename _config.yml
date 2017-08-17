@@ -9,7 +9,6 @@ permalink:        pretty
 title:            Jeffrey Moro
 tagline:          'circuits & dust'
 description:      'circuits & dust'
-baseurl:          /
 url:              https://jeffreymoro.com
 
 paginate:         5
