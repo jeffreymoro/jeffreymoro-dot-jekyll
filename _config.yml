@@ -4,12 +4,11 @@ highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: false
 
 # Setup
 title:            Jeffrey Moro
-tagline:          'electric words & grainy pictures'
-description:      'electric words & <br/> grainy pictures'
+tagline:          'circuits & dust'
+description:      'circuits & dust'
 baseurl:          /
 url:              https://jeffreymoro.com
 
