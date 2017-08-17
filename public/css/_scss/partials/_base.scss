@@ -1,12 +1,1 @@
 @import "modules/all";
-
-// Blog Styles
-.post-date {
-	color: #000;
-	& a {
-		color: $base-color;
-	}
-}
-figcaption {
-	font-style: italic;
-}

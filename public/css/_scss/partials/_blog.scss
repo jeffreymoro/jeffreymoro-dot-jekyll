@@ -1,3 +1,14 @@
+// Blog Styles
+.post-date {
+	color: #000;
+	& a {
+		color: $base-color;
+	}
+}
+figcaption {
+	font-style: italic;
+}
+
 // Pagination padding fix
 .pagination-item {
 	padding-bottom: 1rem !important;
