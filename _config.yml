@@ -36,7 +36,13 @@ kramdown:
       line_numbers: false
     block:
       line_numbers: true
-      start_line: 1      start_line: 1
+      start_line: 1
 
 # GitHub Integration
 repository: jeffreymoro/jeffreymoro-dot-com
+
+# Collections
+collections: 
+  research:
+    output: true
+    permalink: research/:path/
