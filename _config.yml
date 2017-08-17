@@ -28,7 +28,7 @@ plugins: [jekyll-paginate]
 # Markdown
 kramdown:
   smart_quotes: ["lsquo", "rsquo", "ldquo", "rdquo"]
-  input:          GFM
+  input: GFM
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     css_class: 'highlight'
