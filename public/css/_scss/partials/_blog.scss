@@ -73,7 +73,13 @@ h2 {
 	padding-top: 1rem;
 }
 
+// Fixes some code weirdness
 .highlight {
 	margin-left: 0;
 	overflow-x: auto;
+}
+
+// De-greens dates in the chronological archive
+.related-posts li small, .related-posts li a:hover small {
+	color: #333;
 }
