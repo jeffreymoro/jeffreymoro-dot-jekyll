@@ -36,6 +36,9 @@ $(document).ready(function(){
     $("#showProject{{ forloop.index }}").click(function(){
         $("#project{{ forloop.index }}").slideToggle();
     });
+    $("#showMinorProject{{ forloop.index }}").click(function(){
+        $("#minorProject{{ forloop.index }}").slideToggle();
+    });
   {% endfor %}
   {% for title in site.data.cv.creative %}
     $("#showCreative{{ forloop.index }}").click(function(){

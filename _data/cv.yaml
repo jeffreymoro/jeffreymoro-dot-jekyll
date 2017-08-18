@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta: 
-  link: "cv-2017-07-02.pdf"
+  link: "cv-2017-08-18.pdf"
 
 ########### Contact ###########
 contact: 
@@ -43,7 +43,7 @@ employment:
   - title: Post-Baccalaureate Resident in Digital Humanities
     company: Five Colleges, Inc
     location: Amherst, MA
-    second-location: (Appointed at Smith College. Northampton, MA)
+    second-location: (Appointed at Smith College • Northampton, MA)
     date: "2013 – 2016"
     context: "I collaborated with Five College Digital Humanities' faculty director to comprehensively administer a variety of academic programs, events, and grant-funded projects. I managed an Undergraduate Student Fellowship program, an Undergraduate Microgrant program, a Speaker Series, and taught workshops on digital media and digital project management. In short: I kept all the pieces moving so that faculty, staff, and students alike could do innovative work."
 
@@ -58,26 +58,26 @@ publications:
 projects: 
   - title: "E.LIT / NET.ART"
     role: Curator & Organizer
-    url: "http://elit.jeffreymoro.com"
+    url: "https://elit.jeffreymoro.com"
     date: "2013 – 2016"
     context: "An introduction to and exploration of electronic literature and Internet art, comprising pop-up IRL and URL galleries, workshops, and a screening program."
   - title: "The_Critical_Is"
-    role: PI
+    role: PI with Elizabeth Alexander, Criss Guy, and Kimberly Bain
     url: "http://gaming.thecritical.is"
     date: "2014 – 2015"
     context: A workgroup and web publishing concern, exploring critical issues in video games and interactive media. Funded by a microgrant from the Association for Computers and the Humanities."
   - title: AIRLab (Aerial Innovation and Robotics Laboratory)
-    role: PI
+    role: PI with Jon Caris and Eric Poehler
     url: "http://airlab.5colldh.org"
     date: "2014 – 2015"
     context: "A hybrid makerspace and workgroup exploring, historicizing, and critiquing creative robotics in the undergraduate classroom and the world at large. Funded by Five College Digital Humanities."
   
 minor-projects: 
   - title: "Still Life in Digital: Black Life, Trauma, and Social Media"
-    role: Collaborator
+    role: Co-author with Marisa Parham
     url: "http://stilllife.mp285.com"
     date: "2015 – 2017"
-    context: "In collaboration with Marisa Parham: essays, maps, and interactive visualizations on Black life, trauma, and social media."
+    context: "Essays, maps, and interactive visualizations on Black life, trauma, and social media."
   - title: The Recirculator
     role: PI
     url: "https://github.com/jeffreymoro/recirculator/"
@@ -149,10 +149,12 @@ workshop:
     organizer: Organized by Five College Digital Humanities
     location: "Amherst College. Amherst, MA"
     date: AY 2014 – 2015 (6 speakers), AY 2015 – 2016 (5 speakers)
+    url: ""
   - title: Five College Digital Humanities Student Symposia
     organizer: Organized by Five College Digital Humanities
     location: "Smith & Amherst Colleges. Northampton & Amherst, MA"
     date: "April 2014, May 2015, April 2016"
+    url: ""
             
 guest: 
   - title: "ENGL-456: Ghosts in Shells?: Virtuality and Embodiment from Passing to the Posthuman"
@@ -190,7 +192,7 @@ awards:
   - title: Jacob K. Goldhaber Travel Award
     date: "2017"
     secondary: From the University of Maryland, College Park.
-    context: "Jacob K. Goldhaber Travel Grants help defray the expenses incurred by graduate students who are traveling to scholarly, scientific, or professional conferences to present papers, posters, or other scholarly material."
+    context: ""
     latex: "Graduate School, University of Maryland, College Park"
   - title: Flagship Fellowship
     date: "2016 – Present"
@@ -200,12 +202,12 @@ awards:
   - title: Association for Computers and the Humanities Microgrant
     date: "2014 – 2015"
     secondary: 'For &ldquo;The_Critical_Is: Mapping New Approaches to Videogame Pedagogy.&rdquo;'
-    context: ACH Microgrants support small projects engaging computer-assisted humanities research.
+    context: ""
     latex: ""
   - title: Five College Digital Humanities Project Grant
     date: "2014 – 2015"
     secondary: 'For &ldquo;AIRLab (Aerial Innovation and Robotics Laboratory).&rdquo;'
-    context: "5CollDH Faculty/Staff Grants support projects that cultivate the humanities and arts through digital innovation."
+    context: ""
     latex: ""
   - title: Pease (Lane) Research Fellowship for Creative Artists
     date: 2012 – 2013
@@ -222,7 +224,7 @@ awards:
     date: "2012"
     secondary: 'For <i>No Wind Blows Against the Pines</i>'
     secondary-latex: 'For \emph{No Wind Blows Against the Pines}.'
-    context: Call Summer Research Grants support intensive undergraduate research experience during summer terms at Amherst College.
+    context: ""
     latex: Amherst College
 
 ########### Talks ###########
@@ -233,7 +235,7 @@ other-talks:
     date: April 2016
     type: Lightning talk
     event: Five College Digital Humanities Community Showcase
-    url: "https://jeffreymoro.com/2016/05/03/showcase-plastic-logic-time/"
+    url: "/2016/05/03/showcase-plastic-logic-time/"
   - title: "Digital Humanities / Digital Projects"
     institution: UMass Amherst
     location: Amherst, MA
@@ -256,28 +258,28 @@ conference-presentations:
     date: August 2017
     type: Paper
     event: "Digital Humanities 2017"
-    url: ""
+    url: "/research/2017/dh2017/"
   - title: "Surfaces, Standards, Layers, Stacks: Towards a Platform Textuality"
     institution: Society for Textual Scholarship and MITH
     location: College Park, MD
     date: May 2017
     type: Roundtable
     event: "Textual Embodiments"
-    url: ""
+    url: "/research/2017/sts/"
   - title: "Vapor Ware, or the Odors of 3D Printing"
     institution: Rutgers-Camden Archive of Digital Ephemera
     location: Camden, NJ
     date: April 2017
     type: Panel
     event: "R-CADE 2017 Symposium"
-    url: ""
+    url: "/research/2017/rcade/"
   - title: "Roomba in Revolt: Sociability and Securitization in the Internet of Things"
     institution: SIGCIS
     location: Mountain View, CA
     date: March 2017
     type: Paper
     event: "Command Lines: Software, Power, Performance"
-    url: ""
+    url: "/research/2017/sigcis/"
   - title: "The Critical Is: Mapping New Approaches to Video Game Criticism"
     institution: Michigan State University
     location: East Lansing, MI

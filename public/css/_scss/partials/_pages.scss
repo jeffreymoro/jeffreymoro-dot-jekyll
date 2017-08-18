@@ -70,6 +70,7 @@
 .row h3 {
 	margin-top: 0rem;
 	color: #fff;
+	font-size: 1.1rem;
 }
 .row a {
 	color: $accent-color !important;
@@ -110,6 +111,10 @@
 
 .project-header {
 	text-align: center;
+}
+
+.cv-meta {
+	font-size: smaller;
 }
 
 //// Media Queries for Mobile
