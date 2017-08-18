@@ -2,7 +2,7 @@
 layout: post
 title: How to Set Up a Personal VPN on macOS, or Goddamnit I Can't Believe This Is the Sort of Thing We Have to Write These Days
 tags: 
-- howto
+- how to
 ---
 
 *Thorough disclaimer: I am not a security researcher. I am a grad student in the humanities who studies technical systems. I have a general understanding of what I'm talking about here but I'm far from an expert. Throughout I try to link to folks who know a lot more than I do, so that you can see critiques of this process and judge for yourself if/how you might want to implement some of these systems. In essence: caveat emptor.*

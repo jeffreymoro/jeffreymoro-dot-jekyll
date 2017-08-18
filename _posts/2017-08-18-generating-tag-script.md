@@ -2,7 +2,7 @@
 layout: post
 title: Generating Jekyll Tags with a Shell Script
 tags: 
-- howto
+- how to
 - meta
 ---
 
