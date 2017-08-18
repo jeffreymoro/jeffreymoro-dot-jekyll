@@ -11,7 +11,7 @@ tagline:          'circuits & dust'
 description:      'circuits & dust'
 url:              https://jeffreymoro.com
 
-paginate:         5
+paginate:         10
 paginate_path: 	  blog/page:num
 
 # Sass settings
