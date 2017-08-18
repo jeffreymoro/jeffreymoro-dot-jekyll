@@ -6,23 +6,12 @@
     font-size: 0.76rem;
     font-weight: 700;
 }
-#headerhidden1 {
-	position: inline-block;
-    display: none;
-    font-size: 0.76rem;
-    font-weight: 700;
-}
-#search {
-    position: inline-block;
-    display: none;
-    font-size: 0.76rem;
-    font-weight: 700;
-}
 .context {
     position: inline-block;
     display: none;
     border-left: 3px solid $accent-color;
     padding-left: 0.75rem;
+    //margin-top: 0.5rem;
     font-size: smaller;
 }
 .project-url {

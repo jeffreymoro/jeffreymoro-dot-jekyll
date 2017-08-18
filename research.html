@@ -46,15 +46,23 @@ title: Research
 {% for public in site.data.research.public %}
     {% if forloop.last == true %}
         <div class="row row-final grad-{{ forloop.index }} clear">
-            <h3>“{{ public.title }}”</h3>
-            <p class="research-meta"><small>{{ public.date }}. <i>{{ public.conference }}</i>, {{ public.institution }}, {{ public.location }}{% if public.url == "" %}{% else %} • <a href="{{ public.url }}">{{ public.url }}</a>{% endif %}</small></p>
-            <p>{{ public.snippet }} {% if public.panel == "" %}{% else %}<i>Panel: “{{ public.panel }}.”</i>{% endif %}</p>
+            {% if public.url !="" %}
+            <h3><a href="{{ public.url }}">“{{ public.title }}”</a></h3>
+            {% else %}
+            <h3>{{ public.title }}</h3>
+            {% endif %}
+            <p class="research-meta"><small>{{ public.date }}. <i>{{ public.conference }}</i>, {{ public.institution }}, {{ public.location }} • <a id="showPublic{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></small></a></p>
+            <div class="context" id="public{{ forloop.index }}"><p>{{ public.snippet }} {% if public.panel == "" %}{% else %}<i>Panel: “{{ public.panel }}.”</i>{% endif %}{% if public.url == "" %}{% else %} • <a href="{{ public.url }}"><b>Read the talk here.</b></a>{% endif %}</p></div>
         </div>
     {% else %}
         <div class="row grad-{{ forloop.index }} clear">
-            <h3>“{{ public.title }}”</h3>
-            <p class="research-meta"><small>{{ public.date }}. <i>{{ public.conference }}</i>, {{ public.institution }}, {{ public.location }}{% if public.url == "" %}{% else %} • <a href="{{ public.url }}">{{ public.url }}</a>{% endif %}</small></p>
-            <p>{{ public.snippet }} {% if public.panel == "" %}{% else %}<i>Panel: “{{ public.panel }}.”</i>{% endif %}</p>
+            {% if public.url !="" %}
+            <h3><a href="{{ public.url }}">“{{ public.title }}”</a></h3>
+            {% else %}
+            <h3>{{ public.title }}</h3>
+            {% endif %}
+            <p class="research-meta"><small>{{ public.date }}. <i>{{ public.conference }}</i>, {{ public.institution }}, {{ public.location }} • <a id="showPublic{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></small></a></p>
+            <div class="context" id="public{{ forloop.index }}"><p>{{ public.snippet }} {% if public.panel == "" %}{% else %}<i>Panel: “{{ public.panel }}.”</i>{% endif %}{% if public.url == "" %}{% else %} • <a href="{{ public.url }}"><b>Read the talk here.</b></a>{% endif %}</p></div>
         </div>
     {% endif %}
 {% endfor %}
@@ -72,9 +80,17 @@ title: Research
 </div>
 
 {% for projects in site.data.research.projects %}
-    <div class="row grad-{{ forloop.index }} clear">
-        <h3>{{ projects.title }}</h3>
-        <p class="research-meta"><small>{{ projects.date }} <i>{{ project.role }}</i>{% if projects.url == "" %}{% else %} • <a href="{{ projects.url }}">{{ projects.url }}</a>{% endif %}</small></p>
-        <p>{{ projects.snippet }}</p>
-    </div>
+    {% if forloop.last == true %}
+        <div class="row row-final grad-{{ forloop.index }} clear">
+            <h3><a href="{{ projects.url }}">{{ projects.title }}</a></h3>
+            <p class="research-meta"><small>{{ projects.date }} • <i>{{ projects.role }}</i> • <a id="showProjects{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></small></a></p>
+            <div class="context" id="projects{{ forloop.index }}"><p>{{ projects.snippet }} • <a href="{{ projects.url }}"><b>Visit the project.</b></a></p></div>
+        </div>
+    {% else %}
+        <div class="row grad-{{ forloop.index }} clear">
+            <h3><a href="{{ projects.url }}">{{ projects.title }}</a></h3>
+            <p class="research-meta"><small>{{ projects.date }} • <i>{{ projects.role }}</i> • <a id="showProjects{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></small></a></p>
+            <div class="context" id="projects{{ forloop.index }}"><p>{{ projects.snippet }} • <a href="{{ projects.url }}"><b>Visit the project.</b></a></p></div>
+        </div>
+    {% endif %}
 {% endfor %}

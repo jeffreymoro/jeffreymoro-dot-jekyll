@@ -55,5 +55,15 @@ $(document).ready(function(){
         $("#award{{ forloop.index }}").slideToggle();
     });
   {% endfor %}
+  {% for title in site.data.research.public %}
+    $("#showPublic{{ forloop.index }}").click(function(){
+        $("#public{{ forloop.index }}").slideToggle();
+    });
+  {% endfor %}
+  {% for title in site.data.research.projects %}
+    $("#showProjects{{ forloop.index }}").click(function(){
+        $("#projects{{ forloop.index }}").slideToggle();
+    });
+  {% endfor %}
 });
 
