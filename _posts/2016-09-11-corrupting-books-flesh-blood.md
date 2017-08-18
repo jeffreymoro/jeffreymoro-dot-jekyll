@@ -4,6 +4,7 @@ title: Corrupting Books’ Flesh and Blood
 topic: 'de Bury, Richard. <i>The Love of Books: Philobiblon of Richard de Bury.</i> <i>Project Gutenberg</i>. <a href="http://www.gutenberg.org/ebooks/626">www.gutenberg.org/ebooks/626</a>.'
 tags: 
 - text
+- decay
 ---
 
 *I have a lot of writing to do in grad school, and I want to get better about making more of it public. So for regular blog post and short essay assignments, I’m going to syndicate some of them across to my personal blog. Here’s one from* ENGL718C: From Manuscript to Print: Medieval and Early Modern Histories of the Book. 

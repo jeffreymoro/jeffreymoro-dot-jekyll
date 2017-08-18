@@ -2,7 +2,6 @@
 layout: post
 title: Plastic, Logic, and Time — A Lightning Talk
 tags: 
-- speaking
 - videogames
 - media archaeology
 ---

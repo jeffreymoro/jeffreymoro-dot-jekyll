@@ -2,9 +2,8 @@
 layout: post
 title: On electronic literature, Internet art, and digital galleries
 tags:
-- projects
+- blatant self-promotion
 - elit
-- 5colldh
 ---
 
 Over the past few months, I've been working on and off on [elit.jeffreymoro.com](http://elit.jeffreymoro.com), the digital home and instantiation of my *E.LIT / NET.ART* project. And now, after doubling down on the work over the past month, I'm excited to launch it as a useable resource.

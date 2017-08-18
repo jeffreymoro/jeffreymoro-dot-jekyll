@@ -2,7 +2,7 @@
 layout: post
 title: On the Desire to Surround Oneself with Wolves
 tags: 
-- political
+- politics
 ---
 
 Threaded tweets are bad now I guess, and the prevailing wisdom on Twitter seems to be "why are people tweeting when they could be writing blog posts?," which I take as yet another riff on ["you're doing it wrong."](https://theawl.com/youre-doing-it-wrong-b3363f192982#.qfsuifs7v) Particularly with reports of Medium's demise [not really exaggerated at all](https://blog.medium.com/renewing-mediums-focus-98f374a960be#.tkj9k8329) making the space for such thoughts increasingly scarce. That being said, *I do have a blog* so I guess I will kowtow to the times and put these thoughts here rather than as a tweetstorm. With any luck, Twitter won't be around by the time that you read this and then I will come across as prescient rather than contrarian. 

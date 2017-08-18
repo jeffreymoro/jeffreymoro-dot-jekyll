@@ -2,8 +2,8 @@
 layout: post
 title: On Memory Editing, Glitches, and Play
 tags: 
-- videgames
-- memory
+- videogames
+- decay
 ---
 
 

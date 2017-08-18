@@ -2,8 +2,8 @@
 layout: post
 title: On Staying Up Late to Look at Arbitrary Borders
 tags: 
-- political
-- visualizations
+- politics
+- visualization
 ---
 
 When I can't sleep (which is most nights these days) I tend to do a few things:[^1]

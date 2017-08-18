@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Index
-permalink: /blog/index/
+title: Chronological Archive
+permalink: /blog/archive/
 ---
 <h1 class="page-title">{{ page.title }}</h1>
 <hr />
