@@ -2,6 +2,7 @@
 _archive
 _drafts
 _site
+_dev
 .sass-cache/
 .jekyll-metadata
 Gemfile.lock

@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="/assets/img/header-comp.jpg" alt="Jeffrey Moro"/>
+<img src="/assets/img/header.jpg" alt="Jeffrey Moro"/>
 
 # Hi, I'm Jeffrey Moro.
 
