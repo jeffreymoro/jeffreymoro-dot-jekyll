@@ -23,7 +23,8 @@ sass:
 url: https://jeffreymoro.com
 
 # Pagination
-plugins: [jekyll-paginate]
+plugins: 
+  - jekyll-paginate
 
 # Markdown
 kramdown:
@@ -46,3 +47,11 @@ collections:
   research:
     output: true
     permalink: research/:path/
+
+# Excludes
+exclude: 
+  - CNAME
+  - LICENSE.md 
+  - README.md
+  - Gemfile
+  - Gemfile.lock
