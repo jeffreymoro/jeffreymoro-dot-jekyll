@@ -95,7 +95,7 @@ Enter "ssh keys." An ssh key is a pair of files: a private and a public key. The
 
 Click away from your web browser and open up your terminal program. Type in the following: 
 
-``` bash
+``` console
 $ ssh-keygen -t rsa -b 4096
 ```
 
@@ -103,7 +103,7 @@ This instructs the `ssh-keygen` program built into your computer to generate a k
 
 It'll then return something like: 
 
-``` bash
+``` console
 $ Enter a file in which to save the key (/Users/you/.ssh/id_rsa): [Press enter]
 ```
 
@@ -111,7 +111,7 @@ You can ostensibly put the key anywhere on your hard drive but it's easier to ju
 
 You did it! Now we want to add the *public key* file to your DigitalOcean account. Enter this command: 
 
-``` bash
+``` console
 $ cat ~/.ssh/id_rsa.pub
 ```
 
@@ -132,25 +132,25 @@ Again, the `streisand` documentation is actually relatively straightforward, so 
 
 Some prerequistes: you'll need to install a few command line programs. Annoyingly, the first thing we'll want to do is install a command line program that lets you install command line programs (computer folks are nothing if not obtuse sometimes). On macOS, the best one is called `homebrew`, and you can install it by copying this command into your terminal and hitting "enter": 
 
-``` bash
+``` console
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
 Then we want to install a program called `git`, which does *many* things, but in this case lets us copy the `streisand` files locally. 
 
-``` bash
+``` console
 $ brew install git
 ```
 
 Now we have to use a slightly different program-that-lets-you-install-things to install more programs (heyo!). This one's called `pip`. Use it like this: 
 
-``` bash
+``` console
 $ sudo pip install pycurl
 ```
 
 If you get an error that `pip`'s not on your computer, you can install it like this: 
 
-``` bash
+``` console
 $ sudo easy_install pip
 ```
 
@@ -158,13 +158,13 @@ and then try installing `pycurl` again.
 
 We then want to install a program called `ansible`, which is root way that `streisand` works: it uses `ansible` to automate the process of provisioning the server and installing all of the VPN programs we want. 
 
-``` bash
+``` console
 $ brew update && brew install ansible
 ```
 
 Finally, these programs install some useful software to help `ansible` communicate with Digital Ocean. Run these lines one by one: 
 
-``` bash
+``` console
 $ sudo pip install dopy==0.3.5
 $ mkdir -p ~/Library/Python/2.7/lib/python/site-packages
 $ echo '/usr/local/lib/python2.7/site-packages' > ~/Library/Python/2.7/lib/
@@ -176,7 +176,7 @@ We're ready to *actually install the damn thing* now. Are you wishing you had ju
 
 First, find a place on your computer that you want to keep the files for `streisand` long term. Wherever you squirrel away miscellaneous files would be a good choice, I think. Make a folder called "streisand" there, and then drag that folder to the Terminal icon in your dock. That will orient your terminal into that folder without you having to do much work. Then, we'll copy the program from GitHub: 
 
-``` bash
+``` console
 $ git clone https://github.com/jlund/streisand.git .
 ```
 
@@ -189,7 +189,7 @@ If for some reason `git` fails, you can always go to [`streisand`'s GitHub page]
 
 Now just type
 
-``` bash
+``` console
 $ ./streisand
 ```
 
