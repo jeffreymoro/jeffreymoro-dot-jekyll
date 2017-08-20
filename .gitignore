@@ -5,4 +5,3 @@ _site
 _dev
 .sass-cache/
 .jekyll-metadata
-Gemfile.lock
