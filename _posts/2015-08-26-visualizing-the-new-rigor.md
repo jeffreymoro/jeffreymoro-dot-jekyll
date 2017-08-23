@@ -3,6 +3,8 @@ layout: post
 title: Visualizing the New Rigor
 customjs:
 - https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js
+- /public/js/d3sproing.js
+- /public/js/newrigortimeline.js
 tags: 
 - 5colldh
 - visualization
@@ -30,6 +32,3 @@ Hey, would you look at that!
 This is just a slice of all of the tweets, but it encapsulates the majority of all of the tweets tagged with particular color groups, which corresponds nicely to the conference's primary breakout session. It's interesting to see which groups tweeted the most (staff, in orange, are the runaway victors), as well as what themes emerged at different points of the conversation. The most common talking point, as I can see it, is the value of failure, and the challenge of learning how to articulate failure as a useful scholarly practice. This is something that I thought about frequently as I put together this blog post: i.e., the value of repeated (endlessly repeated) failure when trying to get embedded D3 to work in my posts!
 
 If you're interested in the full visualizations, you can check them out over on *The New Rigor's* [website](http://thenewrigor.org), and if you want to see the source code, you can find that on my GitHub under the [newrigor-viz](https://github.com/jeffreymoro/newrigor-viz) repo. I'm currently working on some wordclouds and tweet walls, and will write up another blog post once I get those up and running.
-
-<script src="/public/js/d3sproing.js"></script>
-<script src="/public/js/newrigortimeline.js"></script>
