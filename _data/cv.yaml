@@ -252,6 +252,13 @@ other-talks:
     url: ""
 
 conference-presentations:
+  - title: "Take Only Data, Leave No Footprints"
+    institution: Modern Language Association
+    location: New York City, NY
+    date: January 2018
+    type: Paper
+    event: "MLA 2018"
+    url: ""
   - title: "Decaying Plastic Play: Flappy Bird’s Hacked Afterlife as Media Archaeological Praxis"
     institution: Alliance of Digital Humanities Organizations
     location: Montréal, QC

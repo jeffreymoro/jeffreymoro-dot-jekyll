@@ -9,6 +9,14 @@ publications:
 ########### Talks ###########
 
 public:
+  - title: "Take Only Data, Leave No Footprints"
+    snippet: ""
+    conference: MLA 2018
+    institution: MLA
+    location: New York City, NY
+    date: January 2018
+    panel: "Activist Infrastructures: Vulnerable Collections and Minimal Computing"
+    url: ""
   - title: "Decaying Plastic Play: Flappy Bird’s Hacked Afterlife as Media Archaeological Praxis"
     snippet: 'A short paper using hacks of <i>Flappy Bird</i> and <i>Super Mario World</i> to explore “haunting” as a media archaeological practice, one that exposes fault lines along the circulations of technological waste, supply chains, and resource extractions.'
     conference: Digital Humanities 2017
