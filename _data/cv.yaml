@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta: 
-  link: "cv-2017-09-25.pdf"
+  link: "cv-2017-09-29.pdf"
 
 ########### Contact ###########
 contact: 
@@ -123,7 +123,7 @@ courses:
     date: "Jan. 2015"
     url: "https://elit.jeffreymoro.com/course"
     context: "A week-long course on electronic literature and Internet art, exploring key pieces throughout the medium's history while providing students critical and historical vocabularies for engaging with born-digital work."
-  - title: "Practicing Digital History"
+  - title: "Practicing Digital Humanities"
     location: "Smith College. Northampton, MA"
     date: "Jan. 2014"
     url: ""
@@ -169,18 +169,6 @@ guest:
     date: Spring 2015
     role: TA
     prof: Marisa Parham
-  - title: "ARX-340: Capstone Seminar for the Archives Concentration"
-    institution: Smith College
-    location: Northampton, MA
-    date: Feb. 2015
-    role: Guest lecturer
-    prof: Kelly Anderson
-  - title: "ENGL-338: Shakespeare"
-    institution: Amherst College
-    location: Amherst, MA
-    date: Nov. 2013
-    role: Guest lecturer
-    prof: Anston Bosman
 
 ########### Awards ###########
 awards: 
@@ -243,13 +231,6 @@ other-talks:
     type: Talk
     event: Applied Humanities Learning Lab
     url: ""
-  - title: "The Space of Mexico City"
-    institution: Five College Digital Humanities
-    location: Amherst, MA
-    date: Sept. 2014
-    type: Lightning talk
-    event: Five College Digital Humanities Kickoff Celebration
-    url: ""
 
 conference-presentations:
   - title: "Take Only Data, Leave No Footprints"
@@ -300,20 +281,6 @@ conference-presentations:
     date: April 2014
     type: Talk
     event: "Emerging Digital Scholars: Undergraduates and Digital Humanities"
-    url: ""
-  - title: "After the End: Dissolving <i>No Wind Blows Against the Pines</i>"
-    institution: Amherst College
-    location: Amherst, MA
-    date: April 2013
-    type: Panel
-    event: "Amherst Explorations: A Celebration of Student Research and Creative Work"
-    url: ""
-  - title: "Shakespeare Film and the Media of Translation"
-    institution: Smith College
-    location: Northampton, MA
-    date: Feb. 2013
-    type: Paper
-    event: Five College Film Studies Undergraduate Conference
     url: ""
 
 ########### Membership and Service ###########
