@@ -134,6 +134,14 @@ $essayfont: "Arnhem", "Crimson", serif;
         }
         text-rendering: optimizelegibility;
     }
+    & ol {
+        font-family: $essayfont;
+        @media (min-width: 48em) {
+            font-size: 0.9em;
+            line-height: 1.45rem;
+        }
+        text-rendering: optimizelegibility;
+    }
 }
 body {
     color: $text-color;
