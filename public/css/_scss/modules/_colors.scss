@@ -7,12 +7,13 @@ $accent-color-oncolor: #ffc9a5;
 
 // Gradient
 $blue: #406D9F;
-$grad-1: desaturate(darken($blue, 10/1), 3);
-$grad-2: desaturate(darken($blue, 10/2), 1);
-$grad-3: $blue;
-$grad-4: desaturate(lighten($blue, 5*1), 1);
-$grad-5: desaturate(lighten($blue, 5*2), 3);
-$grad-6: desaturate(lighten($blue, 5*3), 5);
+$grad-1: desaturate(darken($blue, 12/1), 5);
+$grad-2: desaturate(darken($blue, 12/2), 3);
+$grad-3: desaturate(darken($blue, 12/3), 1);
+$grad-4: $blue;
+$grad-5: desaturate(lighten($blue, 6*1), 1);
+$grad-6: desaturate(lighten($blue, 6*2), 3);
+$grad-7: desaturate(lighten($blue, 6*3), 5);
 
 // To calculate the gradient:
 // 1. Put $blue in the middle
