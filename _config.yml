@@ -16,7 +16,7 @@ paginate_path: 	  blog/page:num
 
 # Sass settings
 sass:
-  sass_dir: public/css/_scss
+  sass_dir: assets/css/_scss
   style: compressed
 
 # Full URL for indexing

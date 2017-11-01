@@ -3,8 +3,8 @@ layout: post
 title: Visualizing the New Rigor
 customjs:
 - https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js
-- /public/js/d3sproing.js
-- /public/js/newrigortimeline.js
+- /assets/js/d3sproing.js
+- /assets/js/newrigortimeline.js
 tags: 
 - 5colldh
 - visualization
