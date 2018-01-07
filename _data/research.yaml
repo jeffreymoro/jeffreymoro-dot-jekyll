@@ -1,22 +1,22 @@
 ########### Publications ###########
 publications:
-  - title: 
-    snippet: 
-    journal: 
-    date: 
-    url: 
+  - title:
+    snippet:
+    journal:
+    date:
+    url:
 
 ########### Talks ###########
 
 public:
-  - title: "Take Only Data, Leave No Footprints"
-    snippet: ""
+  - title: "Take Only Data, Leave No Footprints: Cybersecurity as Speculative Paranoia"
+    snippet: "A talk that reads how-to-stay-secure-online guides as paranoid, speculative visions of an internet yet to come."
     conference: MLA 2018
     institution: MLA
     location: New York City, NY
     date: January 2018
     panel: "Activist Infrastructures: Vulnerable Collections and Minimal Computing"
-    url: ""
+    url: "/research/2018/mla2018"
   - title: "Decaying Plastic Play: Flappy Bird’s Hacked Afterlife as Media Archaeological Praxis"
     snippet: 'A short paper using hacks of <i>Flappy Bird</i> and <i>Super Mario World</i> to explore “haunting” as a media archaeological practice, one that exposes fault lines along the circulations of technological waste, supply chains, and resource extractions.'
     conference: Digital Humanities 2017
@@ -67,7 +67,7 @@ public:
     url: ""
 
 ########### Projects ###########
-projects: 
+projects:
   - title: The Recirculator
     snippet: "A web app that lets you randomly check out books that have never before circulated within the Five College library system."
     role: PI
