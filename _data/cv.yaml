@@ -1,11 +1,11 @@
 ---
 ########### Meta ###########
-meta: 
+meta:
   link: "cv-2017-09-29.pdf"
 
 ########### Contact ###########
-contact: 
-  name: 
+contact:
+  name:
     first: Jeffrey
     last: Moro
   url: jeffreymoro.com
@@ -18,7 +18,7 @@ contact:
 profile: "I&rsquo;m a doctoral student in English at the University of Maryland, College Park, where I study the textual and material histories of media technologies. My research engages electronic literature, media archaeology, and software studies, and I have particular interests in obsolescence, sustainability, and infrastructure. I have experience on a wide range of digital humanities projects and am a skilled collaborator in administration, technical development, and public outreach."
 
 ########### Education ###########
-education: 
+education:
   - institution: University of Maryland, College Park
     degree: Ph.D, English
     location: College Park, MD
@@ -31,7 +31,7 @@ education:
     awards: magna cum laude, Phi Beta Kappa
 
 ########### Employment ###########
-employment: 
+employment:
   - title: Site Manager
     company: <i>Romantic Circles</i>
     company-latex: \emph{Romantic Circles}
@@ -54,7 +54,7 @@ publications:
     url:
 
 ########### Projects ###########
-projects: 
+projects:
   - title: "E.LIT / NET.ART"
     role: Curator & Organizer
     url: "https://elit.jeffreymoro.com"
@@ -70,8 +70,8 @@ projects:
     url: "http://airlab.5colldh.org"
     date: "2014 – 2015"
     context: "A hybrid makerspace and workgroup exploring, historicizing, and critiquing creative robotics in the undergraduate classroom and the world at large. Funded by Five College Digital Humanities."
-  
-minor-projects: 
+
+minor-projects:
   - title: "Still Life in Digital: Black Life, Trauma, and Social Media"
     role: Co-author with Marisa Parham
     url: "http://stilllife.mp285.com"
@@ -88,7 +88,7 @@ minor-projects:
     date: "2014 – 2015"
     context: "Researched and advised on the development of Scalar and Omeka platforms for a material cultures and mapping project. Led focus group on undergraduate digital humanities research and pedagogy."
 
-creative:  
+creative:
   - title: "<i>No Wind Blows Against the Pines</i>"
     title-latex: \emph{No Wind Blows Against the Pines}
     role: "Director & Author"
@@ -111,7 +111,7 @@ creative:
     location: Environs of Amherst, MA
 
 ########### Courses and Workshops ###########
-courses: 
+courses:
   - title: "Media Archaeology, Climate Change, and the Digital (Non)humanities"
     location: "Smith & Amherst Colleges. Northampton & Amherst, MA"
     date: "Jan. 2016"
@@ -127,7 +127,7 @@ courses:
     date: "Jan. 2014"
     url: ""
     context: "A week-long course on planning, managing, and executing digital research projects."
-    
+
 workshop:
   - title: "The New Rigor: Linking digital scholarship to useful structures of support & evaluation"
     organizer: Five College Digital Humanities
@@ -154,8 +154,8 @@ workshop:
     location: "Smith & Amherst Colleges. Northampton & Amherst, MA"
     date: "April 2014, May 2015, April 2016"
     url: ""
-            
-guest: 
+
+guest:
   - title: "ENGL-456: Ghosts in Shells?: Virtuality and Embodiment from Passing to the Posthuman"
     institution: Amherst College
     location: Amherst, MA
@@ -170,7 +170,7 @@ guest:
     prof: Marisa Parham
 
 ########### Awards ###########
-awards: 
+awards:
   - title: SIGCIS Travel Subvention
     date: "2017"
     secondary: "For &ldquo;Command Lines: Software, Power, Performance&rdquo;"
@@ -232,13 +232,13 @@ other-talks:
     url: ""
 
 conference-presentations:
-  - title: "Take Only Data, Leave No Footprints"
+  - title: "Take Only Data, Leave No Footprints: Cybersecurity as Speculative Paranoia"
     institution: Modern Language Association
     location: New York City, NY
     date: January 2018
     type: Paper
     event: "MLA 2018"
-    url: ""
+    url: "/research/2018/mla2018"
   - title: "Decaying Plastic Play: Flappy Bird’s Hacked Afterlife as Media Archaeological Praxis"
     institution: Alliance of Digital Humanities Organizations
     location: Montréal, QC
@@ -283,20 +283,20 @@ conference-presentations:
     url: ""
 
 ########### Membership and Service ###########
-membership: 
+membership:
   - title: "Modern Language Association"
     year: "2017 – Present"
   - title: "Association for Computers and the Humanities"
     year: "2017 – Present"
   - title: "Society for Textual Scholarship"
     year: "2017 – Present"
-service: 
+service:
   - title: "Technology Chair"
     institution: "Graduate English Organization"
     year: "2017 – Present"
 
 ########### Skills ###########
-skills: 
+skills:
   - title: "Webdev"
     things: "HTML, CSS/SASS, PHP, cPanel, twarc, CartoDB, Jekyll, Javascript, Twitter API, D3.js"
   - title: "Social Media & Branding"
