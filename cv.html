@@ -22,8 +22,8 @@ title: CV
         <a href="#t8">DIGITAL PROJECTS</a></li>
     <li>
         <a href="#t9">MEMBERSHIP + SERVICE</a></li>
-    <li>
-        <a href="#t10">CREATIVE</a></li>
+<!--<li>
+        <a href="#t10">CREATIVE</a></li>-->
     <li>
         <a href="#t11">SKILLS</a></li>
     <li id="pdftab">
@@ -57,7 +57,7 @@ title: CV
 {% for title in site.data.cv.employment %}
     <div class="one-fourth column-bottom clear subcat">{{ title.date }}</div>
     <div class="three-fourths column-last column-bottom clear">
-        <b>{{ title.title }}</b> • <a id="showEmployment{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a><br/> 
+        <b>{{ title.title }}</b> • <a id="showEmployment{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a><br/>
         <span class="cv-meta">{{ title.company }} • {{ title.location }}
         {% if title.second-location == "" %}
         {% else %}
@@ -68,13 +68,13 @@ title: CV
 {% endfor %}
 </div>
 
-<!-- 4: Publications 
+<!-- 4: Publications
 <div class="clear">
 <h2><span id="t4"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Publications</h2>
 {% for title in site.data.cv.publications %}
 
 {% endfor %}
-</div> 
+</div>
 -->
 
 <!-- 5: Talks -->
@@ -136,7 +136,7 @@ title: CV
         <div class="one-fourth column-bottom clear subcat">{{ title.date }}</div>
         <div class="three-fourths column-last column-bottom clear">
             {% if title.context !="" %}
-                <b>{{ title.title }}</b> 
+                <b>{{ title.title }}</b>
                  • <a id="showAward{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a><br/>
                 <span class="cv-meta">{{ title.secondary }}</span><br/>
                 <div class="context" id="award{{ forloop.index }}">{{ title.context }}</div>
@@ -160,7 +160,7 @@ title: CV
                 <a href="{{ title.url }}" target="_blank"><b>{{ title.title }}</b></a>
             {% else %}
                 <b>{{ title.title }}</b>
-            {% endif %} 
+            {% endif %}
              • <a id="showCourse{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a><br/>
             <span class="cv-meta">{{ title.date }} • {{ title.location }}</span>
             <div class="context" id="course{{ forloop.index }}">{{ title.context }}</div>
@@ -172,7 +172,7 @@ title: CV
                 <a href="{{ title.url }}" target="_blank"><b>{{ title.title }}</b></a>
             {% else %}
                 <b>{{ title.title }}</b>
-            {% endif %} 
+            {% endif %}
              • <a id="showCourse{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a><br/>
             <span class="cv-meta">{{ title.date }} • {{ title.location }}</span>
             <div class="context" id="course{{ forloop.index }}">{{ title.context }}</div>
@@ -188,7 +188,7 @@ title: CV
                 <a href="{{ title.url }}" target="_blank"><b>{{ title.title }}</b></a>
             {% else %}
                 <b>{{ title.title }}</b>
-            {% endif %} <br/> 
+            {% endif %} <br/>
             <span class="cv-meta">{{ title.date }} • {{ title.location }}</span>
         </div>
     {% else %}
@@ -198,7 +198,7 @@ title: CV
                 <a href="{{ title.url }}" target="_blank"><b>{{ title.title }}</b></a>
             {% else %}
                 <b>{{ title.title }}</b>
-            {% endif %} <br/> 
+            {% endif %} <br/>
             <span class="cv-meta">{{ title.date }} • {{ title.location }}</span>
         </div>
     {% endif %}
@@ -208,13 +208,13 @@ title: CV
     {% if forloop.index == 1 %}
         <div class="one-fourth column-bottom clear subcat">Guest Lecture & TA</div>
         <div class="three-fourths column-last column-bottom clear">
-            <b>{{ title.title }}</b><br/> 
+            <b>{{ title.title }}</b><br/>
             <span class="cv-meta">{{ title.date }} • {{ title.institution }} • {{ title.location }} • {{ title.role }} • Taught by {{ title.prof }}.</span>
         </div>
     {% else %}
         <div class="one-fourth column-bottom clear subcat"></div>
         <div class="three-fourths column-last column-bottom clear">
-            <b>{{ title.title }}</b><br/> 
+            <b>{{ title.title }}</b><br/>
             <span class="cv-meta">{{ title.date }} • {{ title.institution }} • {{ title.location }} • {{ title.role }} • Taught by {{ title.prof }}.</span>
         </div>
     {% endif %}
@@ -263,7 +263,7 @@ title: CV
             </div>
 </div>
 
-<!-- 10: Creative -->
+<!-- 10: Creative
 <div class="clear">
 <h2><span id="t10"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Creative</h2>
 
@@ -275,11 +275,11 @@ title: CV
         {% else %}
             <b><em>{{ title.title }}</em></b>
         {% endif %}
-         • <a id="showCreative{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a><br/> 
+         • <a id="showCreative{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a><br/>
         <span class="cv-meta">{{ title.role }}</span>
         <div class="context" id="creative{{ forloop.index }}">{{ title.context }}</div>
     </div>
-{% endfor %}
+{% endfor %} dotf-->
 
 
 <!-- 11: Skills -->

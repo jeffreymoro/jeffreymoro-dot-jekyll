@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2017-09-29.pdf"
+  link: "cv-2018-03-20.pdf"
 
 ########### Contact ###########
 contact:
@@ -15,7 +15,7 @@ contact:
   keybase: keybase.io/jeffreymoro
 
 ########### Profile ###########
-profile: "I&rsquo;m a doctoral student in English at the University of Maryland, College Park, where I study the textual and material histories of media technologies. My research engages electronic literature, media archaeology, and software studies, and I have particular interests in obsolescence, sustainability, and infrastructure. I have experience on a wide range of digital humanities projects and am a skilled collaborator in administration, technical development, and public outreach."
+profile: "I&rsquo;m a doctoral student in English at the University of Maryland, College Park, where I work in the digital humanities and digital studies on topics across media archaeology, infrastructure, and the politics of networks and security. My research focuses on digital studies’ relationship to the Anthropocene and questions of speculation, futurity, and ecology."
 
 ########### Education ###########
 education:
@@ -38,13 +38,13 @@ employment:
     location: College Park, MD
     second-location: ""
     date: "2016 – Present"
-    context: ""
+    context: "I managed the intake and processing of site content for the oldest digital scholarly journal for Romantic literary studies. This included everything from corresponding with editors and contributors, copyediting essays, marking up work in TEI, and deploying content to a Drupal environment. With our technical editor, I executed a comprehensive redesign of the site and authored white papers on directions it might take in the future."
   - title: Post-Baccalaureate Resident in Digital Humanities
     company: Five Colleges, Inc
     location: Amherst, MA
     second-location: (Appointed at Smith College • Northampton, MA)
     date: "2013 – 2016"
-    context: "I collaborated with Five College Digital Humanities' faculty director to comprehensively administer a variety of academic programs, events, and grant-funded projects. I managed an Undergraduate Student Fellowship program, an Undergraduate Microgrant program, a Speaker Series, and taught workshops on digital media and digital project management. In short: I kept all the pieces moving so that faculty, staff, and students alike could do innovative work."
+    context: "I collaborated with Five College Digital Humanities' faculty director to administer a variety of academic programs, events, and grant-funded projects. I managed an Undergraduate Student Fellowship program, an Undergraduate Microgrant program, a Speaker Series, and taught workshops on digital media and digital project management. In short: I kept all the pieces moving so that faculty, staff, and students alike could do innovative work."
 
 ########### Publications ###########
 publications:
