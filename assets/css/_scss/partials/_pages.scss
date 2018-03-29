@@ -104,6 +104,14 @@
 	line-height: 1.2;
 }
 
+// Front Page
+
+.selfie {
+	width: 45%;
+	padding-top: 20px;
+	padding-right: 30px;
+}
+
 // CV
 
 //// Styles
@@ -133,12 +141,7 @@
 		float: none;
 		width: 100%;
 	}
-}
-
-// Front Page
-
-.selfie {
-	width: 45%;
-	padding-top: 20px;
-	padding-right: 30px;
+	.selfie {
+		width: 100%;
+	}
 }
