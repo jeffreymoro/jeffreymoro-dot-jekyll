@@ -10,8 +10,8 @@ title: CV
         <a href="#t2">EDUCATION</a></li>
     <li>
         <a href="#t3">EMPLOYMENT</a></li>
-<!--<li>
-        <a href="#t4">PUBLICATIONS</a></li> -->
+    <!--<li>
+        <a href="#t4">WRITING</a></li>-->
     <li>
         <a href="#t5">IN PUBLIC</a></li>
     <li>
@@ -68,21 +68,29 @@ title: CV
 {% endfor %}
 </div>
 
-<!-- 4: Publications
+<!-- 4: Writing
 <div class="clear">
-<h2><span id="t4"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Publications</h2>
-{% for title in site.data.cv.publications %}
+<h2><span id="t4"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Writing</h2>
 
+<span class="project-header"><h5>— Web —</h5></span>
+
+{% for title in site.data.cv.web %}
+        <div class="one-fourth column-bottom clear subcat">{{ title.year }}</div>
+        <div class="three-fourths column-last column-bottom clear">
+            <a href="{{ title.url }}" target="_blank"><b>&ldquo;{{ title.title }}&rdquo;</b><br/></a>
+            <span class="cv-meta">{{ title.date }} • <i>{{ title.venue }}</i></span>
+        </div>
 {% endfor %}
 </div>
--->
 
 <!-- 5: Talks -->
 <div class="clear">
 <h2><span id="t5"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> In Public</h2>
+
+<span class="project-header"><h5>— <a href="/research/#t2">Conferences</a> —</h5></span>
+
     {% for title in site.data.cv.conference-presentations %}
-        {% if forloop.index == 1 %}
-            <div class="one-fourth column-bottom clear subcat"><a href="/research/#t2">Conference presentations & panels</a></div>
+            <div class="one-fourth column-bottom clear subcat">{{ title.year }}</div>
             <div class="three-fourths column-last column-bottom clear">
                 {% if title.url !="" %}
                     <a href="{{ title.url }}" target="_blank"><b>&ldquo;{{ title.title }}&rdquo;</b><br/></a>
@@ -91,42 +99,8 @@ title: CV
                 {% endif %}
                 <span class="cv-meta">{{ title.date }} • {{ title.institution }} • {{ title.location }} • {{ title.type }}, <i>{{ title.event }}</i></span>
             </div>
-        {% else %}
-            <div class="one-fourth column-bottom clear subcat"></div>
-            <div class="three-fourths column-last column-bottom clear">
-                {% if title.url !="" %}
-                    <a href="{{ title.url }}" target="_blank"><b>&ldquo;{{ title.title }}&rdquo;</b><br/></a>
-                {% else %}
-                    <b>&ldquo;{{ title.title }}&rdquo;</b><br/>
-                {% endif %}
-                <span class="cv-meta">{{ title.date }} • {{ title.institution }} • {{ title.location }} • {{ title.type }}, <i>{{ title.event }}</i></span>
-            </div>
-        {% endif %}
     {% endfor %}
 
-    {% for title in site.data.cv.other-talks %}
-        {% if forloop.index == 1 %}
-            <div class="one-fourth column-bottom clear subcat">Other Talks</div>
-            <div class="three-fourths column-last column-bottom clear">
-                {% if title.url !="" %}
-                    <a href="{{ title.url }}" target="_blank"><b>&ldquo;{{ title.title }}&rdquo;</b><br/></a>
-                {% else %}
-                    <b>&ldquo;{{ title.title }}&rdquo;</b><br/>
-                {% endif %}
-                <span class="cv-meta">{{ title.date }} • {{ title.institution }} • {{ title.location }} • {{ title.type }} • <i>{{ title.event }}</i></span>
-            </div>
-        {% else %}
-            <div class="one-fourth column-bottom clear subcat"></div>
-            <div class="three-fourths column-last column-bottom clear">
-                {% if title.url !="" %}
-                    <a href="{{ title.url }}" target="_blank"><b>&ldquo;{{ title.title }}&rdquo;</b><br/></a>
-                {% else %}
-                    <b>&ldquo;{{ title.title }}&rdquo;</b><br/>
-                {% endif %}
-                <span class="cv-meta">{{ title.date }} • {{ title.institution }} • {{ title.location }} • {{ title.type }} • <i>{{ title.event }}</i><br/></span>
-            </div>
-        {% endif %}
-    {% endfor %}
 </div>
 
 <!-- 6: Awards -->
@@ -152,73 +126,34 @@ title: CV
 <div class="clear">
 <h2><span id="t7"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Teaching + Events</h2>
 
+<span class="project-header"><h5>— Courses Taught —</h5></span>
+
 {% for title in site.data.cv.courses %}
-    {% if forloop.index == 1 %}
-        <div class="one-fourth column-bottom clear subcat">Courses taught</div>
+        <div class="one-fourth column-bottom clear subcat">{{ title.date }}</div>
         <div class="three-fourths column-last column-bottom clear">
             {% if title.url !="" %}
                 <a href="{{ title.url }}" target="_blank"><b>{{ title.title }}</b></a>
             {% else %}
                 <b>{{ title.title }}</b>
-            {% endif %}
-             • <a id="showCourse{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a><br/>
-            <span class="cv-meta">{{ title.date }} • {{ title.location }}</span>
-            <div class="context" id="course{{ forloop.index }}">{{ title.context }}</div>
+            {% endif %} <br/>
+            <span class="cv-meta">{{ title.location }}</span>
         </div>
-    {% else %}
-        <div class="one-fourth column-bottom clear subcat"></div>
-        <div class="three-fourths column-last column-bottom clear">
-            {% if title.url !="" %}
-                <a href="{{ title.url }}" target="_blank"><b>{{ title.title }}</b></a>
-            {% else %}
-                <b>{{ title.title }}</b>
-            {% endif %}
-             • <a id="showCourse{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a><br/>
-            <span class="cv-meta">{{ title.date }} • {{ title.location }}</span>
-            <div class="context" id="course{{ forloop.index }}">{{ title.context }}</div>
-        </div>
-    {% endif %}
 {% endfor %}
+
+<span class="project-header"><h5>— Workshops Led & Events Organized —</h5></span>
 
 {% for title in site.data.cv.workshop %}
-    {% if forloop.index == 1 %}
-        <div class="one-fourth column-bottom clear subcat">Workshops led & Events organized</div>
+        <div class="one-fourth column-bottom clear subcat">{{ title.date }}</div>
         <div class="three-fourths column-last column-bottom clear">
             {% if title.url !="" %}
                 <a href="{{ title.url }}" target="_blank"><b>{{ title.title }}</b></a>
             {% else %}
                 <b>{{ title.title }}</b>
             {% endif %} <br/>
-            <span class="cv-meta">{{ title.date }} • {{ title.location }}</span>
+            <span class="cv-meta">{{ title.location }}</span>
         </div>
-    {% else %}
-        <div class="one-fourth column-bottom clear subcat"></div>
-        <div class="three-fourths column-last column-bottom clear">
-            {% if title.url !="" %}
-                <a href="{{ title.url }}" target="_blank"><b>{{ title.title }}</b></a>
-            {% else %}
-                <b>{{ title.title }}</b>
-            {% endif %} <br/>
-            <span class="cv-meta">{{ title.date }} • {{ title.location }}</span>
-        </div>
-    {% endif %}
 {% endfor %}
 
-{% for title in site.data.cv.guest %}
-    {% if forloop.index == 1 %}
-        <div class="one-fourth column-bottom clear subcat">Guest Lecture & TA</div>
-        <div class="three-fourths column-last column-bottom clear">
-            <b>{{ title.title }}</b><br/>
-            <span class="cv-meta">{{ title.date }} • {{ title.institution }} • {{ title.location }} • {{ title.role }} • Taught by {{ title.prof }}.</span>
-        </div>
-    {% else %}
-        <div class="one-fourth column-bottom clear subcat"></div>
-        <div class="three-fourths column-last column-bottom clear">
-            <b>{{ title.title }}</b><br/>
-            <span class="cv-meta">{{ title.date }} • {{ title.institution }} • {{ title.location }} • {{ title.role }} • Taught by {{ title.prof }}.</span>
-        </div>
-    {% endif %}
-{% endfor %}
 </div>
 
 <!-- 8: Digital Projects -->
