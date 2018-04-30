@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2018-04-22.pdf"
+  link: "cv-2018-04-30.pdf"
 
 ########### Contact ###########
 contact:
@@ -59,11 +59,11 @@ edited:
 journals:
 
 web:
-  - title: "Test"
-    venue: "Test"
-    date: "Test"
+  - title: "Weird Ways of Seeing: Patrick Nagatani’s Nuclear Vision"
+    venue: "Los Angeles Review of Books"
+    date: "Forthcoming"
     year: "2018"
-    url: "Test"
+    url: ""
 
 other:
 
@@ -283,9 +283,9 @@ membership:
   - title: "Association for Computers and the Humanities"
     year: "2017–Present"
 service:
-  #- title: "President"
-  #  institution: "UMD Graduate English Organization"
-  #  year: "2018–Present"
+  - title: "President"
+    institution: "UMD Graduate English Organization"
+    year: "2018–Present"
   - title: "Technology Chair"
     institution: "UMD Graduate English Organization"
     year: "2017–18"
