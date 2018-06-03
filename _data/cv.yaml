@@ -61,9 +61,9 @@ journals:
 web:
   - title: "Weird Ways of Seeing: Patrick Nagatani’s Nuclear Vision"
     venue: "Los Angeles Review of Books"
-    date: "Forthcoming"
+    date: "2 June"
     year: "2018"
-    url: ""
+    url: "https://lareviewofbooks.org/article/weird-ways-of-seeing-patrick-nagatanis-nuclear-vision/"
 
 other:
 
@@ -74,7 +74,7 @@ conference-presentations:
   - title: "Take Only Data, Leave No Footprints: Cybersecurity as Speculative Paranoia"
     institution: Modern Language Association
     location: New York City, NY
-    date: Jan. 4–7
+    date: 4–7 Jan.
     year: 2018
     type: Paper
     event: "MLA 2018"
@@ -83,7 +83,7 @@ conference-presentations:
   - title: "Decaying Plastic Play: Flappy Bird’s Hacked Afterlife as Media Archaeological Praxis"
     institution: Alliance of Digital Humanities Organizations
     location: Montréal, QC
-    date: Aug. 8–11
+    date: 8–11 Aug.
     year: 2017
     type: Paper
     event: "Digital Humanities 2017"
@@ -91,7 +91,7 @@ conference-presentations:
   - title: "Surfaces, Standards, Layers, Stacks: Towards a Platform Textuality"
     institution: Society for Textual Scholarship and MITH
     location: College Park, MD
-    date: May 31 – June 1
+    date: 31 May – 1 June
     year: "&nbsp;"
     type: Roundtable
     event: "Textual Embodiments"
@@ -99,7 +99,7 @@ conference-presentations:
   - title: "Vapor Ware, or the Odors of 3D Printing"
     institution: Rutgers-Camden Archive of Digital Ephemera
     location: Camden, NJ
-    date: April 21
+    date: 21 April
     year: "&nbsp;"
     type: Panel
     event: "R-CADE 2017 Symposium"
@@ -107,7 +107,7 @@ conference-presentations:
   - title: "Roomba in Revolt: Sociability and Securitization in the Internet of Things"
     institution: SIGCIS
     location: Mountain View, CA
-    date: March 18–19
+    date: 18–19 March
     year: "&nbsp;"
     type: Paper
     event: "Command Lines: Software, Power, Performance"
@@ -116,7 +116,7 @@ conference-presentations:
   - title: "The Critical Is: Mapping New Approaches to Video Game Criticism"
     institution: Michigan State University
     location: East Lansing, MI
-    date: May 27–30
+    date: 27-30 May
     year: 2015
     type: Poster
     event: "HASTAC 2015: The Art and Science of Digital Humanities"
@@ -125,7 +125,7 @@ conference-presentations:
   - title: "Undergraduate Digital Humanities, Three Ways"
     institution: NERCOMP
     location: Norwood, MA
-    date: April 10
+    date: 10 April
     year: 2014
     type: Talk
     event: "Emerging Digital Scholars: Undergraduates and Digital Humanities"
