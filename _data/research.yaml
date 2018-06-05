@@ -76,10 +76,10 @@ projects:
   - title: "E.LIT / NET.ART"
     snippet: 'An introduction to and exploration of electronic literature and Internet art, comprising pop-up IRL and URL galleries, workshops, and a screening program.'
     role: Curator & Organizer
-    url: "https://elit.jeffreymoro.com"
+    url: "//elit.jeffreymoro.com"
     date: "2013 – 2016"
   - title: "Still Life in Digital: Black Life, Trauma, and Social Media"
-    snippet: 'Essays, maps, and interactive visualizations on Black life, trauma, and social media. I wrote about some of my preliminary work with the Twitter API <a href="https://jeffreymoro.com/2015/09/02/on-seeing-through-Twitter/">on my blog here</a>.'
+    snippet: 'Essays, maps, and interactive visualizations on Black life, trauma, and social media. I wrote about some of my preliminary work with the Twitter API <a href="/2015/09/02/on-seeing-through-Twitter/">on my blog here</a>.'
     role: Co-author with <a href="http://mp285.com" target="_blank">Marisa Parham</a>
     url: "http://stilllife.mp285.com"
     date: "2015 – 2016"
