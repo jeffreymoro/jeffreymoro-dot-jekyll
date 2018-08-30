@@ -71,11 +71,19 @@ other:
 
 conference-presentations:
   ### 2018 ###
+  - title: "Want of Water, Want of Data: The Trans-Atlantic Slave Trade Database and Oceanic Computing"
+    institution: SIGCIS
+    location: St. Louis, MO
+    date: 14 Oct.
+    year: 2018
+    type: Paper
+    event: "Stored in Memory: The 10th Annual SIGCIS Conference"
+    url: ""
   - title: "Take Only Data, Leave No Footprints: Cybersecurity as Speculative Paranoia"
     institution: Modern Language Association
     location: New York City, NY
     date: 4–7 Jan.
-    year: 2018
+    year: "&nbsp;"
     type: Paper
     event: "MLA 2018"
     url: "/research/2018/mla2018"
@@ -277,11 +285,6 @@ minor-projects:
     context: "Researched and advised on the development of Scalar and Omeka platforms for a material cultures and mapping project. Led focus group on undergraduate digital humanities research and pedagogy."
 
 ########### Membership and Service ###########
-membership:
-  - title: "Modern Language Association"
-    year: "2017–Present"
-  - title: "Association for Computers and the Humanities"
-    year: "2017–Present"
 service:
   - title: "President"
     institution: "UMD Graduate English Organization"
