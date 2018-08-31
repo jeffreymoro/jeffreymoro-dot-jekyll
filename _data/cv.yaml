@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2018-04-30.pdf"
+  link: "cv-2018-08-30.pdf"
 
 ########### Contact ###########
 contact:
@@ -21,12 +21,10 @@ profile: "I&rsquo;m a doctoral student in English at the University of Maryland,
 education:
   - institution: University of Maryland, College Park
     degree: Ph.D, English
-    location: College Park, MD
     date: "2021 (Expected)"
     awards: certificate in Digital Studies (in progress)
   - institution: Amherst College
     degree: BA, English; BA, Theater & Dance
-    location: Amherst, MA
     date: "2013"
     awards: magna cum laude, Phi Beta Kappa
 
@@ -34,20 +32,15 @@ education:
 employment:
   - title: Graduate Instructor
     company: University of Maryland, College Park
-    location: College Park, MD
     date: "2018–Present"
     context: ""
   - title: Site Manager
     company: <i>Romantic Circles</i>
     company-latex: \emph{Romantic Circles}
-    location: College Park, MD
-    second-location: ""
     date: "2016–18"
     context: "I managed the intake and processing of site content for the oldest digital scholarly journal for Romantic literary studies. This included everything from corresponding with editors and contributors, copyediting essays, marking up work in TEI, and deploying content to a Drupal environment. With our technical editor, I executed a comprehensive redesign of the site and authored white papers on directions it might take in the future."
   - title: Post-Baccalaureate Resident in Digital Humanities
     company: Five Colleges, Inc
-    location: Amherst, MA
-    second-location: (Appointed at Smith College • Northampton, MA)
     date: "2013–16"
     context: "I collaborated with Five College Digital Humanities' faculty director to administer a variety of academic programs, events, and grant-funded projects. I managed an Undergraduate Student Fellowship program, an Undergraduate Microgrant program, a Speaker Series, and taught workshops on digital media and digital project management. In short: I kept all the pieces moving so that faculty, staff, and students alike could do innovative work."
 
@@ -61,82 +54,66 @@ journals:
 web:
   - title: "Weird Ways of Seeing: Patrick Nagatani’s Nuclear Vision"
     venue: "Los Angeles Review of Books"
-    date: "2 June"
-    year: "2018"
+    date: "2 June 2018"
     url: "https://lareviewofbooks.org/article/weird-ways-of-seeing-patrick-nagatanis-nuclear-vision/"
 
 other:
 
 ########### Talks ###########
 
-conference-presentations:
-  ### 2018 ###
+conference-talks:
   - title: "Want of Water, Want of Data: The Trans-Atlantic Slave Trade Database and Oceanic Computing"
     institution: SIGCIS
-    location: St. Louis, MO
-    date: 14 Oct.
-    year: 2018
-    type: Paper
+    location: St. Louis
+    date: Oct. 2018
     event: "Stored in Memory: The 10th Annual SIGCIS Conference"
     url: ""
   - title: "Take Only Data, Leave No Footprints: Cybersecurity as Speculative Paranoia"
     institution: Modern Language Association
-    location: New York City, NY
-    date: 4–7 Jan.
-    year: "&nbsp;"
-    type: Paper
+    location: New York City
+    date: Jan. 2018
     event: "MLA 2018"
     url: "/research/2018/mla2018"
-  ### 2017 ###
   - title: "Decaying Plastic Play: Flappy Bird’s Hacked Afterlife as Media Archaeological Praxis"
     institution: Alliance of Digital Humanities Organizations
-    location: Montréal, QC
-    date: 8–11 Aug.
+    location: Montréal
+    date: Aug. 2017
     year: 2017
-    type: Paper
     event: "Digital Humanities 2017"
     url: "/research/2017/dh2017/"
-  - title: "Surfaces, Standards, Layers, Stacks: Towards a Platform Textuality"
-    institution: Society for Textual Scholarship and MITH
-    location: College Park, MD
-    date: 31 May – 1 June.
-    year: "&nbsp;"
-    type: Roundtable
-    event: "Textual Embodiments"
-    url: "/research/2017/sts/"
   - title: "Vapor Ware, or the Odors of 3D Printing"
     institution: Rutgers-Camden Archive of Digital Ephemera
-    location: Camden, NJ
-    date: 21 April.
-    year: "&nbsp;"
-    type: Panel
+    location: Camden
+    date: April 2017
     event: "R-CADE 2017 Symposium"
     url: "/research/2017/rcade/"
   - title: "Roomba in Revolt: Sociability and Securitization in the Internet of Things"
     institution: SIGCIS
-    location: Mountain View, CA
-    date: 18–19 March.
-    year: "&nbsp;"
-    type: Paper
+    location: Mountain View
+    date: March 2017
     event: "Command Lines: Software, Power, Performance"
     url: "/research/2017/sigcis/"
-    ### 2015 ###
-  - title: "The Critical Is: Mapping New Approaches to Video Game Criticism"
-    institution: Michigan State University
-    location: East Lansing, MI
-    date: 27-30 May.
-    year: 2015
-    type: Poster
-    event: "HASTAC 2015: The Art and Science of Digital Humanities"
-    url: ""
-    ### 2014 ###
   - title: "Undergraduate Digital Humanities, Three Ways"
     institution: NERCOMP
     location: Norwood, MA
-    date: 10 April.
-    year: 2014
-    type: Talk
+    date: April 2014
     event: "Emerging Digital Scholars: Undergraduates and Digital Humanities"
+    url: ""
+
+conference-other:  
+  - title: "Surfaces, Standards, Layers, Stacks: Towards a Platform Textuality"
+    institution: Society for Textual Scholarship and MITH
+    location: College Park
+    date: May 2017
+    type: Roundtable
+    event: "Textual Embodiments"
+    url: "/research/2017/sts/"  
+  - title: "The Critical Is: Mapping New Approaches to Video Game Criticism"
+    institution: Michigan State University
+    location: East Lansing
+    date: May 2015
+    type: Poster
+    event: "HASTAC 2015: The Art and Science of Digital Humanities"
     url: ""
 
 #other-talks:
@@ -159,11 +136,16 @@ conference-presentations:
 
 ########### Awards ###########
 awards:
-  - title: SIGCIS Travel Subvention
-    date: "2017"
-    secondary: "For &ldquo;Command Lines: Software, Power, Performance&rdquo;"
+  - title: Michael S. Mahoney Travel Award
+    date: "2018"
+    secondary: "For &ldquo;SIGCIS: Stored in Memory.&rdquo;"
     context: ""
-    latex: "SIGCIS 2017"
+    latex: "SIGCIS"
+  - title: SIGCIS Conference Travel Subvention
+    date: "2017"
+    secondary: "For &ldquo;Command Lines: Software, Power, Performance.&rdquo;"
+    context: ""
+    latex: ""
   - title: Jacob K. Goldhaber Travel Award
     date: "2017"
     secondary: From the University of Maryland, College Park.
@@ -206,47 +188,45 @@ awards:
 courses:
   ### 2018 ###
   - title: "Academic Writing"
-    location: "University of Maryland, College Park. College Park, MD"
+    location: "University of Maryland, College Park"
     date: "2018"
     url: ""
   ### 2016 ###
   - title: "Media Archaeology, Climate Change, and the Digital (Non)humanities"
-    location: "Smith & Amherst Colleges. Northampton & Amherst, MA"
+    location: "Smith & Amherst Colleges"
     date: 2016
     url: "https://ecomedia.jeffreymoro.com"
   ### 2015 ###
   - title: "E.LIT / NET.ART: An Extraordinarily Brief History of Digital Literature, 1975 – 2015"
-    location: "Smith College. Northampton, MA"
+    location: "Smith College"
     date: 2015
     url: "https://elit.jeffreymoro.com/course"
 
 workshop:
-  ### 2015 ###
   - title: "The New Rigor: Linking digital scholarship to useful structures of support & evaluation"
     organizer: Five College Digital Humanities
-    location: Amherst College. Amherst, MA
+    location: Amherst College
     date: "2015"
     url: "http://thenewrigor.5colldh.org"
   - title: Five College Digital Humanities Undergraduate Fellowship Workshop
     organizer: ""
-    location: Amherst College. Amherst, MA
-    date: "&nbsp;"
+    location: Amherst College
+    date: 2015
     url: ""
-  ### 2014 ###
   - title: "Five College Digital Humanities Kickoff Celebration & Workshops"
     organizer: by Five College Digital Humanities
-    location: Amherst College. Amherst, MA
+    location: Amherst College
     date: 2014
     url: ""
   - title: Five College Digital Humanities Speaker Series
     organizer: Organized by Five College Digital Humanities
-    location: "Amherst College. Amherst, MA"
+    location: "Amherst College"
     date: 2014–16
     url: ""
   - title: Five College Digital Humanities Student Symposia
     organizer: Organized by Five College Digital Humanities
-    location: "Smith & Amherst Colleges. Northampton & Amherst, MA"
-    date: "&nbsp;"
+    location: "Smith & Amherst Colleges"
+    date: "2014–16"
     url: ""
 
 ########### Digital ###########
