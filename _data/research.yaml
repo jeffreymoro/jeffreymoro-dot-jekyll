@@ -9,6 +9,14 @@ publications:
 ########### Talks ###########
 
 public:
+  - title: "Want of Water, Want of Data: The Trans-Atlantic Slave Trade Database and Oceanic Computing"
+    snippet: "How might digital humanities projects negotiate the ethical challenges of the Middle Passage? And what can environmental and oceanic critique teach us about how to value indeterminacy in data-driven work?"    
+    conference: Stored in Memory
+    institution: SIGCIS
+    location: St. Louis, MO
+    date: October 2018
+    panel: "Information, Identity, and Labor"
+    url: "/research/2018/sigcis2018"
   - title: "Take Only Data, Leave No Footprints: Cybersecurity as Speculative Paranoia"
     snippet: "A talk that reads how-to-stay-secure-online guides as paranoid, speculative visions of an internet yet to come."
     conference: MLA 2018
