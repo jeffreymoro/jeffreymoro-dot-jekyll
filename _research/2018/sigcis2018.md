@@ -35,7 +35,7 @@ In particular, I offer the ocean as a fruitful counter-model for how digital arc
 
 ## For Want of Data
 
-In 2006, Emory received an NEH grant to construct the open-access website that eventually became <slavevoyages.org>, the TASTD's current home. The data itself dates back to work begun in the 1960's by historian Herbert S. Klein. The data were originally available as a series of published volumes and on CD-ROM, but now, under Emory's auspices, the 12.6 megabyte database is a free resource for scholars and the public alike.
+In 2006, Emory received an NEH grant to construct the open-access website that eventually became <slavevoyages.org>, the TASTD's current home. The data itself dates back to work begun in the 1960's by historian Herbert S. Klein. The data were originally available as a series of published volumes and on CD-ROM, but now, under Emory's auspices, the 30.6 megabyte database is a free resource for scholars and the public alike.
 
 ![TASTD-interface](/assets/img/sigcis-2018-3-TASTD-interface.jpg)
 <div class="caption">The TASTD's web interface</div>
