@@ -19,14 +19,14 @@ title: Research
     {% if forloop.last == true %}
         <div class="row row-final grad-{{ forloop.index }} clear">
             <h3>{% if publications.url == "" %}{{ publications.title }}{% else %}<a href="{{ publications.url }}">{{ publications.title }}</a>{% endif %}</h3>
-            <p class="research-meta"><small>{{ publications.date }}. <i>{{ publications.journal }}</i> • <a id="showPublications{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a></small></p>
+            <p class="research-meta"><small>{{ publications.date }}. <i>{{ publications.journal }}</i>. {{ publications.medium }} • <a id="showPublications{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a></small></p>
             <div class="context" id="publications{{ forloop.index }}"><p>{{ publications.snippet }} • <a href="{{ publications.url }}"><b>Read the piece here.</b></a></p></div>
         </div>
     {% else %}
-        <div class="row grad-{{ forloop.index }} clear">
+        <div class="row row-final grad-{{ forloop.index }} clear">
             <h3>{% if publications.url == "" %}{{ publications.title }}{% else %}<a href="{{ publications.url }}">{{ publications.title }}</a>{% endif %}</h3>
-            <p class="research-meta"><small>{{ publications.date }}. <i>{{ publications.journal }}</i>.</small></p>
-            <p>{{ publications.snippet }}</p>
+            <p class="research-meta"><small>{{ publications.date }}. <i>{{ publications.journal }}</i>. {{ publications.medium }} • <a id="showPublications{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a></small></p>
+            <div class="context" id="publications{{ forloop.index }}"><p>{{ publications.snippet }} • <a href="{{ publications.url }}"><b>Read the piece here.</b></a></p></div>
         </div>
     {% endif %}
 {% endfor %}

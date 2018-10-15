@@ -67,7 +67,7 @@ conference-talks:
     location: St. Louis
     date: Oct. 2018
     event: "Stored in Memory: The 10th Annual SIGCIS Conference"
-    url: ""
+    url: "/research/2018/sigcis2018"
   - title: "Take Only Data, Leave No Footprints: Cybersecurity as Speculative Paranoia"
     institution: Modern Language Association
     location: New York City
@@ -100,14 +100,14 @@ conference-talks:
     event: "Emerging Digital Scholars: Undergraduates and Digital Humanities"
     url: ""
 
-conference-other:  
+conference-other:
   - title: "Surfaces, Standards, Layers, Stacks: Towards a Platform Textuality"
     institution: Society for Textual Scholarship and MITH
     location: College Park
     date: May 2017
     type: Roundtable
     event: "Textual Embodiments"
-    url: "/research/2017/sts/"  
+    url: "/research/2017/sts/"
   - title: "The Critical Is: Mapping New Approaches to Video Game Criticism"
     institution: Michigan State University
     location: East Lansing
