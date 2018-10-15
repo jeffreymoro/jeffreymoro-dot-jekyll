@@ -3,15 +3,15 @@ layout: page
 title: Research
 ---
 
-<!-- Publications
+<!-- Publications -->
 <div class="tabsWrapper clear">
 <ul class="tabs">
     <li class="active">
-        <a href="#t1" id="t1">PUBLICATIONS</a></li>
+        <a href="#t1" id="t1">WRITING</a></li>
     <li>
-        <a href="#t2">IN PUBLIC</a></li>
+        <a href="#t2">TALKING</a></li>
     <li>
-        <a href="#t3">DIGITAL PROJECTS</a></li>
+        <a href="#t3">COMPUTING</a></li>
 </ul>
 </div>
 
@@ -19,27 +19,27 @@ title: Research
     {% if forloop.last == true %}
         <div class="row row-final grad-{{ forloop.index }} clear">
             <h3>{% if publications.url == "" %}{{ publications.title }}{% else %}<a href="{{ publications.url }}">{{ publications.title }}</a>{% endif %}</h3>
-            <p><small>{{ publications.date }}. <i>{{ publications.journal }}</i>.</small></p>
-            <p>{{ publications.snippet }}</p>
+            <p class="research-meta"><small>{{ publications.date }}. <i>{{ publications.journal }}</i> • <a id="showPublications{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a></small></p>
+            <div class="context" id="publications{{ forloop.index }}"><p>{{ publications.snippet }} • <a href="{{ publications.url }}"><b>Read the piece here.</b></a></p></div>
         </div>
     {% else %}
         <div class="row grad-{{ forloop.index }} clear">
             <h3>{% if publications.url == "" %}{{ publications.title }}{% else %}<a href="{{ publications.url }}">{{ publications.title }}</a>{% endif %}</h3>
-            <p><small>{{ publications.date }}. <i>{{ publications.journal }}</i>.</small></p>
+            <p class="research-meta"><small>{{ publications.date }}. <i>{{ publications.journal }}</i>.</small></p>
             <p>{{ publications.snippet }}</p>
         </div>
     {% endif %}
 {% endfor %}
--->
+
 <!-- In Public -->
 <div class="tabsWrapper clear">
 <ul class="tabs">
-    <!--<li>
-        <a href="#t1">PUBLICATIONS</a></li>-->
-    <li class="active">
-        <a href="#t2" id="t2">IN PUBLIC</a></li>
     <li>
-        <a href="#t3">DIGITAL PROJECTS</a></li>
+        <a href="#t1">WRITING</a></li>
+    <li class="active">
+        <a href="#t2" id="t2">TALKING</a></li>
+    <li>
+        <a href="#t3">COMPUTING</a></li>
 </ul>
 </div>
 
@@ -70,12 +70,12 @@ title: Research
 <!-- Digital Projects -->
 <div class="tabsWrapper clear">
 <ul class="tabs">
-    <!--<li>
-        <a href="#t1">PUBLICATIONS</a></li>-->
     <li>
-        <a href="#t2">IN PUBLIC</a></li>
+        <a href="#t1">WRITING</a></li>
+    <li>
+        <a href="#t2">TALKING</a></li>
     <li class="active">
-        <a href="#t3" id="t3">DIGITAL PROJECTS</a></li>
+        <a href="#t3" id="t3">COMPUTING</a></li>
 </ul>
 </div>
 

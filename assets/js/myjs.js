@@ -55,6 +55,11 @@ $(document).ready(function(){
         $("#award{{ forloop.index }}").slideToggle();
     });
   {% endfor %}
+  {% for title in site.data.research.publications %}
+    $("#showPublications{{ forloop.index }}").click(function(){
+        $("#publications{{ forloop.index }}").slideToggle();
+    });
+  {% endfor %}
   {% for title in site.data.research.public %}
     $("#showPublic{{ forloop.index }}").click(function(){
         $("#public{{ forloop.index }}").slideToggle();
@@ -66,4 +71,3 @@ $(document).ready(function(){
     });
   {% endfor %}
 });
-

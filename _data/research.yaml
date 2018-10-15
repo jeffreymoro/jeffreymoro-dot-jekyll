@@ -1,16 +1,16 @@
 ########### Publications ###########
 publications:
-  - title:
-    snippet:
-    journal:
-    date:
-    url:
+  - title: "Weird Ways of Seeing: Patrick Nagatani's Nuclear Vision"
+    snippet: "A short piece on photographer Patrick Nagatani's <i>Nuclear Enchantment</i> and the challenges of visualization and representation in the post-nuclear world."
+    journal: Los Angeles Review of Books
+    date: June 2018
+    url: "https://lareviewofbooks.org/article/weird-ways-of-seeing-patrick-nagatanis-nuclear-vision/"
 
 ########### Talks ###########
 
 public:
   - title: "Want of Water, Want of Data: The Trans-Atlantic Slave Trade Database and Oceanic Computing"
-    snippet: "How might digital humanities projects negotiate the ethical challenges of the Middle Passage? And what can environmental and oceanic critique teach us about how to value indeterminacy in data-driven work?"    
+    snippet: "How might digital humanities projects negotiate the ethical challenges of the Middle Passage? And what can environmental and oceanic critique teach us about how to value indeterminacy in data-driven work?"
     conference: Stored in Memory
     institution: SIGCIS
     location: St. Louis, MO
