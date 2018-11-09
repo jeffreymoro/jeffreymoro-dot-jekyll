@@ -4,10 +4,12 @@
 }
 
 .tabs {
+	font-family: $primaryfont !important;
 	margin-bottom: 18px;
 	margin-left: 0;
 	padding-left: 0;
 	list-style: none !important;
+	line-height: 1.5 !important;
 }
 .tabs li {
 	float:left;

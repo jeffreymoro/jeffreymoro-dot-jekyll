@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "“Her Beckett”"
+redirect_from: "/2018/03/04/her-beckett/"
 tags:
 - decay
 ---

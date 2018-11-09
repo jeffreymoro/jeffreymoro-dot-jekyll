@@ -1,7 +1,8 @@
 ---
 layout: post
 title: A semi-comprehensive list of my obsessions circa April 11th, 2016
-tags: 
+redirect_from: "/2016/04/11/obsessions-circa-april11/"
+tags:
 - obsessions
 ---
 
@@ -15,7 +16,7 @@ This track is from 2012 and I'm only just hearing it now off the Scottish compos
 
 ## My Raspberry Pi
 
-I love this little thing. I finally bought one after years of dithering about not having a project to run on it, until I found the [RetroPie](http://retropie.org.uk) project and some incredible software history torrents on the Internet Archive. And you know what? It's still a joyously useless piece of hardware. It sits next to my TV, and sometimes I remember to hook it up and play [Hatris](https://www.youtube.com/watch?v=3wOFyKq1RY8). When I turn it on, my friends joke that my TV is hacking into the Matrix. It has a cute little pink and white case. I named it Winifred. 
+I love this little thing. I finally bought one after years of dithering about not having a project to run on it, until I found the [RetroPie](http://retropie.org.uk) project and some incredible software history torrents on the Internet Archive. And you know what? It's still a joyously useless piece of hardware. It sits next to my TV, and sometimes I remember to hook it up and play [Hatris](https://www.youtube.com/watch?v=3wOFyKq1RY8). When I turn it on, my friends joke that my TV is hacking into the Matrix. It has a cute little pink and white case. I named it Winifred.
 
 (I'm working on a longer post now about the idea of "minimal computing" in DH, and how devices like the Raspberry Pi alongside a rhetorical turn to the "command line" across a number of DH and web development tools operate within contemporary cultural turns to "slowness" in, say, [television](https://en.wikipedia.org/wiki/Slow_television) or [food](http://www.slowfoodusa.org). For more intel, the [Mincomp DH Working Group Blog](http://go-dh.github.io/mincomp/) succinctly lays out [though the site's a bit barebones right now] the potential stakes for a turn towards computing done under constraints. More on this, hopefully, soon.)
 
@@ -28,6 +29,3 @@ In lieu of sentences:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">a show like that had no business being as compellingly plotted and emotionally resonant as it was, god bless peak tv</p>&mdash; Jeffrey Moro (@jeffreymoro) <a href="https://twitter.com/jeffreymoro/status/714505752950489089">March 28, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">best show about fatherhood and also the virtues of staggeringly large doses of hallucinogenic substances we never deserved</p>&mdash; Jeffrey Moro (@jeffreymoro) <a href="https://twitter.com/jeffreymoro/status/714505999005122560">March 28, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-

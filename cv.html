@@ -10,8 +10,8 @@ title: CV
         <a href="#t2">EDUCATION</a></li>
     <li>
         <a href="#t3">EMPLOYMENT</a></li>
-    <!--<li>
-        <a href="#t4">WRITING</a></li>-->
+    <li>
+        <a href="#t4">WRITING</a></li>
     <li>
         <a href="#t5">IN PUBLIC</a></li>
     <li>
@@ -33,7 +33,7 @@ title: CV
 
 <!-- 1: Profile -->
 <div class="clear">
-<h2><span id="t1"></span><a href="#t0"><a href="#t0"><i class="fa fa-chevron-up"></i></a></a> Hi, I&rsquo;m Jeffrey Moro</h2>
+<h2><span id="t1"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Hi, I&rsquo;m Jeffrey Moro</h2>
     <div class="column-last column-bottom clear">
         {{ site.data.cv.profile }}
     </div>
@@ -41,7 +41,7 @@ title: CV
 
 <!-- 2: Education -->
 <div class="clear">
-    <h2><span id="t2"></span><a href="#t0"><a href="#t0"><i class="fa fa-chevron-up"></i></a></a> Education</h2>
+    <h2><span id="t2"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Education</h2>
     {% for institution in site.data.cv.education %}
         <div class="one-fourth column-bottom clear subcat">{{ institution.date }}</div>
         <div class="three-fourths column-last column-bottom clear">

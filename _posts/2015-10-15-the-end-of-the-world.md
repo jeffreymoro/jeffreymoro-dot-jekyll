@@ -1,7 +1,8 @@
 ---
 layout: post
 title: '&ldquo;The end of the world has already occurred...&rdquo;'
-tags: 
+redirect_from: "/2015/10/15/the-end-of-the-world/"
+tags:
 - 5colldh
 ---
 

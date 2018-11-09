@@ -1,7 +1,8 @@
 ---
 layout: post
 title: '&ldquo;These gigantic timescales are truly humiliating...&rdquo;'
-tags: 
+redirect_from: "/2015/09/13/these-gigantic-timescales/"
+tags:
 - quotes
 - anthropocene
 ---

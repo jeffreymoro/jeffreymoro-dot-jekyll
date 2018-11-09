@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On electronic literature, Internet art, and digital galleries
+redirect_from: "/2015/10/23/announcing-elit-netart/"
 tags:
 - blatant self-promotion
 - elit
@@ -11,11 +12,11 @@ Over the past few months, I've been working on and off on [elit.jeffreymoro.com]
 <img border="1px" src="/assets/img/elit-site-1.jpg"/>
 <div class="caption">Look, ma, I made a website!</div>
 
-*E.LIT / NET.ART* is a loose conglomeration of mini curation projects around electronic literature, Internet art, and digitally-inflected cinema.[^1] The project started as a series of pop-up IRL galleries across the Five Colleges of Western Massachusetts; I collaborated with libraries to take up residency in spare rooms and computer labs for a day or two and run a weird assortment of e-lit pieces from 1975 to now, with the aim of giving undergrads (and staff and faculty, for that matter) an opportunity to see digital art in the wild, so to speak. 
+*E.LIT / NET.ART* is a loose conglomeration of mini curation projects around electronic literature, Internet art, and digitally-inflected cinema.[^1] The project started as a series of pop-up IRL galleries across the Five Colleges of Western Massachusetts; I collaborated with libraries to take up residency in spare rooms and computer labs for a day or two and run a weird assortment of e-lit pieces from 1975 to now, with the aim of giving undergrads (and staff and faculty, for that matter) an opportunity to see digital art in the wild, so to speak.
 
 [^1]: This is a clunky term, to be sure, but I've been toying with it in order to distinguish cinema in which the *format* is materially digital (i.e., video rather than celluloid) and cinema that takes up digital aesthetics and politics. Which is not to say that material format isn't imbricated with those questions—but there's a broader history of digital cinema before video.
 
-[https://elit.jeffreymoro.com](http://elit.jeffreymoro.com) also hosts information about the course that I taught in January of 2015 on many of the pieces that were in the original gallery series. I've gone ahead and put up my [syllabus](http://elit.jeffreymoro.com/course) as well, in the hopes that it's useful as a starting point for anyone looking to learn more about electronic literature. 
+[https://elit.jeffreymoro.com](http://elit.jeffreymoro.com) also hosts information about the course that I taught in January of 2015 on many of the pieces that were in the original gallery series. I've gone ahead and put up my [syllabus](http://elit.jeffreymoro.com/course) as well, in the hopes that it's useful as a starting point for anyone looking to learn more about electronic literature.
 
 <img border="1px" src="/assets/img/elit-site-2.jpg"/>
 

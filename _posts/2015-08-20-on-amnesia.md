@@ -1,7 +1,8 @@
 ---
 layout: post
 title: On Amnesia
-tags: 
+redirect_from: "/2015/08/20/on-amnesia/"
+tags:
 - media archaeology
 - videogames
 ---
