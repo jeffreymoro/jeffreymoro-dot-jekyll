@@ -30,20 +30,27 @@ number: ENGL290
 
 ## Description
 
-"Digital studies" names a range of interdisciplinary approaches to the critical and creative study of digital media within the humanities and social sciences. This course is your introduction to this diverse and rapidly shifting field. Our overall goal is to develop a critical vocabulary for the analysis of digital objects and cultures, from computer code, to video games, to social media, to electronic waste, and more. To do so, we apply many of the traditional analytical tools of the humanities, particularly literary and media study, as well as creative practices of tinkering, making, and design. If the various interests and approaches under the rubric of "digital studies" have a shared method, it's that *doing things* is key to *knowing things*. In short: this course gives you the tools to understand how digital media operate in everyday life.
+"Digital studies" names a range of interdisciplinary approaches to the critical and creative study of digital media. This course is your introduction to this diverse and rapidly shifting field. Our overall goal is to develop a critical vocabulary for the analysis of digital objects and cultures, from computer code, to video games, to social media, to electronic waste, and more. We'll engage digital media from historical, aesthetic, technical, and political perspectives, with a particular eye toward how digital technologies increasingly shape most every aspect of contemporary life. To do so, we apply many of the traditional analytical tools of the humanities and social sciences, particularly literary and media studies, as well as creative and technical practices of tinkering, making, and design. If the various interests and approaches under the rubric of "digital studies" have a shared method, it's that *doing things* is key to *knowing things*.
 
-I've organized this version of the course around thirteen keywords in digital studies: digital, code, network, infrastructure, memory, physical, interface, social, manufacture, data, glitch, labor, and waste. Each week we'll dive into a specific keyword, although it's my hope that by the end of the semester we'll have mapped connections across them all. Loosely speaking, we begin with *definitional* questions, like "what is code?" and "how does the internet actually work?," before moving in the middle of the semester to questions of *interaction*, like "how do digital media connect us?" and "TKTKTKTK." In the last few weeks of the semester, we'll DO SOMETHING SPECIFIC ETC ETC ETC.
+This is a wide-ranging class designed to provide many different points of entry into digital studies. To this end, I've organized this course around thirteen keywords: digital, code, network, infrastructure, memory, physical, interface, social, manufacture, data, glitch, labor, and waste. Each week we'll dive into a specific keyword, all the while staying sensitive to the connections we can map across them.
 
 This is not a "learn to code" class; you don't need to know anything about computer science. When we do get our hands dirty, it will be in the service of experimentation and critical play. Your assignments will reflect this experimental approach as well. You'll do "traditional" academic writing, but also create objects, craft artist's statements, give presentations, and participate in regular "labs," during which you'll work hands-on with digital media technologies.
 
 ## Aims
 
+By the end of the semester, it's my hope that you will:
+
+- Develop a vocabulary for analyzing the technical and cultural mechanisms of digital media, and situate these mechanisms within broader projects of power, politics, and cultural production.
+- Engage interdisciplinary modes of thinking suitable to a digital studies program, including formal analysis, aesthetic critique, site-specific research, and critical design.
+- Develop facility with a range of digital tools, both as means for doing research and as objects of critique in their own right.
+- Understand the collaborative processes that underpin digital studies scholarship and apply these findings to the development of potential projects of your own.
+
 ## Materials
 
-The vast majority of class readings are freely available on the internet or posted as PDFs to the course ELMS site. There are two books that you should plan to purchase:
+The vast majority of class readings are freely available on the internet or posted as PDFs to the course ELMS site. There are two books that you should plan to purchase from the quality bookseller of your choice:
 
 - Ingrid Burrington, *Networks of New York: An Illustrated Field Guide to Urban Internet Infrastructure*. ISBN: 978-1-61219-542-1.
-- J.R. Carpenter, *The Gathering Cloud*. ISBN: 978-1-910010-15-0
+- J.R. Carpenter, *The Gathering Cloud*. ISBN: 978-1-910010-15-0. [NB: I recommend buying [directly from the UK publisher](http://www.uniformbooks.co.uk/thegatheringcloud.php) for a substantially lower rate than, say, Amazon.]
 
 You should also have a working laptop running one of the following operating systems.
 
@@ -63,7 +70,7 @@ Here is also an incomplete list of the programs that you should plan to install 
 - Nestopia (all platforms)
 - Cura (all platforms)
 - Vinesauce ROM Corrupter (Windows)
-- Sign up for Twitter. You don't need to post or participate in any way.
+- Sign up for Twitter.
 
 Should you choose to 3D print for the Object Lesson assignment, you may have to budget $10 to $15 for associated equipment costs.
 
@@ -83,7 +90,7 @@ Here's the overall breakdown:
 
 As we're all coming to this class with different interests, backgrounds, and facilities; and as everyone's semester follows different rhythms of business and calm; and as I want you to take ownership over the work for this class, I have designed the assignments with flexible deadlines so that you can decide which assignments you want to tackle and when.
 
-You will complete **two** Lab Reports throughout the semester, described below. You should turn the first Lab Report in anytime before Friday 15 March (i.e., the Friday before Spring Break), and the second anytime before Friday 26 April.
+You will complete **two** Lab Reports throughout the semester, described below. You should turn the first Lab Report in anytime before Friday 15 March (i.e., before Spring Break), and the second anytime before Friday 26 April.
 
 The two main assignments of the course are a Short Essay and an Object Lesson, also described below. You have the option of choosing which one you'd like to do first in the semester, to be due on Friday 8 March, and which you'd like to do second, to be due on Friday 19 April. **You will complete both assignments**—you won't do two Object Lessons and no Short Essay, for instance—but you choose the order.
 
@@ -93,7 +100,7 @@ Assignments are due at 11:59 PM the listed days. I'll reduce the grade on plus/m
 
 The litmus test for participation is simple: do you come to class prepared and engaged? And when you contribute to the class in any medium, be it speech or text, do you do so in the spirit of collegiality, respect, and mutual betterment?
 
-Note that "class participation" does not mean always raising your hand at opportune moments. Indeed, dominating a class conversation can be the precise opposite of effective and respectful participation. As such, I take a wide view of "participation" to include the thoughtfulness of your contributions to the class as a whole.
+Note that "class participation" doesn't mean always raising your hand at opportune moments. Indeed, dominating a class conversation can be the precise opposite of effective and respectful participation. As such, I take a wide view of "participation" to include the thoughtfulness of your contributions to the class as a whole.
 
 Attendance is crucial to your ability to participate in the class. Not only do we all need to be present in order to learn together, many if not all of the crucial concepts build off each other, meaning that missed classes compound on each other. Attending lab days are particularly crucial given their importance to your Lab Report assignments. Please see the PDF version of the syllabus for full UMD policies on course attendance.
 
@@ -103,19 +110,43 @@ Attendance is crucial to your ability to participate in the class. Not only do w
 
 Twice a semester you will submit a Lab Report drawn from your hands-on experience in one of our in-class labs. You will augment your in-class work with further outside exploration in the skill/tool/topic of your choice; for example, if you're writing a Lab Report about our experience in the BookLab in Tawes Hall, you should return to the BookLab to learn more about it and the skills we explored there. Or if you're writing a Report about video game emulation, you should continue to tinker with and explore different emulation platforms.
 
-DETAILS OF THE LAB REPORTS HERE
+Each Lab Report has three parts:
+
+1. *Initial Questions*. [No word limit.] List the initial questions you have about the tool you're investigating. What are you most interested in? What do you want to learn? You should also ask how the tool fits into the broader conversations we're having in the class, either as a means of doing research or as an object of study in itself.
+2. *Lab Narrative*. [300 word maximum.] Give yourself a task with the tool, with the aim of answering your questions above. You should approach this task with the demeanor of an extremely sincere toddler. How does the tool work? What can you do with it, even if only in an hour or so of playing around? What did you try to do? What worked? What didn't? What strategies did you use to investigate this tool or object?
+3. *Conclusions*. [300 word maximum.] Describe a potential project that would use this tool, either as a means to research or an object of study. You don't have to actually complete the project, just describe it as specifically as possible. It should connect back to the play you describe in the Lab Narrative section.
 
 ### Short Essay
 
+Write a short essay (c. 1500 words) that puts one critical perspective we've discussed in class in conversation with a critical or creative source either within or beyond the class.
+
+I want this assignment to be maximally flexible to your interests, while also giving you a chance to practice the kinds of critical writing about digital media that we'll read throughout the semester. You might apply infrastructural or media archaeological study to a particular technical object; you might do a critical reading of a web series, video game, Twitter bot, or other kind of born-digital source; you might close read computationally generated poetry—the choice is yours. The key is that you are practicing critical analysis through the medium of academic writing.
+
+You should be in touch with me a few weeks before you plan to submit the paper to discuss your approach and sources.
+
 ### Object Lesson
 
-### Lightning Talk
+Create an object that does some kind of critical work in digital studies, and write a short (c. 500 words) artist's statement to accompany the object.
 
-### Final Portfolio
+One of the major themes in this course is that *doing* and *making* are forms of knowledge production. To that end, this assignment asks you to get your hands dirty and create some kind of physical or virtual object that performs critical work in digital studies. What might such an object entail? We'll discuss this at length in class, but you might create: a 3D-printed object that analyzes its own material creation; a piece of digital literature; a series of glitched images; data visualizations of your internet usage; or many other things inspired by the objects we analyze in class. I'd recommend using one of the technologies that we experiment with in class, but I'm open to other alternatives.
+
+This is as much a creative project as it is a critical one. However, I'm not assessing this assignment on whether you're a good artist or technically facile. Broken prototypes can be just as useful as fully fledged gallery installations. What helps them be useful is the artist's statement that accompanies them: a short written component that discusses what you attempted to do and how successful you were in doing it. We'll discuss more about what makes a good artist's statement in class.
+
+Just as for the Short Essay, you should be in touch with me a few weeks before you plan to submit your object to discuss your approach and any support you need.
+
+### Lightning Talk and Final Portfolio
+
+The "final exam" for this course is a portfolio of three short assignments designed to adapt and expand upon work you've done previous in the class. They are:
+
+1. A lightning talk (five minutes maximum), delivered the penultimate week of class, adapted from either your Short Essay or your Object Lesson. The goal here is to practice presenting your work to an audience of your peers. In your portfolio, you'll include a cleaned-up and revised script of your talk, c. 500 words.
+2. A project proposal (c. 750 words), which should expand upon one of your Lab Reports. Here, you're practicing developing models for future work. Note that your project should be *achievable within the reasonable limits of your subject position*: you shouldn't propose something that requires massive amount of time or capital investment, but rather that you might do with a few months of concentrated work, or across another semester of this class.
+3. A self-reflection (c. 500 words), wherein you return to your initial letter of interest that you wrote to me in the second week of class. We'll talk about effective tactics for writing self-reflections in class.
 
 ## Schedule
 
-Paragraph here on the structure of the class incl. labs.
+Each week follows the same rough model: we'll introduce a concept on the first day with a creative or critical reading/object, then do a Lab that illustrates those concepts, and then come back together at the week's end to situate that Lab work within a broader critical backdrop.
+
+All readings not directly linked are available on ELMS, with the exception of the two books for purchase. 
 
 ### Week 1: *Digital*
 
@@ -130,7 +161,7 @@ Paragraph here on the structure of the class incl. labs.
 #### Fri 1 Feb
 
 - *Read*: N. Katherine Hayles, "Print is Flat, Code is Deep: The Importance of Media-Specific Analysis"
-- *Browse*: TBD
+- *Browse*: ["Anatomy of an AI System"](https://anatomyof.ai/)
 
 ### Week 2: *Code*
 
@@ -157,7 +188,7 @@ Paragraph here on the structure of the class incl. labs.
 #### Wed 13 Feb
 
 - *Lab*: Trace Route, Little Snitch, and the Networks the Surround Us
-- *Read*: TBD
+- *Read*: Selections from Tung-Hui Hu, *A Prehistory of the Cloud*
 
 #### Fri 15 Feb
 
@@ -176,19 +207,20 @@ Paragraph here on the structure of the class incl. labs.
 
 #### Fri 22 Feb
 
-- *Read*: Susan Leigh Star, "The Ethnography of Infrastructure"
 - *Browse*: Nicole Starosielski et al., [*Surfacing*](http://surfacing.in/)
+- *OPTIONAL*: Susan Leigh Star, "The Ethnography of Infrastructure"
 
 ### Week 5: *Memory*
 
 #### Mon 25 Feb
 
-- *Read*: TBD
+- *Read*: Warren Sack, "Memory" in *Software Studies*
+- *Browse*: ["One Terabyte of Kilobyte Age,"](http://blog.geocities.institute/) a curation project by Olia Lialina and Dragan Espenschied, with accompanying [Tumblr site](http://oneterabyteofkilobyteage.tumblr.com/)
 
 #### Wed 27 Feb
 
 - *Lab*: Emulation and Preservation
-- *Browse*: NESDev Wiki; Internet Archive // TBD
+- *Browse*: [NESDev Wiki](http://wiki.nesdev.com/w/index.php/Nesdev_Wiki); Internet Archive's [Wayback Machine](https://archive.org/web/); [FEMICOM](http://www.femicom.org/)
 
 #### Fri 1 March
 
@@ -207,23 +239,23 @@ Paragraph here on the structure of the class incl. labs.
 
 #### Fri 8 March
 
-- *Read*: Mierle Laderman Ukeles, ["Manifesto for Maintenance Art"](https://www.queensmuseum.org/wp-content/uploads/2016/04/Ukeles_MANIFESTO.pdf); STILL NEED SOME KIND OF DIGITAL CONTEXT
+- *Read*: Mierle Laderman Ukeles, ["Manifesto for Maintenance Art"](https://www.queensmuseum.org/wp-content/uploads/2016/04/Ukeles_MANIFESTO.pdf); Shannon Mattern, ["Maintenance and Care"](https://placesjournal.org/article/maintenance-and-care/)
 - *Deadline*: Short Essay or Object Lesson due.
 
 ### Week 7: *Interface*
 
 #### Mon 11 March
 
-- *Read*: Kari Kraus et al., "Bibliocircuitry and the Design of the Alien Everyday"
+- *Read*: Florian Cramer and Matthew Fuller, "Interface" in *Software Studies*; John Hermann, ["Internet, Why So Blue?"](https://www.theawl.com/2014/06/internet-why-so-blue/)
 
 #### Wed 13 March
 
 - *Lab*: Virtual/Physical Interfaces in BookLab, Tawes Hall
-- *Read*: TBD
+- *Read*: Kari Kraus et al., "Bibliocircuitry and the Design of the Alien Everyday"
 
 #### Fri 15 March
 
-- *Read*: TBD
+- *Read*: TBD FEMINIST INTERFACE DESIGN
 - *Deadline*: Lab Report #1 due.
 
 ### Week 8: Spring Break
@@ -239,7 +271,9 @@ No meetings.
 #### Wed 27 March
 
 - *Read*: Mark Sample, ["A protest bot is a bot so specific you can't mistake it for bullshit"](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa); Selected Twitter bots:
-  + TBD
+  + Darius Kazemi, [@SortingBot](https://twitter.com/sortingbot), + read his [how-to notes](http://tinysubversions.com/notes/sorting-bot/)
+  + Allison Parrish, [@the_ephemerides](https://twitter.com/the_ephemerides), + read her [notes](http://www.decontextualize.com/2015/08/the-ephemerides/)
+  + Everest Pipkin and Loren Schmidt, [@mothgenerator](https://twitter.com/mothgenerator)
 
 #### Fri 29 March
 
@@ -255,7 +289,6 @@ No meetings.
 #### Wed 3 April
 
 - *Lab*: 3D Printing in the McKeldin Makerspace
-- *Read*: TBD
 
 #### Fri 5 April
 
@@ -265,7 +298,7 @@ No meetings.
 
 #### Mon 8 April
 
-- *Read*: TBD
+- *Read*: Lisa Gitelman and Virginia Jackson, "Introduction" to *Raw Data is an Oxymoron*
 - *Watch*: Jen Golbeck, ["The Curly Fry Conundrum"](https://www.ted.com/talks/jennifer_golbeck_the_curly_fry_conundrum_why_social_media_likes_say_more_than_you_might_think)
 
 #### Wed 10 April
@@ -295,7 +328,7 @@ No meetings.
 - *Watch*: Selected Let's Play and speedrun videos:
   + Jason Schreier, ["Watch *Pokémon Red/Blue* Get Destroyed In Just 21 Minutes"](https://kotaku.com/watch-pokemon-red-blue-get-destroyed-in-just-21-minutes-1678548786)
   + SethBling, ["SNES Code Injection — Flappy Bird in SMW"](https://www.youtube.com/watch?v=hB6eY73sLV0)
-  + Rachel Simone Weil's [keynote](https://www.youtube.com/watch?v=0FwhL3SpgxU) at R-CADE 2017. (Also of interest: [FEMICOM](http://www.femicom.org/))
+  + Rachel Simone Weil's [keynote](https://www.youtube.com/watch?v=0FwhL3SpgxU) at R-CADE 2017.
 
 ### Week 13: *Labor*
 
@@ -319,7 +352,7 @@ No meetings.
 
 #### Wed 1 May
 
-- *Read*: J.R. Carpenter, *The Gathering Cloud*. 
+- *Read*: J.R. Carpenter, *The Gathering Cloud*.
 - *Also*: *The Gathering Cloud* has an [online component](http://luckysoap.com/thegatheringcloud/). Note that this isn't the same as the printed version.
 
 #### Fri 3 May
