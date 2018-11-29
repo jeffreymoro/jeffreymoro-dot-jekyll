@@ -146,7 +146,7 @@ The "final exam" for this course is a portfolio of three short assignments desig
 
 Each week follows the same rough model: we'll introduce a concept on the first day with a creative or critical reading/object, then do a Lab that illustrates those concepts, and then come back together at the week's end to situate that Lab work within a broader critical backdrop.
 
-All readings not directly linked are available on ELMS, with the exception of the two books for purchase. 
+All readings not directly linked are available on ELMS, with the exception of the two books for purchase.
 
 ### Week 1: *Digital*
 
@@ -255,7 +255,7 @@ All readings not directly linked are available on ELMS, with the exception of th
 
 #### Fri 15 March
 
-- *Read*: TBD FEMINIST INTERFACE DESIGN
+- *Read*: Selections from David Parisi, *Archaeologies of Touch*
 - *Deadline*: Lab Report #1 due.
 
 ### Week 8: Spring Break
@@ -273,7 +273,7 @@ No meetings.
 - *Read*: Mark Sample, ["A protest bot is a bot so specific you can't mistake it for bullshit"](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa); Selected Twitter bots:
   + Darius Kazemi, [@SortingBot](https://twitter.com/sortingbot), + read his [how-to notes](http://tinysubversions.com/notes/sorting-bot/)
   + Allison Parrish, [@the_ephemerides](https://twitter.com/the_ephemerides), + read her [notes](http://www.decontextualize.com/2015/08/the-ephemerides/)
-  + Everest Pipkin and Loren Schmidt, [@mothgenerator](https://twitter.com/mothgenerator)
+  + Everest Pipkin, [@Abolish_ICE_Now](https://twitter.com/Abolish_ICE_Now)
 
 #### Fri 29 March
 
@@ -298,7 +298,7 @@ No meetings.
 
 #### Mon 8 April
 
-- *Read*: Lisa Gitelman and Virginia Jackson, "Introduction" to *Raw Data is an Oxymoron*
+- *Read*: SOME OTHER SELECTION FROM *Raw Data is an Oxymoron*
 - *Watch*: Jen Golbeck, ["The Curly Fry Conundrum"](https://www.ted.com/talks/jennifer_golbeck_the_curly_fry_conundrum_why_social_media_likes_say_more_than_you_might_think)
 
 #### Wed 10 April
