@@ -6,7 +6,7 @@ tags:
 - dissertation
 ---
 
-A friend once told me that your dissertation prospectus should be the best piece of speculative fiction you've ever written. An advisor concurred, observing that the prospectus is a necessary fiction that one can only hope turns out to be a useful one. In any case, given that some folks seemed to have benefitted from me sharing my qualifying exams list, I thought it might be useful to share at least the abstract to my prospectus, with a few thoughts about the mapmaking process that writing such a document entailed.
+A friend once told me that your dissertation prospectus should be the best piece of speculative fiction you've ever written. An advisor concurred, observing that the prospectus is a necessary fiction that one can only hope turns out to be a useful one. In any case, given that some folks seemed to have benefitted from me sharing [my qualifying exams list](/blog/2018-04-18-qualifications/), I thought it might be useful to share at least the abstract to my prospectus, with a few thoughts about the mapmaking process that writing such a document entailed.
 
 First, the good shit:
 
