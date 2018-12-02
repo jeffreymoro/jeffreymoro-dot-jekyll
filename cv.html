@@ -17,15 +17,15 @@ title: CV
     <li>
         <a href="#t6">AWARDS + GRANTS</a></li>
     <li>
-        <a href="#t7">TEACHING + EVENTS</a></li>
+        <a href="#t7">TEACHING</a></li>
+    <li>
+        <a href="#t7a">WORKSHOPS LED</a></li>
     <li>
         <a href="#t8">DIGITAL PROJECTS</a></li>
     <li>
         <a href="#t9">SERVICE</a></li>
 <!--<li>
         <a href="#t10">CREATIVE</a></li>-->
-    <li>
-        <a href="#t11">SKILLS</a></li>
     <li id="pdftab">
         <a href="/assets/files/{{ site.data.cv.meta.link }}">PDF</a></li>
 </ul>
@@ -169,31 +169,37 @@ title: CV
 
 <!-- 7: Teaching -->
 <div class="clear">
-<h2><span id="t7"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Teaching + Events</h2>
+<h2><span id="t7"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Teaching</h2>
 
-{% for title in site.data.cv.courses %}
-    {% if forloop.first == true %}
-        <div class="one-fourth column-bottom clear subcat"><em>Courses Taught</em></div>
-        <div class="three-fourths column-last column-bottom clear">
-            {% if title.url !="" %}
-                <a href="{{ title.url }}" target="_blank"><b>{{ title.title }}</b></a>
-            {% else %}
-                <b>{{ title.title }}</b>
-            {% endif %} <br/>
-            <span class="cv-meta">{{ title.location }}. {{ title.date }}.</span>
-        </div>
-    {% else %}
-        <div class="one-fourth column-bottom clear subcat"></div>
-        <div class="three-fourths column-last column-bottom clear">
-            {% if title.url !="" %}
-                <a href="{{ title.url }}" target="_blank"><b>{{ title.title }}</b></a>
-            {% else %}
-                <b>{{ title.title }}</b>
-            {% endif %} <br/>
-            <span class="cv-meta">{{ title.location }}. {{ title.date }}.</span>
-        </div>
-    {% endif %}
-{% endfor %}
+<div class="one-fourth column-bottom clear subcat"><em>University of Maryland</em></div>
+  <div class="three-fourths column-last column-bottom clear">
+    {% for title in site.data.cv.courses-umd %}
+      {% if title.url !="" %}
+        <a href="{{ title.url }}" target="_blank"><b>{{ title.title }}</b></a>.
+      {% else %}
+        <b>{{ title.title }}</b>.
+      {% endif %}
+      <span class="cv-meta">{{ title.date }}.</span><br/>
+      {% endfor %}
+  </div>
+
+<div class="one-fourth column-bottom clear subcat"><em>Smith College</em></div>
+  <div class="three-fourths column-last column-bottom clear">
+    {% for title in site.data.cv.courses-smith %}
+      {% if title.url !="" %}
+        <a href="{{ title.url }}" target="_blank"><b>{{ title.title }}</b></a>.
+      {% else %}
+        <b>{{ title.title }}</b>.
+      {% endif %}
+      <span class="cv-meta">{{ title.date }}.</span><br/>
+      {% endfor %}
+  </div>
+
+</div>
+
+<!-- 7a: Workshops Led -->
+<div class="clear">
+<h2><span id="t7a"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Workshops Led</h2>
 
 {% for title in site.data.cv.workshop %}
     {% if forloop.first == true %}
@@ -270,7 +276,7 @@ title: CV
             </div>-->
         <div class="one-fourth column-bottom clear subcat"></div>
             <div class="three-fourths column-last column-bottom clear">
-                {% for title in site.data.cv.service%}
+                {% for title in site.data.cv.service %}
                     <b>{{ title.title }}</b> • <span class="cv-meta">{{ title.institution }}. {{ title.year }}.</span><br/>
                 {% endfor %}
             </div>
@@ -292,18 +298,4 @@ title: CV
         <span class="cv-meta">{{ title.role }}</span>
         <div class="context" id="creative{{ forloop.index }}">{{ title.context }}</div>
     </div>
-{% endfor %} dotf-->
-
-
-<!-- 11: Skills -->
-<div class="clear">
-<h2><span id="t11"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Skills</h2>
-
-    {% for title in site.data.cv.skills%}
-            <div class="one-fourth column-bottom clear subcat"></div>
-            <div class="three-fourths column-last column-bottom clear">
-            <b>{{ title.title }}</b> • <span class="cv-meta">{{ title.things }}</span>
-            </div>
-    {% endfor %}
-
-</div>
+{% endfor %}-->
