@@ -7,8 +7,8 @@ permalink:        /blog/:categories/:year-:month-:day-:title/
 
 # Setup
 title:            Jeffrey Moro
-tagline:          'circuits & dust'
-description:      'circuits & dust'
+tagline:          'vapor / wear'
+description:      'vapor / wear'
 url:              https://jeffreymoro.com
 
 paginate:         10
