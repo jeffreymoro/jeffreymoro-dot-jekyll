@@ -4,6 +4,7 @@ title: "Qualifications"
 redirect_from: "/2018/04/18/qualifications/"
 tags:
 - academia
+- dissertation
 - lists
 ---
 

@@ -1,15 +1,23 @@
 ########### Publications ###########
-publications:
-  - title: "Weird Ways of Seeing: Patrick Nagatani's Nuclear Vision"
-    snippet: "A short piece on photographer Patrick Nagatani's <i>Nuclear Enchantment</i> and the challenges of visualization and representation in the post-nuclear world."
-    journal: Los Angeles Review of Books
-    date: June 2018
+monographs:
+
+edited:
+
+journals:
+
+web:
+  - title: "Weird Ways of Seeing: Patrick Nagatani’s Nuclear Vision"
+    venue: "Los Angeles Review of Books"
+    date: "2 June 2018"
     url: "https://lareviewofbooks.org/article/weird-ways-of-seeing-patrick-nagatanis-nuclear-vision/"
-    medium: Web
+    permalink: "https://web.archive.org/web/20181202224312/https://lareviewofbooks.org/article/weird-ways-of-seeing-patrick-nagatanis-nuclear-vision/"
+    snippet: "A short piece on photographer Patrick Nagatani's <i>Nuclear Enchantment</i> and the challenges of visualization and representation in the post-nuclear world."
+
+other:
 
 ########### Talks ###########
 
-public:
+conference-talks:
   - title: "Want of Water, Want of Data: The Trans-Atlantic Slave Trade Database and Oceanic Computing"
     snippet: "How might digital humanities projects negotiate the ethical challenges of the Middle Passage? And what can environmental and oceanic critique teach us about how to value indeterminacy in data-driven work?"
     conference: Stored in Memory
@@ -34,14 +42,6 @@ public:
     date: August 2017
     panel: The Environmental and Human Costs of DH
     url: "/research/2017/dh2017"
-  - title: "Surfaces, Standards, Layers, Stacks: Toward a Platform Textuality"
-    snippet: 'A roundtable with Kyle Bickoff and Setsuko Yokoyama on the textuality of platforms. My paper close reads the GitHub repository of Paul Ford’s “What is Code?” to think through the version control site’s pervasive logics of hypervisibility and auto-surveillance.'
-    conference: Textual Embodiments
-    institution: Society for Textual Scholarship and MITH
-    location: College Park, MD
-    date: May 2017
-    panel: ""
-    url: "/research/2017/sts"
   - title: "Vapor Ware, or the Odors of 3D Printing"
     snippet: "Part of a deformance/panel with Kyle Bickoff, Setsuko Yokoyama, and Andy Yeh engaging 3D printing technologies across media archaeological and archival registers. My contribution uses smell as an entrypoint to explore movements of manufacturing and affect in plastics production."
     conference: R-CADE 2017 Symposium
@@ -58,14 +58,6 @@ public:
     date: March 2017
     panel: "The Fiction of Neutral Tools"
     url: "/research/2017/sigcis"
-  - title: "The Critical Is: Mapping New Approaches to Video Game Criticism"
-    snippet: 'A poster emerging from <a href="http://gaming.thecritical.is">The_Critical_Is</a>, engaging new approaches to critical video game pedagogy.'
-    conference: "HASTAC 2015"
-    institution: Michigan State University
-    location: East Lansing, MI
-    date: May 2015
-    panel: ""
-    url: "http://codex.thecritical.is"
   - title: "Undergraduate Digital Humanities, Three Ways"
     snippet: "I was invited to speak at a NERCOMP (Northeast Regional Computing Program) conference called “Emerging Digital Scholars: Undergraduates and Digital Humanities” on strategies Five College Digital Humanities uses to encourage student research and engagement with the digital humanities."
     conference: "Emerging Digital Scholars: Undergraduates and DH"
@@ -74,6 +66,24 @@ public:
     date: April 2014
     panel: ""
     url: ""
+
+conference-other:
+  - title: "Surfaces, Standards, Layers, Stacks: Toward a Platform Textuality"
+    snippet: 'A roundtable with Kyle Bickoff and Setsuko Yokoyama on the textuality of platforms. My paper close reads the GitHub repository of Paul Ford’s “What is Code?” to think through the version control site’s pervasive logics of hypervisibility and auto-surveillance.'
+    conference: Textual Embodiments
+    institution: Society for Textual Scholarship and MITH
+    location: College Park, MD
+    date: May 2017
+    panel: ""
+    url: "/research/2017/sts"
+  - title: "The Critical Is: Mapping New Approaches to Video Game Criticism"
+    snippet: 'A poster emerging from <a href="http://gaming.thecritical.is">The_Critical_Is</a>, engaging new approaches to critical video game pedagogy.'
+    conference: "HASTAC 2015"
+    institution: Michigan State University
+    location: East Lansing, MI
+    date: May 2015
+    panel: ""
+    url: "http://codex.thecritical.is"
 
 ########### Projects ###########
 projects:

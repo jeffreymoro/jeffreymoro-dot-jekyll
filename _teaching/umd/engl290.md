@@ -267,6 +267,7 @@ No meetings.
 #### Mon 25 March
 
 - *Read*: Selections from Safiya Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*
+- *Watch*: Jen Golbeck, ["The Curly Fry Conundrum"](https://www.ted.com/talks/jennifer_golbeck_the_curly_fry_conundrum_why_social_media_likes_say_more_than_you_might_think)
 
 #### Wed 27 March
 
@@ -294,21 +295,19 @@ No meetings.
 
 - *Read*: Shirin Vossoughi et al., "Making Through the Lens of Culture and Power: Toward Transformative Visions for Educational Equity"
 
-### Week 11: *Data*
+### Week 11: *Play*
 
 #### Mon 8 April
 
-- *Read*: SOME OTHER SELECTION FROM *Raw Data is an Oxymoron*
-- *Watch*: Jen Golbeck, ["The Curly Fry Conundrum"](https://www.ted.com/talks/jennifer_golbeck_the_curly_fry_conundrum_why_social_media_likes_say_more_than_you_might_think)
+- *Play*: 
 
 #### Wed 10 April
 
-- *Lab*: Rough Sketches of Data Visualization
-- *Optional Useful Resource*: Scott Murray, *Interactive Data Visualization for the Web*
+- *Lab*:
 
 #### Fri 12 April
 
-- *Read*: Shannon Mattern, ["The Big Data of Ice, Rocks, Soils, and Sediments"](https://placesjournal.org/article/the-big-data-of-ice-rocks-soils-and-sediments/)
+- *Play*:
 
 ### Week 12: *Glitch*
 

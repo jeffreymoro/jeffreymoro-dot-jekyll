@@ -3,94 +3,64 @@ layout: page
 title: Research
 ---
 
-<!-- Publications -->
-<div class="tabsWrapper clear">
+<div class="tabsWrapper clear" id="t0">
 <ul class="tabs">
-    <li class="active">
-        <a href="#t1" id="t1">WRITING</a></li>
     <li>
-        <a href="#t2">TALKING</a></li>
+        <a href="#t1">RESEARCH INTERESTS</a></li>
+    <!--<li>
+        <a href="#t2">DISSERTATION</a></li>-->
     <li>
-        <a href="#t3">COMPUTING</a></li>
+        <a href="#t3">PUBLICATIONS</a></li>
+    <li>
+        <a href="#t4">PRESENTATIONS</a></li>
+    <li>
+        <a href="#t5">DIGITAL PROJECTS</a></li>
 </ul>
 </div>
 
-{% for publications in site.data.research.publications %}
-    {% if forloop.last == true %}
-        <div class="row row-final grad-{{ forloop.index }} clear">
-            <h3>{% if publications.url == "" %}{{ publications.title }}{% else %}<a href="{{ publications.url }}">{{ publications.title }}</a>{% endif %}</h3>
-            <p class="research-meta"><small>{{ publications.date }}. <i>{{ publications.journal }}</i>. {{ publications.medium }} • <a id="showPublications{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a></small></p>
-            <div class="context" id="publications{{ forloop.index }}"><p>{{ publications.snippet }} • <a href="{{ publications.url }}"><b>Read the piece here.</b></a></p></div>
-        </div>
-    {% else %}
-        <div class="row row-final grad-{{ forloop.index }} clear">
-            <h3>{% if publications.url == "" %}{{ publications.title }}{% else %}<a href="{{ publications.url }}">{{ publications.title }}</a>{% endif %}</h3>
-            <p class="research-meta"><small>{{ publications.date }}. <i>{{ publications.journal }}</i>. {{ publications.medium }} • <a id="showPublications{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a></small></p>
-            <div class="context" id="publications{{ forloop.index }}"><p>{{ publications.snippet }} • <a href="{{ publications.url }}"><b>Read the piece here.</b></a></p></div>
-        </div>
-    {% endif %}
-{% endfor %}
-
-<!-- In Public -->
-<div class="tabsWrapper clear">
-<ul class="tabs">
-    <li>
-        <a href="#t1">WRITING</a></li>
-    <li class="active">
-        <a href="#t2" id="t2">TALKING</a></li>
-    <li>
-        <a href="#t3">COMPUTING</a></li>
-</ul>
+<div>
+  <h2><span id="t1"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Research Interests</h2>
+  <p>My research is at the crossroads of digital media studies and the environmental humanities. Some keywords include: media archaeology, infrastructure, computer security, speculation, affect and aesthetics, biopolitics, media materialism, weather forecasting, nuclear cultures. I’m writing a dissertation titled <em>Atmospheric Media</em>, which investigates geophysical and aesthetic atmospheres in digital media cultures. You can learn more about my dissertation progress by reading my blog posts tagged <a href="/tags/dissertation/">“dissertation.”</a></p>
 </div>
 
-{% for public in site.data.research.public %}
-    {% if forloop.last == true %}
-        <div class="row row-final grad-{{ forloop.index }} clear">
-            {% if public.url !="" %}
-            <h3><a href="{{ public.url }}">“{{ public.title }}”</a></h3>
-            {% else %}
-            <h3>{{ public.title }}</h3>
-            {% endif %}
-            <p class="research-meta"><small>{{ public.date }}. <i>{{ public.conference }}</i>, {{ public.institution }}, {{ public.location }} • <a id="showPublic{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></small></a></p>
-            <div class="context" id="public{{ forloop.index }}"><p>{{ public.snippet }} {% if public.panel == "" %}{% else %}<i>Panel: “{{ public.panel }}.”</i>{% endif %}{% if public.url == "" %}{% else %} • <a href="{{ public.url }}"><b>Read the talk here.</b></a>{% endif %}</p></div>
-        </div>
-    {% else %}
-        <div class="row grad-{{ forloop.index }} clear">
-            {% if public.url !="" %}
-            <h3><a href="{{ public.url }}">“{{ public.title }}”</a></h3>
-            {% else %}
-            <h3>{{ public.title }}</h3>
-            {% endif %}
-            <p class="research-meta"><small>{{ public.date }}. <i>{{ public.conference }}</i>, {{ public.institution }}, {{ public.location }} • <a id="showPublic{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></small></a></p>
-            <div class="context" id="public{{ forloop.index }}"><p>{{ public.snippet }} {% if public.panel == "" %}{% else %}<i>Panel: “{{ public.panel }}.”</i>{% endif %}{% if public.url == "" %}{% else %} • <a href="{{ public.url }}"><b>Read the talk here.</b></a>{% endif %}</p></div>
-        </div>
-    {% endif %}
-{% endfor %}
+<div>
+  <h2><span id="t3"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Publications</h2>
 
-<!-- Digital Projects -->
-<div class="tabsWrapper clear">
-<ul class="tabs">
-    <li>
-        <a href="#t1">WRITING</a></li>
-    <li>
-        <a href="#t2">TALKING</a></li>
-    <li class="active">
-        <a href="#t3" id="t3">COMPUTING</a></li>
-</ul>
+  <h3>Web</h3>
+  {% for web in site.data.research.web %}
+    <div class="research-title"><h4>{% if web.url == "" %}{{ web.title }}{% else %}<a href="{{ web.url }}">{{ web.title }}</a>{% endif %}</h4></div>
+    <div class="research-meta"><small>{{ web.date }}, <em>{{ web.venue }}</em>.</small></div>
+    <div class="research-context">{{ web.snippet }} <a href="{{ web.permalink }}">Here's a permalink to the page.</a></div>
+  {% endfor %}
+
 </div>
 
-{% for projects in site.data.research.projects %}
-    {% if forloop.last == true %}
-        <div class="row row-final grad-{{ forloop.index }} clear">
-            <h3><a href="{{ projects.url }}">{{ projects.title }}</a></h3>
-            <p class="research-meta"><small>{{ projects.date }} • <i>{{ projects.role }}</i> • <a id="showProjects{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></small></a></p>
-            <div class="context" id="projects{{ forloop.index }}"><p>{{ projects.snippet }} • <a href="{{ projects.url }}"><b>Visit the project.</b></a></p></div>
-        </div>
-    {% else %}
-        <div class="row grad-{{ forloop.index }} clear">
-            <h3><a href="{{ projects.url }}">{{ projects.title }}</a></h3>
-            <p class="research-meta"><small>{{ projects.date }} • <i>{{ projects.role }}</i> • <a id="showProjects{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></small></a></p>
-            <div class="context" id="projects{{ forloop.index }}"><p>{{ projects.snippet }} • <a href="{{ projects.url }}"><b>Visit the project.</b></a></p></div>
-        </div>
-    {% endif %}
-{% endfor %}
+<div>
+  <h2><span id="t4"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Presentations</h2>
+
+  <h3>Conference Talks</h3>
+  {% for conference-talks in site.data.research.conference-talks %}
+    <div class="research-title"><h4>{% if conference-talks.url == "" %}{{ conference-talks.title }}{% else %}<a href="{{ conference-talks.url }}">{{ conference-talks.title }}</a>{% endif %}</h4></div>
+    <div class="research-meta"><small>{{ conference-talks.date }}, {{ conference-talks.conference }}, {{ conference-talks.institution }}, {{ conference-talks.location }}.</small></div>
+    <div class="research-context">{{ conference-talks.snippet }} {% if conference-talks.url != "" %}<a href="{{ conference-talks.url }}">Link.</a>{% else %}{% endif %}</div>
+  {% endfor %}
+
+  <h3>Roundtables and Panels</h3>
+  {% for conference-other in site.data.research.conference-other %}
+    <div class="research-title"><h4>{% if conference-other.url == "" %}{{ conference-other.title }}{% else %}<a href="{{ conference-other.url }}">{{ conference-other.title }}</a>{% endif %}</h4></div>
+    <div class="research-meta"><small>{{ conference-other.date }}, <em>{{ conference-other.venue }}</em>.</small></div>
+    <div class="research-context">{{ conference-other.snippet }} {% if conference-other.url != "" %}<a href="{{ conference-other.url }}">Link.</a>{% else %}{% endif %}</div>
+  {% endfor %}
+
+</div>
+
+<div>
+  <h2><span id="t5"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Digital Projects</h2>
+
+  {% for projects in site.data.research.projects %}
+    <div class="research-title"><h4>{% if projects.url == "" %}{{ projects.title }}{% else %}<a href="{{ projects.url }}">{{ projects.title }}</a>{% endif %}</h4></div>
+    <div class="research-meta"><small>{{ projects.date }}, <em>{{ projects.role }}</em>.</small></div>
+    <div class="research-context">{{ projects.snippet }} <a href="{{ projects.url }}">Link.</a></div>
+  {% endfor %}
+
+</div>
