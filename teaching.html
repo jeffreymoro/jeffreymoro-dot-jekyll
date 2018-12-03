@@ -3,4 +3,40 @@ layout: page
 title: Teaching
 ---
 
-Under construction!
+<div class="tabsWrapper clear" id="t0">
+<ul class="tabs">
+    <li>
+        <a href="#t1">UNIVERSITY OF MARYLAND</a></li>
+    <li>
+        <a href="#t2">SMITH COLLEGE</a></li>
+    <li>
+        <a href="#t3">WORKSHOPS</a></li>
+</ul>
+</div>
+
+<div>
+  <h2><span id="t1"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> University of Maryland</h2>
+  {% for courses-umd in site.data.teaching.courses-umd %}
+    <div class="research-title"><h4>{% if courses-umd.url == "" %}{{ courses-umd.title }}{% else %}<a href="{{ courses-umd.url }}">{{ courses-umd.title }}</a>{% endif %}</h4></div>
+    <div class="research-meta"><small>{{ courses-umd.date }}, <em>{{ courses-umd.number }}</em>.</small></div>
+    <div class="research-context">{{ courses-umd.snippet }} {% if courses-umd.url != "" %}<a href="{{ courses-umd.url }}">Link.</a>{% else %}{% endif %}</div>
+  {% endfor %}
+</div>
+
+<div>
+  <h2><span id="t1"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Smith College</h2>
+  {% for courses-smith in site.data.teaching.courses-smith %}
+    <div class="research-title"><h4>{% if courses-smith.url == "" %}{{ courses-umd.smith }}{% else %}<a href="{{ courses-smith.url }}">{{ courses-smith.title }}</a>{% endif %}</h4></div>
+    <div class="research-meta"><small>{{ courses-smith.date }}.</small></div>
+    <div class="research-context">{{ courses-smith.snippet }} {% if courses-smith.url != "" %}<a href="{{ courses-smith.url }}">Link.</a>{% else %}{% endif %}</div>
+  {% endfor %}
+</div>
+
+<div>
+  <h2><span id="t1"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Workshops</h2>
+  {% for workshops in site.data.teaching.workshops %}
+    <div class="research-title"><h4>{% if workshops.url == "" %}{{ workshops.title }}{% else %}<a href="{{ workshops.url }}">{{ workshops.title }}</a>{% endif %}</h4></div>
+    <div class="research-meta"><small>{{ workshops.date }}.</small></div>
+    <div class="research-context">{{ workshops.snippet }} {% if workshops.url != "" %}<a href="{{ workshops.url }}">Link.</a>{% else %}{% endif %}</div>
+  {% endfor %}
+</div>

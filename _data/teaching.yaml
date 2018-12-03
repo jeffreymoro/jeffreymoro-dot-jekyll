@@ -1,7 +1,35 @@
-courses:
+courses-umd:
   - title: Introduction to Digital Studies
     institution: University of Maryland, College Park
     date: Spring 2019
     number: ENGL290
     url: "/teaching/umd/engl290"
-    snippet:
+    snippet: ""
+  - title: Academic Writing
+    institution: University of Maryland, College Park
+    date: Fall 2018
+    number: ENGL101
+    url: ""
+    snippet: ""
+
+courses-smith:
+  - title: Media Archaeology, Climate Change, and the Digital (Non)humanities
+    institution: Smith College
+    date: January 2016
+    number: ""
+    url: "https://ecomedia.jeffreymoro.com"
+    snippet: ""
+  - title: "E.LIT / NET.ART"
+    institution: Smith College
+    date: January 2015
+    number: ""
+    url: "https://elit.jeffreymoro.com/course"
+    snippet: ""
+
+workshops:
+  - title: Curating Your Digital Presence
+    institution: University of Maryland, College Park
+    date: Recurrent
+    number: ENGL290
+    url: ""
+    snippet: ""
