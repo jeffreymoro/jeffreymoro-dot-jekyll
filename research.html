@@ -41,14 +41,14 @@ title: Research
   <h3>Conference Talks</h3>
   {% for conference-talks in site.data.research.conference-talks %}
     <div class="research-title"><h4>{% if conference-talks.url == "" %}{{ conference-talks.title }}{% else %}<a href="{{ conference-talks.url }}">{{ conference-talks.title }}</a>{% endif %}</h4></div>
-    <div class="research-meta"><small>{{ conference-talks.date }}, {{ conference-talks.conference }}, {{ conference-talks.institution }}, {{ conference-talks.location }}.</small></div>
+    <div class="research-meta"><small>{{ conference-talks.date }}, <em>{{ conference-talks.conference }}</em>, {{ conference-talks.institution }}, {{ conference-talks.location }}.</small></div>
     <div class="research-context">{{ conference-talks.snippet }} {% if conference-talks.url != "" %}<a href="{{ conference-talks.url }}">Link.</a>{% else %}{% endif %}</div>
   {% endfor %}
 
   <h3>Roundtables and Panels</h3>
   {% for conference-other in site.data.research.conference-other %}
     <div class="research-title"><h4>{% if conference-other.url == "" %}{{ conference-other.title }}{% else %}<a href="{{ conference-other.url }}">{{ conference-other.title }}</a>{% endif %}</h4></div>
-    <div class="research-meta"><small>{{ conference-other.date }}, <em>{{ conference-other.venue }}</em>.</small></div>
+    <div class="research-meta"><small>{{ conference-other.date }}, <em>{{ conference-other.conference }}</em>, {{ conference-other.institution }}, {{ conference-other.location }}.</small></div>
     <div class="research-context">{{ conference-other.snippet }} {% if conference-other.url != "" %}<a href="{{ conference-other.url }}">Link.</a>{% else %}{% endif %}</div>
   {% endfor %}
 
