@@ -7,7 +7,7 @@
 }
 @font-face {
     font-family: 'Calibre';
-    src: url("/assets/fonts/Calibre-Bold.woff") format("woff");
+    src: url("/assets/fonts/Calibre-Bold.woff");
     font-weight: 700;
     font-style: normal;
 }
@@ -20,35 +20,6 @@
 @font-face {
     font-family: 'Calibre';
     src: url("/assets/fonts/Calibre-BoldItalic.woff");
-    font-weight: 700;
-    font-style: italic;
-}
-
-@font-face {
-    font-family: 'Crimson';
-    src:    url("/assets/fonts/crimson-roman-webfont.woff2") format("woff2"),
-            url("/assets/fonts/crimson-roman-webfont.woff") format("woff");
-    font-weight: 400;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'Crimson';
-    src:    url("/assets/fonts/crimson-bold-webfont.woff2") format("woff2"),
-            url("/assets/fonts/crimson-bold-webfont.woff") format("woff");
-    font-weight: 700;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'Crimson';
-    src:    url("/assets/fonts/crimson-italic-webfont.woff2") format("woff2"),
-            url("/assets/fonts/crimson-italic-webfont.woff") format("woff");
-    font-weight: 400;
-    font-style: italic;
-}
-@font-face {
-    font-family: 'Crimson';
-    src:    url("/assets/fonts/crimson-bolditalic-webfont.woff2") format("woff2"),
-            url("/assets/fonts/crimson-bolditalic-webfont.woff") format("woff");
     font-weight: 700;
     font-style: italic;
 }
@@ -81,26 +52,22 @@
     font-weight: 700;
     font-style: italic;
 }
-
-.calibre {
-	font-family: "Calibre";
+@font-face {
+    font-family: 'Inconsolata';
+    src: url("/assets/fonts/inconsolata.woff");
+    font-weight: 400;
+    font-style: normal;
 }
-
-.inputmono {
-	font-family: "Input Mono";
-}
-
-.crimson {
-    font-family: "Crimson";
-}
-
-.arnhem {
-    font-family: "Arnhem";
+@font-face {
+    font-family: 'Inconsolata';
+    src: url("/assets/fonts/inconsolata-bold.woff");
+    font-weight: 700;
+    font-style: normal;
 }
 
 $primaryfont: "Calibre", sans-serif;
-$monospacefont: "Input Mono", monospace;
-$essayfont: "Arnhem", "Crimson", serif;
+$monospacefont: "Inconsolata", monospace;
+$essayfont: "Arnhem", serif;
 
 // Fonts Style
 .sidebar-about h1, body, .pagination {

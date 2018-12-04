@@ -154,12 +154,12 @@ abbr[title] {
 
 code,
 pre {
-  font-family: "Input Mono", monospace;
+  font-family: "Inconsolata", monospace;
 }
 
 code {
   padding: .25em .5em;
-  font-size: 85%;
+  //font-size: 85%;
   //color: #f8f8f8;
   //background-color: #181818;
   border-radius: 3px;
@@ -172,7 +172,7 @@ pre {
 
 pre code {
   padding: 0;
-  font-size: 80%;
+  //font-size: 80%;
   color: inherit;
   background-color: transparent;
 }
@@ -182,7 +182,7 @@ pre code {
   // margin-left: 1rem;
   padding: 1rem;
   margin-bottom: 1rem;
-  font-size: .7rem;
+  font-size: .8rem;
   line-height: 1.4;
   //background-color: #f9f9f9;
   border-radius: .25rem;
@@ -219,7 +219,7 @@ pre code {
   filter: alpha(opacity=$opacity-ie); //IE8
 }
 
-// having a lineno-container made it easier to style line number 
+// having a lineno-container made it easier to style line number
 // code blocks without impacting normal code blocks
 .lineno-container > figure > pre {
   padding: 0px;
@@ -228,7 +228,7 @@ pre code {
 .highlight {
   pre.lineno {
     border: none;
-    @include opacity(0.6);  
+    @include opacity(0.6);
   }
 
   .lineno {
@@ -268,7 +268,7 @@ pre code {
 //   background-color: transparent;
 //   border-radius: 0;
 // }
- 
+
 /* Quotes */
 blockquote {
   padding: .5rem 1rem;
