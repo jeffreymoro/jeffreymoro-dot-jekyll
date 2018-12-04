@@ -32,7 +32,7 @@ number: ENGL290
 
 "Digital studies" names a range of interdisciplinary approaches to the critical and creative study of digital media. This course is your introduction to this diverse and rapidly shifting field. Our overall goal is to develop a critical vocabulary for the analysis of digital objects and cultures, from computer code, to video games, to social media, to electronic waste, and more. We'll engage digital media from historical, aesthetic, technical, and political perspectives, with a particular eye toward how digital technologies increasingly shape most every aspect of contemporary life. To do so, we apply many of the traditional analytical tools of the humanities and social sciences, particularly literary and media studies, as well as creative and technical practices of tinkering, making, and design. If the various interests and approaches under the rubric of "digital studies" have a shared method, it's that *doing things* is key to *knowing things*.
 
-This is a wide-ranging class designed to provide many different points of entry into digital studies. To this end, I've organized this course around thirteen keywords: digital, code, network, infrastructure, memory, physical, interface, social, manufacture, data, glitch, labor, and waste. Each week we'll dive into a specific keyword, all the while staying sensitive to the connections we can map across them.
+This is a wide-ranging class designed to provide many different points of entry into digital studies. To this end, I've organized this course around thirteen keywords: digital, code, network, infrastructure, memory, physical, interface, social, manufacture, play, glitch, labor, and waste. Each week we'll dive into a specific keyword, all the while staying sensitive to the connections we can map across them.
 
 This is not a "learn to code" class; you don't need to know anything about computer science. When we do get our hands dirty, it will be in the service of experimentation and critical play. Your assignments will reflect this experimental approach as well. You'll do "traditional" academic writing, but also create objects, craft artist's statements, give presentations, and participate in regular "labs," during which you'll work hands-on with digital media technologies.
 
@@ -56,21 +56,22 @@ You should also have a working laptop running one of the following operating sys
 
 - Windows 10
 - macOS 10.12 "Sierra" or any higher version
-- Ubuntu 16.04 or higher (most major Linux repositories are acceptable)
+- Ubuntu 16.04 or higher (most major Linux distributions are acceptable)
 
 Note that relying solely a tablet or Chromebook will make some in-class labs challenging. If you don't have a laptop available, I recommend [checking one out from McKeldin Library](https://www.lib.umd.edu/tlc/equipment). If none of these options suffice, please come speak with me before rushing out to buy an expensive laptop.
 
 Here is also an incomplete list of the programs that you should plan to install over the course of this class. Note that you *should not pay for any of these programs*. Many do have options to pay but also have free demo modes that will suffice for our class. Not all are available for all platforms. I'll flag in class the ones that are most imperative for you to download.
 
-- Firefox or Google Chrome (all platforms)
-- Microsoft Word (Windows/macOS) or LibreOffice (Linux). Word is available for free through the [Terpware](https://terpware.umd.edu/) portal.
-- Atom (all platforms)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) or [Google Chrome](https://www.google.com/chrome/) (all platforms)
+- Microsoft Word (Windows/macOS) or [LibreOffice](https://www.libreoffice.org/) (Linux). Word is available for free through the [Terpware](https://terpware.umd.edu/) portal.
+- [Atom](https://atom.io/) (all platforms). (Any text editor is acceptable if you already use one regularly.)
 - If on Windows, the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-- Little Snitch (macOS only)
-- Nestopia (all platforms)
-- Cura (all platforms)
-- Vinesauce ROM Corrupter (Windows)
-- Sign up for Twitter.
+- [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) (macOS only)
+- [Nestopia](http://nestopia.sourceforge.net/) (all platforms)
+- [Cura](https://ultimaker.com/en/products/ultimaker-cura-software) (all platforms)
+- [Vinesauce ROM Corrupter](http://corruptedbytes.com/the-vinesauce-rom-corruptor/) (Windows)
+- [Twine](https://twinery.org/) (all platforms)
+- Sign up for [Twitter](https://twitter.com/).
 
 Should you choose to 3D print for the Object Lesson assignment, you may have to budget $10 to $15 for associated equipment costs.
 
@@ -86,7 +87,7 @@ Here's the overall breakdown:
 - Lightning Talk: 5% [delivered the week of 5/6/18]
 - Final Portfolio: 25% [due 5/17/18]
 
-### A Note on Deadlines
+### A Note on Deadlines and Submission Protocols
 
 As we're all coming to this class with different interests, backgrounds, and facilities; and as everyone's semester follows different rhythms of business and calm; and as I want you to take ownership over the work for this class, I have designed the assignments with flexible deadlines so that you can decide which assignments you want to tackle and when.
 
@@ -94,7 +95,11 @@ You will complete **two** Lab Reports throughout the semester, described below. 
 
 The two main assignments of the course are a Short Essay and an Object Lesson, also described below. You have the option of choosing which one you'd like to do first in the semester, to be due on Friday 8 March, and which you'd like to do second, to be due on Friday 19 April. **You will complete both assignments**—you won't do two Object Lessons and no Short Essay, for instance—but you choose the order.
 
-Assignments are due at 11:59 PM the listed days. I'll reduce the grade on plus/minus grade level each day that it's turned in late (A becomes an A-; B- becomes a C+; and so forth). I won't accept assignments turned in more than a week late. If you have an extenuating circumstance that's making it difficult for you to reach a deadline, please write me, ideally well in advance, so we can discuss alternatives.
+**Assignments are due at 11:59 PM the listed days.** I'll reduce the grade one plus/minus grade level each day that it's turned in late (A becomes an A-; B- becomes a C+; and so forth). I won't accept assignments turned in more than a week late. If you have an extenuating circumstance that's making it difficult for you to reach a deadline, please write me, ideally well in advance, so we can discuss alternatives.
+
+**You should submit assignments through ELMS in a .docx file format.** I will not accept: Apple Pages files, PDFs, or links to Google Docs. I'm stringent about file formats because I use track changes to give you comments, and Microsoft Word doesn't play nice with all other formats and programs. For assignments that are non-textual or cannot be mediated digitally (i.e., parts of the Object Lesson assignment), contact me about alternate methods for submission.
+
+Finally, please use MLA formatting for all assignments. The [Purdue OWL](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html) is a great resource if you need to brush up on this citation format.
 
 ### Participation
 
@@ -102,7 +107,7 @@ The litmus test for participation is simple: do you come to class prepared and e
 
 Note that "class participation" doesn't mean always raising your hand at opportune moments. Indeed, dominating a class conversation can be the precise opposite of effective and respectful participation. As such, I take a wide view of "participation" to include the thoughtfulness of your contributions to the class as a whole.
 
-Attendance is crucial to your ability to participate in the class. Not only do we all need to be present in order to learn together, many if not all of the crucial concepts build off each other, meaning that missed classes compound on each other. Attending lab days are particularly crucial given their importance to your Lab Report assignments. Please see the PDF version of the syllabus for full UMD policies on course attendance.
+Attendance is crucial to your ability to participate in the class. Not only do we all need to be present in order to learn together, many if not all of the crucial concepts build off each other, meaning that missed classes compound on each other. Attending lab days are particularly crucial given their importance to your Lab Report assignments. If you have a particularly nasty commute that causes you to be regularly late for class, please talk to me ASAP so we can work something out. Please see the PDF version of the syllabus for full UMD policies on course attendance.
 
 ### Lab Reports
 
@@ -128,9 +133,9 @@ You should be in touch with me a few weeks before you plan to submit the paper t
 
 Create an object that does some kind of critical work in digital studies, and write a short (c. 500 words) artist's statement to accompany the object.
 
-One of the major themes in this course is that *doing* and *making* are forms of knowledge production. To that end, this assignment asks you to get your hands dirty and create some kind of physical or virtual object that performs critical work in digital studies. What might such an object entail? We'll discuss this at length in class, but you might create: a 3D-printed object that analyzes its own material creation; a piece of digital literature; a series of glitched images; data visualizations of your internet usage; or many other things inspired by the objects we analyze in class. I'd recommend using one of the technologies that we experiment with in class, but I'm open to other alternatives.
+One of the major themes in this course is that *doing* and *making* are forms of knowledge production. To that end, this assignment asks you to get your hands dirty and create some kind of physical or virtual object that performs critical work in digital studies. What might such an object entail? We'll discuss this at length in class, but you might create: a 3D-printed object that analyzes its own material creation; a piece of digital literature; a series of glitched images; data visualizations of your internet usage; or many other things inspired by the objects we analyze in class. I recommend using one of the technologies that we experiment with in class, but I'm open to alternatives for those coming in with different skill levels.
 
-This is as much a creative project as it is a critical one. However, I'm not assessing this assignment on whether you're a good artist or technically facile. Broken prototypes can be just as useful as fully fledged gallery installations. What helps them be useful is the artist's statement that accompanies them: a short written component that discusses what you attempted to do and how successful you were in doing it. We'll discuss more about what makes a good artist's statement in class.
+This is as much a creative project as it is a critical one. However, I'm not assessing this assignment on whether you're a good artist or technically facile. Broken prototypes can be just as useful as operating objects. What helps them be useful is the artist's statement that accompanies them: a short written component that discusses what you attempted to do and how successful you were in doing it. We'll discuss more about what makes an effective artist's statement in class.
 
 Just as for the Short Essay, you should be in touch with me a few weeks before you plan to submit your object to discuss your approach and any support you need.
 
@@ -161,7 +166,7 @@ All readings not directly linked are available on ELMS, with the exception of th
 #### Fri 1 Feb
 
 - *Read*: N. Katherine Hayles, "Print is Flat, Code is Deep: The Importance of Media-Specific Analysis"
-- *Browse*: ["Anatomy of an AI System"](https://anatomyof.ai/)
+- *Browse*: Kate Crawford and Vladen Joler, ["Anatomy of an AI System"](https://anatomyof.ai/)
 
 ### Week 2: *Code*
 
@@ -171,12 +176,12 @@ All readings not directly linked are available on ELMS, with the exception of th
 
 #### Wed 6 Feb
 
-- *Lab*: Finally You Can Tell Your Parents You Learned To Code
-- *Read*: Selections from Nick Montfort, *Exploratory Programming for the Arts and Humanities*
+- *Lab*: Basic Coding and Procedurally Generated Poetry
+- *Read*: Nick Montfort, Chapters 1, 2, and 5 in *Exploratory Programming for the Arts and Humanities*
 
 #### Fri 8 Feb
 
-- *Read*: Selections from Nick Montfort, *#!* (pronounced "Shebang")
+- *Read*: Selections from Nick Montfort, *#!* (pronounced "Shebang"); Montfort (and many others), ["Taroko Gorge"](https://nickm.com/taroko_gorge/) and its remixes
 - *Deadline*: Email me your letter of interest.
 
 ### Week 3: *Network*
@@ -188,7 +193,7 @@ All readings not directly linked are available on ELMS, with the exception of th
 #### Wed 13 Feb
 
 - *Lab*: Trace Route, Little Snitch, and the Networks the Surround Us
-- *Read*: Selections from Tung-Hui Hu, *A Prehistory of the Cloud*
+- *Read*: Tung-Hui Hu, "The Shape of the Network" from *A Prehistory of the Cloud*
 
 #### Fri 15 Feb
 
@@ -214,23 +219,23 @@ All readings not directly linked are available on ELMS, with the exception of th
 
 #### Mon 25 Feb
 
-- *Read*: Warren Sack, "Memory" in *Software Studies*
-- *Browse*: ["One Terabyte of Kilobyte Age,"](http://blog.geocities.institute/) a curation project by Olia Lialina and Dragan Espenschied, with accompanying [Tumblr site](http://oneterabyteofkilobyteage.tumblr.com/)
+- *Read*: Vannevar Bush, ["As We May Think"](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 
 #### Wed 27 Feb
 
-- *Lab*: Emulation and Preservation
-- *Browse*: [NESDev Wiki](http://wiki.nesdev.com/w/index.php/Nesdev_Wiki); Internet Archive's [Wayback Machine](https://archive.org/web/); [FEMICOM](http://www.femicom.org/)
+- *Read*: Warren Sack, "Memory" in *Software Studies*
+- *Browse*: ["One Terabyte of Kilobyte Age,"](http://blog.geocities.institute/) a curation project by Olia Lialina and Dragan Espenschied, with accompanying [Tumblr site](http://oneterabyteofkilobyteage.tumblr.com/)
 
 #### Fri 1 March
 
-- *Read*: Selections from Wendy Hui Kyong Chun, *Programmed Visions: Software and Memory*
+- *Lab*: Emulation and Preservation
+- *Browse*: [NESDev Wiki](http://wiki.nesdev.com/w/index.php/Nesdev_Wiki); Internet Archive's [Wayback Machine](https://archive.org/web/); [FEMICOM](http://www.femicom.org/)
 
 ### Week 6: *Physical*
 
 #### Mon 4 March
 
-- *Read*: Selections from Matthew Kirschenbaum, *Mechanisms: New Media and the Forensic Imagination*
+- *Read*: Matthew Kirschenbaum, "Every Contact Leaves a Trace", *Mechanisms: New Media and the Forensic Imagination* [read pp. XXX–YYY]
 
 #### Wed 6 March
 
@@ -299,70 +304,82 @@ No meetings.
 
 #### Mon 8 April
 
-- *Play*: 
+- *Play*: Nintendo, *Super Mario Bros*
+- *Read*: Nathan Altice, "Platforming," *I AM ERROR*
 
 #### Wed 10 April
 
-- *Lab*:
+- *Lab*: Prototyping with Twine
+- *Play*: Tom McHenry, [*Horse Master, the Game of Horse Mastery*](https://tommchenry.itch.io/horse-master)
 
 #### Fri 12 April
 
-- *Play*:
+- *Play*: Nintendo, *The Legend of Zelda* [Toy around with it for fifteen minutes or so to get a sense of the lay of its land.]; Patrick LeMieux and Stephanie Boluk, [*Triforce*](https://alt254.itch.io/triforce)
+- *Read*: Selections from Patrick LeMieux and Stephanie Boluk, *Metagaming*
 
 ### Week 12: *Glitch*
 
 #### Mon 15 April
 
-- *Play*: Nintendo, *Super Mario Bros.* Attempt to reach [Minus World](https://www.mariowiki.com/Minus_World)
-- *Play/Watch*: Cory Arcangel, [*Super Mario Movie*](http://www.coryarcangel.com/things-i-made/2005-001-super-mario-movie)
+- *Replay*: Nintendo, *Super Mario Bros.* Attempt to reach [Minus World](https://www.mariowiki.com/Minus_World)
+- *Watch*: Cory Arcangel, [*Super Mario Movie*](http://www.coryarcangel.com/things-i-made/2005-001-super-mario-movie)
 - *Read*: Rosa Menkman, "Glitch Studies Manifesto"
 
 #### Wed 17 April
 
 - *Lab*: DIY Glitch Art
-- *Read*: Andrew Ferguson, "Mirror World, Minus World: Glitching Nabokov's *Pale Fire*"
+- *Watch*: Marisa Parham, "Black Glitch in the Hour of Chaos" [OR ANOTHER TALK IF I CAN'T TRACK THIS ONE DOWN]
 
 #### Fri 19 April
 
 - *Watch*: Selected Let's Play and speedrun videos:
   + Jason Schreier, ["Watch *Pokémon Red/Blue* Get Destroyed In Just 21 Minutes"](https://kotaku.com/watch-pokemon-red-blue-get-destroyed-in-just-21-minutes-1678548786)
   + SethBling, ["SNES Code Injection — Flappy Bird in SMW"](https://www.youtube.com/watch?v=hB6eY73sLV0)
-  + Rachel Simone Weil's [keynote](https://www.youtube.com/watch?v=0FwhL3SpgxU) at R-CADE 2017.
+  + Rachel Simone Weil's [keynote](https://www.youtube.com/watch?v=0FwhL3SpgxU) at R-CADE 2017. [It's fairly long so feel free to skim through.]
+- *Deadline*: Short Essay or Object Lesson due.
 
 ### Week 13: *Labor*
 
 #### Mon 22 April
 
-- *Read*: Selections from Trebor Scholz, ed., *Digital Labor*
+- *Read*: Nakamura, "Don't Hate the Player, Hate the Game: The Racialization of Labor in World of Warcraft" from *Digital Labor*, edited by Trebor Scholz.
 
 #### Wed 24 April
 
-- No formal class; individual meetings with me.
+- No formal class; individual meetings with me about your presentation and portfolio.
 
 #### Fri 26 April
 
-- *Read*: Sarah Roberts, "Social Media's Silent Filter"
+- *Read*: Sarah Roberts, ["Social Media's Silent Filter"](https://www.theatlantic.com/technology/archive/2017/03/commercial-content-moderation/518796/)
+- *Deadline*: Lab Report #2 due.
 
 ### Week 14: *Waste*
 
 #### Mon 29 April
 
-- *Read*: Selections from Jennifer Gabrys, *Digital Rubbish: A Natural History of Electronics* and Sean Cubitt, *Finite Media: Environmental Implications of Digital Technologies*
+- *Read*: J.R. Carpenter, *The Gathering Cloud*; Selections from Jennifer Gabrys, *Digital Rubbish*
 
 #### Wed 1 May
 
-- *Read*: J.R. Carpenter, *The Gathering Cloud*.
-- *Also*: *The Gathering Cloud* has an [online component](http://luckysoap.com/thegatheringcloud/). Note that this isn't the same as the printed version.
+- *Read*: J.R. Carpenter, *The Gathering Cloud*; Selections from Sean Cubitt, *Finite Media: Environmental Implications of Digital Technologies*
 
 #### Fri 3 May
 
-- *Read*: J.R. Carpenter, *The Gathering Cloud*
+- *Read*: J.R. Carpenter, *The Gathering Cloud*'s [online edition](http://luckysoap.com/thegatheringcloud/)
 
 ### Week 15: Presentations
 
+No readings; we'll have a gauntlet of lightning talks instead.
+
 ### Week 16: Finals
 
+We'll hold the ostensible last day of class, Monday 5/13, for any overflow that we might have from the presentations. Alternatively, we can use it as a day to review concepts and work on your final portfolios. In any case, there will be food. Your final portfolios are due Friday, 5/17.
+
 ## Acknowledgements
+
+Despite my name being up there as instructor of record, this class would not have been possible without support and input from too many people to name. I am indebted first and foremost to Kyle Bickoff, Setsuko Yokoyama, and Andy Yeh, with whom I developed the initial template of what is now ENGL290 at UMD. Matthew Kirschenbaum and Christina Walter provided valuable guidance through that process. Every teacher inherits the proclivities and activities of those who taught them, and I am particularly guilty of stealing wholesale from Andrew Johnston, Matthew Kirschenbaum, Kari Kraus, Marisa Parham, and Timothy Van Compernolle.
+
+Thanks as well to those scholars on Twitter, whether those I know or those I don't, who generously share their syllabi and teaching materials, both for content and new approaches to teaching itself. Jim Brown, Alan Liu, Shannon Mattern, Miriam Posner, and Jentery Sayers have been particularly generous in this regard, and our scholarly community benefits immeasurably as a consequence.
 
 <!--
 ## Past Iterations
