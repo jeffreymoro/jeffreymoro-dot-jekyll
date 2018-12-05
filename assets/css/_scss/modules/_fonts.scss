@@ -84,7 +84,7 @@ $essayfont: "Arnhem", serif;
 	font-style: italic;
     margin-bottom: 1.5rem;
 }
-.posts, .post {
+.posts, .post, .content {
 	& p {
 		font-family: $essayfont;
         @media (min-width: 38em) {
@@ -113,4 +113,7 @@ $essayfont: "Arnhem", serif;
 body {
     color: $text-color;
     hanging-punctuation: first;
+}
+.revision {
+  font-family: $primaryfont;
 }

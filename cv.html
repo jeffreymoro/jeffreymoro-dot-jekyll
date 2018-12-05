@@ -35,7 +35,7 @@ title: CV
 <div class="clear">
 <h2><span id="t1"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Hi, I&rsquo;m Jeffrey Moro</h2>
     <div class="column-last column-bottom clear">
-        {{ site.data.cv.profile }}
+        <p>{{ site.data.cv.profile }}</p>
     </div>
 </div>
 
@@ -45,7 +45,7 @@ title: CV
     {% for institution in site.data.cv.education %}
         <div class="one-fourth column-bottom clear subcat">{{ institution.date }}</div>
         <div class="three-fourths column-last column-bottom clear">
-            {{ institution.institution }}<br/>
+            <b>{{ institution.institution }}</b><br/>
             <span class="cv-meta">{{ institution.degree }} • {{ institution.awards }}</span>
         </div>
     {% endfor %}
@@ -59,7 +59,7 @@ title: CV
     <div class="three-fourths column-last column-bottom clear">
         <b>{{ title.title }}</b> • <a id="showEmployment{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a><br/>
         <span class="cv-meta">{{ title.company }}.</span>
-        <div class="context" id="employment{{ forloop.index }}">{{ title.context }}</div>
+        <div class="context" id="employment{{ forloop.index }}"><p>{{ title.context }}</p></div>
     </div>
 {% endfor %}
 </div>
@@ -71,16 +71,9 @@ title: CV
 {% for title in site.data.cv.web %}
     {% if forloop.first == true %}
         <div class="one-fourth column-bottom clear subcat"><em>Web</em></div>
-        <div class="three-fourths column-last column-bottom clear">
-            {% if title.url !="" %}
-                <a href="{{ title.url }}" target="_blank"><b>&ldquo;{{ title.title }}&rdquo;</b><br/></a>
-            {% else %}
-                <b>&ldquo;{{ title.title }}&rdquo;</b><br/>
-            {% endif %}
-            <span class="cv-meta">{{ title.date }} • <i>{{ title.venue }}</i></span>
-        </div>
     {% else %}
         <div class="one-fourth column-bottom clear subcat"></div>
+    {% endif %}
         <div class="three-fourths column-last column-bottom clear">
             {% if title.url !="" %}
                 <a href="{{ title.url }}" target="_blank"><b>&ldquo;{{ title.title }}&rdquo;</b><br/></a>
@@ -89,7 +82,6 @@ title: CV
             {% endif %}
             <span class="cv-meta">{{ title.date }} • <i>{{ title.venue }}</i></span>
         </div>
-    {% endif %}
 {% endfor %}
 
 </div>
@@ -101,6 +93,9 @@ title: CV
 {% for title in site.data.cv.conference-talks %}
     {% if forloop.first == true %}
         <div class="one-fourth column-bottom clear subcat"><em>Conference Talks</em></div>
+    {% else %}
+        <div class="one-fourth column-bottom clear subcat"></div>
+    {% endif %}
         <div class="three-fourths column-last column-bottom clear">
             {% if title.url !="" %}
                 <a href="{{ title.url }}" target="_blank"><b>&ldquo;{{ title.title }}&rdquo;</b><br/></a>
@@ -109,22 +104,14 @@ title: CV
             {% endif %}
             <span class="cv-meta">{{ title.date }} • {{ title.institution }} • {{ title.location }}, <i>{{ title.event }}</i></span>
         </div>
-    {% else %}
-        <div class="one-fourth column-bottom clear subcat"></div>
-        <div class="three-fourths column-last column-bottom clear">
-            {% if title.url !="" %}
-                <a href="{{ title.url }}" target="_blank"><b>&ldquo;{{ title.title }}&rdquo;</b><br/></a>
-            {% else %}
-                <b>&ldquo;{{ title.title }}&rdquo;</b><br/>
-            {% endif %}
-            <span class="cv-meta">{{ title.date }} • {{ title.institution }} • {{ title.location }}, <i>{{ title.event }}</i></span>
-    </div>
-    {% endif %}
 {% endfor %}
 
 {% for title in site.data.cv.conference-other %}
     {% if forloop.first == true %}
         <div class="one-fourth column-bottom clear subcat"><em>Roundtables & Panels</em></div>
+    {% else %}
+        <div class="one-fourth column-bottom clear subcat"></div>
+    {% endif %}
         <div class="three-fourths column-last column-bottom clear">
             {% if title.url !="" %}
                 <a href="{{ title.url }}" target="_blank"><b>&ldquo;{{ title.title }}&rdquo;</b><br/></a>
@@ -133,17 +120,6 @@ title: CV
             {% endif %}
             <span class="cv-meta">{{ title.date }} • {{ title.institution }} • {{ title.location }}, {{ title.type }}, <i>{{ title.event }}</i></span>
         </div>
-    {% else %}
-        <div class="one-fourth column-bottom clear subcat"></div>
-        <div class="three-fourths column-last column-bottom clear">
-            {% if title.url !="" %}
-                <a href="{{ title.url }}" target="_blank"><b>&ldquo;{{ title.title }}&rdquo;</b><br/></a>
-            {% else %}
-                <b>&ldquo;{{ title.title }}&rdquo;</b><br/>
-            {% endif %}
-            <span class="cv-meta">{{ title.date }} • {{ title.institution }} • {{ title.location }}, {{ title.type }}, <i>{{ title.event }}</i></span>
-    </div>
-    {% endif %}
 {% endfor %}
 
 </div>
@@ -158,7 +134,7 @@ title: CV
                 <b>{{ title.title }}</b>
                  • <a id="showAward{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a><br/>
                 <span class="cv-meta">{{ title.secondary }} {{ title.date }}</span><br/>
-                <div class="context" id="award{{ forloop.index }}">{{ title.context }}</div>
+                <div class="context" id="award{{ forloop.index }}"><p>{{ title.context }}</p></div>
             {% else %}
                 <b>{{ title.title }}</b><br/>
                 <span class="cv-meta">{{ title.secondary }} {{ title.date }}.</span>
@@ -202,17 +178,6 @@ title: CV
 <h2><span id="t7a"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Workshops Led</h2>
 
 {% for title in site.data.cv.workshop %}
-    {% if forloop.first == true %}
-        <div class="one-fourth column-bottom clear subcat"><em>Workshops Organized</em></div>
-        <div class="three-fourths column-last column-bottom clear">
-            {% if title.url !="" %}
-                <a href="{{ title.url }}" target="_blank"><b>{{ title.title }}</b></a>
-            {% else %}
-                <b>{{ title.title }}</b>
-            {% endif %} <br/>
-            <span class="cv-meta">{{ title.location }}. {{ title.date }}.</span>
-        </div>
-    {% else %}
         <div class="one-fourth column-bottom clear subcat"></div>
         <div class="three-fourths column-last column-bottom clear">
             {% if title.url !="" %}
@@ -222,7 +187,6 @@ title: CV
             {% endif %} <br/>
             <span class="cv-meta">{{ title.location }}. {{ title.date }}.</span>
         </div>
-    {% endif %}
 {% endfor %}
 
 </div>
@@ -234,33 +198,25 @@ title: CV
 {% for title in site.data.cv.projects %}
     {% if forloop.first == true %}
         <div class="one-fourth column-bottom clear subcat"><em>Major Projects</em></div>
-        <div class="three-fourths column-last column-bottom clear">
-            <a href="{{ title.url }}"><b>{{ title.title }}</b></a> • <a id="showProject{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a> • <small>{{ title.role }}. {{ title.date }}.</small>
-            <div class="context" id="project{{ forloop.index }}">{{ title.context }}</div>
-        </div>
     {% else %}
         <div class="one-fourth column-bottom clear subcat"></div>
+    {% endif %}
         <div class="three-fourths column-last column-bottom clear">
             <a href="{{ title.url }}"><b>{{ title.title }}</b></a> • <a id="showProject{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a> • <small>{{ title.role }}. {{ title.date }}.</small>
-            <div class="context" id="project{{ forloop.index }}">{{ title.context }}</div>
+            <div class="context" id="project{{ forloop.index }}"><p>{{ title.context }}</p></div>
         </div>
-    {% endif %}
 {% endfor %}
 
 {% for title in site.data.cv.minor-projects %}
     {% if forloop.first == true %}
         <div class="one-fourth column-bottom clear subcat"><em>Minor Projects</em></div>
-        <div class="three-fourths column-last column-bottom clear">
-            <a href="{{ title.url }}"><b>{{ title.title }}</b></a> • <a id="showMinorProject{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a> • <small>{{ title.role }}. {{ title.date }}.</small>
-            <div class="context" id="minorProject{{ forloop.index }}">{{ title.context }}</div>
-        </div>
     {% else %}
         <div class="one-fourth column-bottom clear subcat"></div>
+    {% endif %}
         <div class="three-fourths column-last column-bottom clear">
             <a href="{{ title.url }}"><b>{{ title.title }}</b></a> • <a id="showMinorProject{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a> • <small>{{ title.role }}. {{ title.date }}.</small>
-            <div class="context" id="minorProject{{ forloop.index }}">{{ title.context }}</div>
+            <div class="context" id="minorProject{{ forloop.index }}"><p>{{ title.context }}</p></div>
         </div>
-    {% endif %}
 {% endfor %}
 
 </div>

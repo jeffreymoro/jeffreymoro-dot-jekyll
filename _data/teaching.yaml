@@ -4,13 +4,13 @@ courses-umd:
     date: Spring 2019
     number: ENGL290
     url: "/teaching/umd/engl290"
-    snippet: ""
+    snippet: "A course I designed to give undergrads a critical vocabulary in the analysis of digital objects and cultures, from computer code, to video games, to social media, to electronic waste, and more. The course combines the traditional analytical tools of the humanities with a range of creative and technical practices."
   - title: Academic Writing
     institution: University of Maryland, College Park
     date: Fall 2018
     number: ENGL101
     url: ""
-    snippet: ""
+    snippet: "College composition. Everyone teaches it. Everyone has a version of it. This one is mine."
 
 courses-smith:
   - title: Media Archaeology, Climate Change, and the Digital (Non)humanities
@@ -18,13 +18,13 @@ courses-smith:
     date: January 2016
     number: ""
     url: "https://ecomedia.jeffreymoro.com"
-    snippet: ""
+    snippet: "A week-long course exploring the media history, materiality, and infrastructures of digital and network technologies, in particular how the digital humanities and media studies might theorize and respond practically to climate upheaval and the idea of the 'apocalypse' more generally."
   - title: "E.LIT / NET.ART"
     institution: Smith College
     date: January 2015
     number: ""
     url: "https://elit.jeffreymoro.com/course"
-    snippet: ""
+    snippet: "A self-consciously brief week-long course introducing students to electronic literature and internet art. I ran this in conjunction with my E.LIT / NET.ART installation series."
 
 workshops:
   - title: Curating Your Digital Presence
@@ -32,4 +32,4 @@ workshops:
     date: Recurrent
     number: ENGL290
     url: ""
-    snippet: ""
+    snippet: "A workshop co-led with Setsuko Yokoyama that introduces graduate students (and anyone else interested at the university) to the ins and outs of developing a digital presence, from best practices for social media to designing and running your own personal website."

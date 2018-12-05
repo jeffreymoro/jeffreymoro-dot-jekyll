@@ -14,6 +14,10 @@
     //margin-top: 0.5rem;
     font-size: smaller;
 }
+.context p {
+		line-height: 1.3rem !important;
+		padding-top: 0.1em;
+}
 .project-url {
     font-size: smaller;
 }
@@ -58,7 +62,7 @@
         height: 2px;
         width: 0;
         background: $accent-color;
-        transition: width .5s ease;        
+        transition: width .5s ease;
     }
 }
 
@@ -69,7 +73,7 @@
     }
     &:after {
         bottom: -1.5px;
-        height: 1.5px;    
+        height: 1.5px;
     }
 }
 
@@ -84,7 +88,7 @@
     &:after {
         bottom: -5px;
         height: 2px;
-        width: 0;   
+        width: 0;
     }
 }
 
@@ -122,7 +126,7 @@
         right: 0;
         width: 0;
         background: $accent-color;
-        transition: width .5s ease;        
+        transition: width .5s ease;
     }
 }
 }
