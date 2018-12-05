@@ -28,6 +28,8 @@ number: ENGL290
 </ul>
 </div>
 
+*NB: This course is forthcoming in the spring, and so this syllabus is both 1) under current development and 2) subject to change when I actually teach the damn thing.*
+
 ## Description
 
 "Digital studies" names a range of interdisciplinary approaches to the critical and creative study of digital media. This course is your introduction to this diverse and rapidly shifting field. Our overall goal is to develop a critical vocabulary for the analysis of digital objects and cultures, from computer code, to video games, to social media, to electronic waste, and more. We'll engage digital media from historical, aesthetic, technical, and political perspectives, with a particular eye toward how digital technologies increasingly shape most every aspect of contemporary life. To do so, we apply many of the traditional analytical tools of the humanities and social sciences, particularly literary and media studies, as well as creative and technical practices of tinkering, making, and design. If the various interests and approaches under the rubric of "digital studies" have a shared method, it's that *doing things* is key to *knowing things*.
@@ -328,7 +330,7 @@ No meetings.
 #### Wed 17 April
 
 - *Lab*: DIY Glitch Art
-- *Watch*: Marisa Parham, "Black Glitch in the Hour of Chaos" [OR ANOTHER TALK IF I CAN'T TRACK THIS ONE DOWN]
+- *Watch*: Marisa Parham, "Black Glitch in the Hour of Chaos"
 
 #### Fri 19 April
 
