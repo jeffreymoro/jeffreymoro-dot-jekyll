@@ -179,7 +179,7 @@ All readings not directly linked are available on ELMS, with the exception of th
 #### Wed 6 Feb
 
 - *Lab*: Basic Coding and Procedurally Generated Poetry
-- *Read*: Nick Montfort, Chapters 1, 2, and 5 in *Exploratory Programming for the Arts and Humanities*
+- *Read*: Nick Montfort, Chapter 1 in *Exploratory Programming for the Arts and Humanities*. [Chapters 2 and 5 will also inform some of our work in class; the chapters are quite short, so feel free to skim.]
 
 #### Fri 8 Feb
 
@@ -190,12 +190,12 @@ All readings not directly linked are available on ELMS, with the exception of th
 
 #### Mon 11 Feb
 
-- *Read*: Alexander Galloway, "Physical Media" from *Protocol: How Control Exists After Decentralization*
+- *Read*: Tung-Hui Hu, "The Shape of the Network" from *A Prehistory of the Cloud*
 
 #### Wed 13 Feb
 
 - *Lab*: Trace Route, Little Snitch, and the Networks the Surround Us
-- *Read*: Tung-Hui Hu, "The Shape of the Network" from *A Prehistory of the Cloud*
+- *Read*: TBD
 
 #### Fri 15 Feb
 
@@ -330,7 +330,7 @@ No meetings.
 #### Wed 17 April
 
 - *Lab*: DIY Glitch Art
-- *Watch*: Marisa Parham, "Black Glitch in the Hour of Chaos"
+- *Watch*: Marisa Parham, ["Black Glitch in the Hour of Chaos"](https://media.dlib.indiana.edu/media_objects/1c18dk34d)
 
 #### Fri 19 April
 
@@ -344,7 +344,7 @@ No meetings.
 
 #### Mon 22 April
 
-- *Read*: Nakamura, "Don't Hate the Player, Hate the Game: The Racialization of Labor in World of Warcraft" from *Digital Labor*, edited by Trebor Scholz.
+- *Read*: Lisa Nakamura, "Don't Hate the Player, Hate the Game: The Racialization of Labor in World of Warcraft" from *Digital Labor*, edited by Trebor Scholz.
 
 #### Wed 24 April
 
