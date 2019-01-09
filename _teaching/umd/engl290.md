@@ -207,7 +207,7 @@ All readings not directly linked are available on ELMS, with the exception of th
 
 #### Mon 18 Feb
 
-- *Read*: Tung-Hui Hu, "The Shape of the Network" from *A Prehistory of the Cloud*
+- *Read*: Tung-Hui Hu, Selections from "The Shape of the Network" from *A Prehistory of the Cloud*
 
 #### Wed 20 Feb
 
@@ -241,7 +241,7 @@ All readings not directly linked are available on ELMS, with the exception of th
 
 #### Mon 4 March
 
-- *Read*: Matthew Kirschenbaum, "Every Contact Leaves a Trace", *Mechanisms: New Media and the Forensic Imagination* [read pp. XXX–YYY]
+- *Read*: Matthew Kirschenbaum, Selections from "Every Contact Leaves a Trace", *Mechanisms: New Media and the Forensic Imagination*.
 
 #### Wed 6 March
 
@@ -306,7 +306,7 @@ No meetings. I suggest reading the first half of *Infinite Detail*.
 #### Mon 8 April
 
 - *Play*: Nintendo, *Super Mario Bros*
-- *Read*: Nathan Altice, "Platforming," *I AM ERROR*
+- *Read*: Nathan Altice, Selections from "Platforming," *I AM ERROR*
 
 #### Wed 10 April
 
@@ -358,11 +358,11 @@ No meetings. I suggest reading the first half of *Infinite Detail*.
 
 #### Mon 29 April
 
-- *Read*: J.R. Carpenter, *The Gathering Cloud*; Selections from Jennifer Gabrys, *Digital Rubbish*
+- *Read*: J.R. Carpenter, *The Gathering Cloud*
 
 #### Wed 1 May
 
-- *Read*: J.R. Carpenter, *The Gathering Cloud*; Selections from Sean Cubitt, *Finite Media: Environmental Implications of Digital Technologies*
+- *Read*: J.R. Carpenter, *The Gathering Cloud*
 
 #### Fri 3 May
 
