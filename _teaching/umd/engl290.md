@@ -34,7 +34,7 @@ number: ENGL290
 
 "Digital studies" names a range of interdisciplinary approaches to the critical and creative study of digital media. This course is your introduction to this diverse and rapidly shifting field. Our overall goal is to develop a critical vocabulary for the analysis of digital objects and cultures, from computer code, to video games, to social media, to electronic waste, and more. We'll engage digital media from historical, aesthetic, technical, and political perspectives, with a particular eye toward how digital technologies increasingly shape most every aspect of contemporary life. To do so, we apply many of the traditional analytical tools of the humanities and social sciences, particularly literary and media studies, as well as creative and technical practices of tinkering, making, and design. If the various interests and approaches under the rubric of "digital studies" have a shared method, it's that *doing things* is key to *knowing things*.
 
-This is a wide-ranging class designed to provide many different points of entry into digital studies. To this end, I've organized this course around thirteen keywords: digital, code, network, infrastructure, memory, physical, interface, social, manufacture, play, glitch, labor, and waste. Each week we'll dive into a specific keyword, all the while staying sensitive to the connections we can map across them.
+This is a wide-ranging class designed to provide many different points of entry into digital studies. To this end, I've organized this course around thirteen keywords: digital, code, infrastructure, network, memory, physical, interface, speculation, manufacture, play, glitch, labor, and waste. Each week we'll dive into a specific keyword, all the while staying sensitive to the connections we can map across them.
 
 This is not a "learn to code" class; you don't need to know anything about computer science. When we do get our hands dirty, it will be in the service of experimentation and critical play. Your assignments will reflect this experimental approach as well. You'll do "traditional" academic writing, but also create objects, craft artist's statements, give presentations, and participate in regular "labs," during which you'll work hands-on with digital media technologies.
 
@@ -49,10 +49,11 @@ By the end of the semester, it's my hope that you will:
 
 ## Materials
 
-The vast majority of class readings are freely available on the internet or posted as PDFs to the course ELMS site. There are two books that you should plan to purchase from the quality bookseller of your choice:
+The vast majority of class readings are freely available on the internet or posted as PDFs to the course ELMS site. There are three books that you should plan to purchase from the quality bookseller of your choice:
 
 - Ingrid Burrington, *Networks of New York: An Illustrated Field Guide to Urban Internet Infrastructure*. ISBN: 978-1-61219-542-1.
-- J.R. Carpenter, *The Gathering Cloud*. ISBN: 978-1-910010-15-0. [NB: I recommend buying [directly from the UK publisher](http://www.uniformbooks.co.uk/thegatheringcloud.php) for a substantially lower rate than, say, Amazon.]
+- Tim Maughan, *Infinite Detail: A Novel*. ISBN: 978-0374175412.
+- J.R. Carpenter, *The Gathering Cloud*. ISBN: 978-1-910010-15-0. [I recommend buying [directly from the UK publisher](http://www.uniformbooks.co.uk/thegatheringcloud.php) for a substantially lower rate than, say, Amazon.]
 
 You should also have a working laptop running one of the following operating systems.
 
@@ -87,7 +88,7 @@ Here's the overall breakdown:
 - Short Essay: 20% [due either on 3/8/2018 or 4/19/18; your choice]
 - Object Lesson: 20% [same deadline scheme as the Short Essay]
 - Lightning Talk: 5% [delivered the week of 5/6/18]
-- Final Portfolio: 25% [due 5/17/18]
+- Final Portfolio: 25% [due 5/13/18]
 
 ### A Note on Deadlines and Submission Protocols
 
@@ -186,36 +187,39 @@ All readings not directly linked are available on ELMS, with the exception of th
 - *Read*: Selections from Nick Montfort, *#!* (pronounced "Shebang"); Montfort (and many others), ["Taroko Gorge"](https://nickm.com/taroko_gorge/) and its remixes
 - *Deadline*: Email me your letter of interest.
 
-### Week 3: *Network*
+### Week 3: *Infrastructure*
 
 #### Mon 11 Feb
 
-- *Read*: Tung-Hui Hu, "The Shape of the Network" from *A Prehistory of the Cloud*
-
-#### Wed 13 Feb
-
-- *Lab*: Trace Route, Little Snitch, and the Networks the Surround Us
-- *Read*: TBD
-
-#### Fri 15 Feb
-
-- *Read*: Helga Tawil-Souri, "Cellular Borders: Dis/Connecting Phone Calls in Israel-Palestine" in *Signal Traffic: Critical Studies of Media Infrastructures*, edited by Lisa Parks and Nicole Starosielski
-
-### Week 4: *Infrastructure*
-
-#### Mon 18 Feb
-
 - *Read*: Ingrid Burrington, *Networks of New York*
 
-#### Wed 20 Feb
+#### Wed 13 Feb
 
 - *Lab*: Infrastructure Scavenger Hunt
 - *Read*: Ingrid Burrington, *Networks of New York*
 
-#### Fri 22 Feb
+#### Fri 15 Feb
 
 - *Browse*: Nicole Starosielski et al., [*Surfacing*](http://surfacing.in/)
 - *OPTIONAL*: Susan Leigh Star, "The Ethnography of Infrastructure"
+
+### Week 4: *Network*
+
+#### Mon 18 Feb
+
+- *Read*: Tung-Hui Hu, "The Shape of the Network" from *A Prehistory of the Cloud*
+
+#### Wed 20 Feb
+
+- *Lab*: Making Your Own Twitter Bot with [Cheap Bots Done Quick](https://cheapbotsdonequick.com/)
+- *Read*: Mark Sample, ["A protest bot is a bot so specific you can't mistake it for bullshit"](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa); Selected Twitter bots:
+  + Darius Kazemi, [@SortingBot](https://twitter.com/sortingbot), + read his [how-to notes](http://tinysubversions.com/notes/sorting-bot/)
+  + Allison Parrish, [@the_ephemerides](https://twitter.com/the_ephemerides), + read her [notes](http://www.decontextualize.com/2015/08/the-ephemerides/)
+  + Everest Pipkin, [@Abolish_ICE_Now](https://twitter.com/Abolish_ICE_Now)
+
+#### Fri 22 Feb
+
+- *Read*: Helga Tawil-Souri, "Cellular Borders: Dis/Connecting Phone Calls in Israel-Palestine" in *Signal Traffic: Critical Studies of Media Infrastructures*, edited by Lisa Parks and Nicole Starosielski
 
 ### Week 5: *Memory*
 
@@ -267,26 +271,21 @@ All readings not directly linked are available on ELMS, with the exception of th
 
 ### Week 8: Spring Break
 
-No meetings.
+No meetings. I suggest reading the first half of *Infinite Detail*.
 
-### Week 9: *Social*
+### Week 9: *Speculation*
 
 #### Mon 25 March
 
-- *Read*: Selections from Safiya Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*
-- *Watch*: Jen Golbeck, ["The Curly Fry Conundrum"](https://www.ted.com/talks/jennifer_golbeck_the_curly_fry_conundrum_why_social_media_likes_say_more_than_you_might_think)
+- *Read*: Tim Maughan, *Infinite Detail*
 
 #### Wed 27 March
 
-- *Read*: Mark Sample, ["A protest bot is a bot so specific you can't mistake it for bullshit"](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa); Selected Twitter bots:
-  + Darius Kazemi, [@SortingBot](https://twitter.com/sortingbot), + read his [how-to notes](http://tinysubversions.com/notes/sorting-bot/)
-  + Allison Parrish, [@the_ephemerides](https://twitter.com/the_ephemerides), + read her [notes](http://www.decontextualize.com/2015/08/the-ephemerides/)
-  + Everest Pipkin, [@Abolish_ICE_Now](https://twitter.com/Abolish_ICE_Now)
+- *Read*: *Infinite Detail*
 
 #### Fri 29 March
 
-- *Lab*: Making Your Own Twitter Bot
-- *Browse*: [Cheap Bots Done Quick](https://cheapbotsdonequick.com/)
+- *Read*: *Infinite Detail*
 
 ### Week 10: *Manufacture*
 
@@ -375,7 +374,7 @@ No readings; we'll have a gauntlet of lightning talks instead.
 
 ### Week 16: Finals
 
-We'll hold the ostensible last day of class, Monday 5/13, for any overflow that we might have from the presentations. Alternatively, we can use it as a day to review concepts and work on your final portfolios. In any case, there will be food. Your final portfolios are due Friday, 5/17.
+We'll hold the ostensible last day of class, Monday 5/13, for any overflow that we might have from the presentations. Your final portfolios are also due this day. No matter what we choose to use the class for, there will be food.
 
 ## Acknowledgements
 
