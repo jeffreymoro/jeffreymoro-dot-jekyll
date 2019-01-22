@@ -24,11 +24,9 @@ number: ENGL290
     <!--<li>
         <a href="#acknowledgements">PAST ITERATIONS</a></li>-->
     <li id="pdftab">
-        <a href="/assets/files/">PDF [WITH POLICIES]</a></li>
+        <a href="/assets/files/ENGL290-syllabus.pdf">PDF [WITH POLICIES]</a></li>
 </ul>
 </div>
-
-*NB: This course is forthcoming in the spring, and so this syllabus is both 1) under current development and 2) subject to change when I actually teach the damn thing.*
 
 ## Description
 
@@ -154,7 +152,7 @@ The "final exam" for this course is a portfolio of three short assignments desig
 
 Each week follows the same rough model: we'll introduce a concept on the first day with a creative or critical reading/object, then do a Lab that illustrates those concepts, and then come back together at the week's end to situate that Lab work within a broader critical backdrop.
 
-All readings not directly linked are available on ELMS, with the exception of the two books for purchase.
+All readings not directly linked are available on ELMS, with the exception of the three books for purchase.
 
 ### Week 1: *Digital*
 
@@ -207,7 +205,7 @@ All readings not directly linked are available on ELMS, with the exception of th
 
 #### Mon 18 Feb
 
-- *Read*: Tung-Hui Hu, Selections from "The Shape of the Network" from *A Prehistory of the Cloud*
+- *Read*: Tung-Hui Hu, "The Shape of the Network" from *A Prehistory of the Cloud*
 
 #### Wed 20 Feb
 
@@ -241,7 +239,7 @@ All readings not directly linked are available on ELMS, with the exception of th
 
 #### Mon 4 March
 
-- *Read*: Matthew Kirschenbaum, Selections from "Every Contact Leaves a Trace", *Mechanisms: New Media and the Forensic Imagination*.
+- *Read*: Matthew Kirschenbaum, Selections from "Every Contact Leaves a Trace," *Mechanisms: New Media and the Forensic Imagination*.
 
 #### Wed 6 March
 
@@ -323,7 +321,7 @@ No meetings. I suggest reading the first half of *Infinite Detail*.
 #### Mon 15 April
 
 - *Replay*: Nintendo, *Super Mario Bros.* Attempt to reach [Minus World](https://www.mariowiki.com/Minus_World)
-- *Watch*: Cory Arcangel, [*Super Mario Movie*](http://www.coryarcangel.com/things-i-made/2005-001-super-mario-movie)
+- *Watch*: Cory Arcangel and Paper Rad, [*Super Mario Movie*](http://www.coryarcangel.com/things-i-made/2005-001-super-mario-movie)
 - *Read*: Rosa Menkman, "Glitch Studies Manifesto"
 
 #### Wed 17 April
