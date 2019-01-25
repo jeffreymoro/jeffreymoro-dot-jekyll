@@ -86,7 +86,7 @@ Here's the overall breakdown:
 - Short Essay: 20% [due either on 3/8/2018 or 4/19/18; your choice]
 - Object Lesson: 20% [same deadline scheme as the Short Essay]
 - Lightning Talk: 5% [delivered the week of 5/6/18]
-- Final Portfolio: 25% [due 5/13/18]
+- Final Portfolio: 25% [due 5/21/18]
 
 ### A Note on Deadlines and Submission Protocols
 
@@ -372,7 +372,7 @@ No readings; we'll have a gauntlet of lightning talks instead.
 
 ### Week 16: Finals
 
-We'll hold the ostensible last day of class, Monday 5/13, for any overflow that we might have from the presentations. Your final portfolios are also due this day. No matter what we choose to use the class for, there will be food.
+We'll hold the ostensible last day of class, Monday 5/13, for any overflow that we might have from the presentations. No matter what we choose to use the class for, there will be food. Your final portfolios are due on Tuesday 5/21.
 
 ## Acknowledgements
 
