@@ -67,7 +67,6 @@ Here is also an incomplete list of the programs that you should plan to install 
 - Microsoft Word (Windows/macOS) or [LibreOffice](https://www.libreoffice.org/) (Linux). Word is available for free through the [Terpware](https://terpware.umd.edu/) portal.
 - [Atom](https://atom.io/) (all platforms). (Any text editor is acceptable if you already use one regularly.)
 - If on Windows, the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-- [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) (macOS only)
 - [Nestopia](http://nestopia.sourceforge.net/) (all platforms)
 - [Cura](https://ultimaker.com/en/products/ultimaker-cura-software) (all platforms)
 - [Vinesauce ROM Corrupter](http://corruptedbytes.com/the-vinesauce-rom-corruptor/) (Windows)
