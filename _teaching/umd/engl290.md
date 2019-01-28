@@ -53,7 +53,7 @@ The vast majority of class readings are freely available on the internet or post
 - Tim Maughan, *Infinite Detail: A Novel*. ISBN: 978-0374175412.
 - J.R. Carpenter, *The Gathering Cloud*. ISBN: 978-1-910010-15-0. [I recommend buying [directly from the UK publisher](http://www.uniformbooks.co.uk/thegatheringcloud.php) for a substantially lower rate than, say, Amazon.]
 
-You should also have a working laptop running one of the following operating systems.
+You should also have a working laptop running one of the following operating systems. You are welcome (nay, encouraged) to use your laptop during class to run experiments, take notes, access readings, and refine class discussions.
 
 - Windows 10
 - macOS 10.12 "Sierra" or any higher version
@@ -66,7 +66,6 @@ Here is also an incomplete list of the programs that you should plan to install 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) or [Google Chrome](https://www.google.com/chrome/) (all platforms)
 - Microsoft Word (Windows/macOS) or [LibreOffice](https://www.libreoffice.org/) (Linux). Word is available for free through the [Terpware](https://terpware.umd.edu/) portal.
 - [Atom](https://atom.io/) (all platforms). (Any text editor is acceptable if you already use one regularly.)
-- If on Windows, the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 - [Nestopia](http://nestopia.sourceforge.net/) (all platforms)
 - [Cura](https://ultimaker.com/en/products/ultimaker-cura-software) (all platforms)
 - [Vinesauce ROM Corrupter](http://corruptedbytes.com/the-vinesauce-rom-corruptor/) (Windows)
