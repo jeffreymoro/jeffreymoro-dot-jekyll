@@ -255,12 +255,12 @@ All readings not directly linked are available on ELMS, with the exception of th
 
 #### Mon 11 March
 
-- *Read*: Florian Cramer and Matthew Fuller, "Interface" in *Software Studies*; John Hermann, ["Internet, Why So Blue?"](https://www.theawl.com/2014/06/internet-why-so-blue/)
+- *Lab*: Virtual/Physical Interfaces in BookLab, Tawes Hall
+- *Read*: Kari Kraus et al., "Bibliocircuitry and the Design of the Alien Everyday"
 
 #### Wed 13 March
 
-- *Lab*: Virtual/Physical Interfaces in BookLab, Tawes Hall
-- *Read*: Kari Kraus et al., "Bibliocircuitry and the Design of the Alien Everyday"
+- *Read*: Florian Cramer and Matthew Fuller, "Interface" in *Software Studies*; John Hermann, ["Internet, Why So Blue?"](https://www.theawl.com/2014/06/internet-why-so-blue/)
 
 #### Fri 15 March
 
