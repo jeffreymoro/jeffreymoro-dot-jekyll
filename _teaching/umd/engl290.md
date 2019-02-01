@@ -28,6 +28,8 @@ number: ENGL290
 </ul>
 </div>
 
+*Updated 1 Feb 2019.*
+
 ## Description
 
 "Digital studies" names a range of interdisciplinary approaches to the critical and creative study of digital media. This course is your introduction to this diverse and rapidly shifting field. Our overall goal is to develop a critical vocabulary for the analysis of digital objects and cultures, from computer code, to video games, to social media, to electronic waste, and more. We'll engage digital media from historical, aesthetic, technical, and political perspectives, with a particular eye toward how digital technologies increasingly shape most every aspect of contemporary life. To do so, we apply many of the traditional analytical tools of the humanities and social sciences, particularly literary and media studies, as well as creative and technical practices of tinkering, making, and design. If the various interests and approaches under the rubric of "digital studies" have a shared method, it's that *doing things* is key to *knowing things*.
@@ -164,22 +166,22 @@ All readings not directly linked are available on ELMS, with the exception of th
 
 #### Fri 1 Feb
 
-- *Read*: N. Katherine Hayles, "Print is Flat, Code is Deep: The Importance of Media-Specific Analysis"
-- *Browse*: Kate Crawford and Vladen Joler, ["Anatomy of an AI System"](https://anatomyof.ai/)
+Class cancelled on account of snow.
 
 ### Week 2: *Code*
 
 #### Mon 4 Feb
 
-- *Read*: Paul Ford, ["What is Code?"](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+- *Read*: N. Katherine Hayles, "Print is Flat, Code is Deep: The Importance of Media-Specific Analysis"
+- *Read/Browse*: Kate Crawford and Vladen Joler, ["Anatomy of an AI System"](https://anatomyof.ai/)
 
 #### Wed 6 Feb
 
-- *Lab*: Basic Coding and Procedurally Generated Poetry
-- *Read*: Nick Montfort, Chapter 1 in *Exploratory Programming for the Arts and Humanities*. [Chapters 2 and 5 will also inform some of our work in class; the chapters are quite short, so feel free to skim.]
+- *Read*: Paul Ford, ["What is Code?"](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 #### Fri 8 Feb
 
+- *Lab*: Procedurally Generated Poetry. Before class, review Chapter 1 in Nick Montfort, *Exploratory Programming for the Arts and Humanities*, pp. 34–41 in the PDF.
 - *Read*: Selections from Nick Montfort, *#!* (pronounced "Shebang"); Montfort (and many others), ["Taroko Gorge"](https://nickm.com/taroko_gorge/) and its remixes
 - *Deadline*: Email me your letter of interest.
 
