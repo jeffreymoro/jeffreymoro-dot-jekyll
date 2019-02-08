@@ -28,7 +28,7 @@ number: ENGL290
 </ul>
 </div>
 
-*Updated 1 Feb 2019.*
+*Updated 8 Feb 2019.*
 
 ## Description
 
@@ -189,16 +189,17 @@ Class cancelled on account of snow.
 
 #### Mon 11 Feb
 
+- *Read*: Montfort, *#!* and "Taroko Gorge"
 - *Read*: Ingrid Burrington, *Networks of New York*
 
 #### Wed 13 Feb
 
 - *Lab*: Infrastructure Scavenger Hunt
-- *Read*: Ingrid Burrington, *Networks of New York*
 
 #### Fri 15 Feb
 
-- *Browse*: Nicole Starosielski et al., [*Surfacing*](http://surfacing.in/)
+- *Read*: Burrington, *Networks of New York*
+- *OPTIONAL*: Nicole Starosielski et al., [*Surfacing*](http://surfacing.in/)
 - *OPTIONAL*: Susan Leigh Star, "The Ethnography of Infrastructure"
 
 ### Week 4: *Network*
