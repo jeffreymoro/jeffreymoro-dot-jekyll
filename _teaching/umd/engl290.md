@@ -110,6 +110,16 @@ Note that "class participation" doesn't mean always raising your hand at opportu
 
 Attendance is crucial to your ability to participate in the class. Not only do we all need to be present in order to learn together, many if not all of the crucial concepts build off each other, meaning that missed classes compound on each other. Attending lab days are particularly crucial given their importance to your Lab Report assignments. If you have a particularly nasty commute that causes you to be regularly late for class, please talk to me ASAP so we can work something out. Please see the PDF version of the syllabus for full UMD policies on course attendance.
 
+#### Letter of Intent
+
+By the end of the second week, please send me a "letter of intent"—essentially a short (c. 300 words) email to me letting me know your interests and experience. This is part of your participation grade.
+
+Here are some questions to guide you:
+
+- What's your background? In this, I'm interested in your overall interests in the class, what kinds of questions you're bringing to the table, and the skills you already have or are interested in acquiring.
+- Based on a cursory glance through the syllabus and a brief browse of course materials, what topics do you think you'll be most interested in working on this semester? Do you think you want to organize your assignments around a common theme? Jump around and try a bunch of things?
+- Are there any interests you have that aren't represented in the course? Are you interested in bringing those into the course as it's currently constituted?
+
 ### Lab Reports
 
 *(with thanks to and modifications from [Jim Brown](http://courses.jamesjbrownjr.net/node/3510))*
