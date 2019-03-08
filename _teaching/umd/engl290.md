@@ -82,8 +82,8 @@ Here's the overall breakdown:
 
 - Participation: 10%
 - Lab report #1: 10% [due before 3/15/18]
-- Lab report #2: 10% [due before 4/26/18]
-- Short Essay: 20% [due either on 3/10/2018 or 4/19/18; your choice]
+- Lab report #2: 10% [due before 4/19/18]
+- Short Essay: 20% [due either on 3/10/2018 or 4/26/18; your choice]
 - Object Lesson: 20% [same deadline scheme as the Short Essay]
 - Lightning Talk: 5% [delivered the week of 5/6/18]
 - Final Portfolio: 25% [due 5/21/18]
@@ -92,9 +92,9 @@ Here's the overall breakdown:
 
 As we're all coming to this class with different interests, backgrounds, and facilities; and as everyone's semester follows different rhythms of business and calm; and as I want you to take ownership over the work for this class, I have designed the assignments with flexible deadlines so that you can decide which assignments you want to tackle and when.
 
-You will complete **two** Lab Reports throughout the semester, described below. You should turn the first Lab Report in anytime before Friday 15 March (i.e., before Spring Break), and the second anytime before Friday 26 April.
+You will complete **two** Lab Reports throughout the semester, described below. You should turn the first Lab Report in anytime before Friday 15 March (i.e., before Spring Break), and the second anytime before Friday 15 April.
 
-The two main assignments of the course are a Short Essay and an Object Lesson, also described below. You have the option of choosing which one you'd like to do first in the semester, to be due on Sunday 10 March, and which you'd like to do second, to be due on Friday 19 April. **You will complete both assignments**—you won't do two Object Lessons and no Short Essay, for instance—but you choose the order.
+The two main assignments of the course are a Short Essay and an Object Lesson, also described below. You have the option of choosing which one you'd like to do first in the semester, to be due on Sunday 10 March, and which you'd like to do second, to be due on Friday 26 April. **You will complete both assignments**—you won't do two Object Lessons and no Short Essay, for instance—but you choose the order.
 
 **Assignments are due at 11:59 PM the listed days.** I'll reduce the grade one plus/minus grade level each day that it's turned in late (A becomes an A-; B- becomes a C+; and so forth). I won't accept assignments turned in more than a week late. If you have an extenuating circumstance that's making it difficult for you to reach a deadline, please write me, ideally well in advance, so we can discuss alternatives.
 
@@ -319,7 +319,7 @@ No meetings. I suggest reading the first half of *Infinite Detail*.
 
 #### Wed 10 April
 
-- *Lab*: Prototyping with Twine
+- *Lab*: Prototyping with Twine, Part I
 - *Play*: Tom McHenry, [*Horse Master, the Game of Horse Mastery*](https://tommchenry.itch.io/horse-master)
 
 #### Fri 12 April
@@ -337,7 +337,7 @@ No meetings. I suggest reading the first half of *Infinite Detail*.
 
 #### Wed 17 April
 
-- *Lab*: DIY Glitch Art
+- *Lab*: Prototyping with Twine, Part II
 - *Watch*: Marisa Parham, ["Black Glitch in the Hour of Chaos"](https://media.dlib.indiana.edu/media_objects/1c18dk34d)
 
 #### Fri 19 April
@@ -346,7 +346,7 @@ No meetings. I suggest reading the first half of *Infinite Detail*.
   + Jason Schreier, ["Watch *Pokémon Red/Blue* Get Destroyed In Just 21 Minutes"](https://kotaku.com/watch-pokemon-red-blue-get-destroyed-in-just-21-minutes-1678548786)
   + SethBling, ["SNES Code Injection — Flappy Bird in SMW"](https://www.youtube.com/watch?v=hB6eY73sLV0)
   + Rachel Simone Weil's [keynote](https://www.youtube.com/watch?v=0FwhL3SpgxU) at R-CADE 2017. [It's fairly long so feel free to skim through.]
-- *Deadline*: Short Essay or Object Lesson due.
+- *Deadline*: Lab Report #2
 
 ### Week 13: *Labor*
 
@@ -361,7 +361,7 @@ No meetings. I suggest reading the first half of *Infinite Detail*.
 #### Fri 26 April
 
 - *Read*: Sarah Roberts, ["Social Media's Silent Filter"](https://www.theatlantic.com/technology/archive/2017/03/commercial-content-moderation/518796/)
-- *Deadline*: Lab Report #2 due.
+- *Deadline*: Short Essay or Object Lesson due
 
 ### Week 14: *Waste*
 
