@@ -28,7 +28,7 @@ number: ENGL290
 </ul>
 </div>
 
-*Updated 8 Feb 2019.*
+*Updated 7 March 2019.*
 
 ## Description
 
@@ -83,7 +83,7 @@ Here's the overall breakdown:
 - Participation: 10%
 - Lab report #1: 10% [due before 3/15/18]
 - Lab report #2: 10% [due before 4/26/18]
-- Short Essay: 20% [due either on 3/8/2018 or 4/19/18; your choice]
+- Short Essay: 20% [due either on 3/10/2018 or 4/19/18; your choice]
 - Object Lesson: 20% [same deadline scheme as the Short Essay]
 - Lightning Talk: 5% [delivered the week of 5/6/18]
 - Final Portfolio: 25% [due 5/21/18]
@@ -94,7 +94,7 @@ As we're all coming to this class with different interests, backgrounds, and fac
 
 You will complete **two** Lab Reports throughout the semester, described below. You should turn the first Lab Report in anytime before Friday 15 March (i.e., before Spring Break), and the second anytime before Friday 26 April.
 
-The two main assignments of the course are a Short Essay and an Object Lesson, also described below. You have the option of choosing which one you'd like to do first in the semester, to be due on Friday 8 March, and which you'd like to do second, to be due on Friday 19 April. **You will complete both assignments**—you won't do two Object Lessons and no Short Essay, for instance—but you choose the order.
+The two main assignments of the course are a Short Essay and an Object Lesson, also described below. You have the option of choosing which one you'd like to do first in the semester, to be due on Sunday 10 March, and which you'd like to do second, to be due on Friday 19 April. **You will complete both assignments**—you won't do two Object Lessons and no Short Essay, for instance—but you choose the order.
 
 **Assignments are due at 11:59 PM the listed days.** I'll reduce the grade one plus/minus grade level each day that it's turned in late (A becomes an A-; B- becomes a C+; and so forth). I won't accept assignments turned in more than a week late. If you have an extenuating circumstance that's making it difficult for you to reach a deadline, please write me, ideally well in advance, so we can discuss alternatives.
 
@@ -260,7 +260,7 @@ Class cancelled on account of snow.
 #### Fri 8 March
 
 - *Read*: Mierle Laderman Ukeles, ["Manifesto for Maintenance Art"](https://www.queensmuseum.org/wp-content/uploads/2016/04/Ukeles_MANIFESTO.pdf); Shannon Mattern, ["Maintenance and Care"](https://placesjournal.org/article/maintenance-and-care/)
-- *Deadline*: Short Essay or Object Lesson due.
+- *Deadline*: Short Essay or Object Lesson due. *Extended to Sun 10 March.*
 
 ### Week 7: *Interface*
 
