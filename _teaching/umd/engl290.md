@@ -271,11 +271,11 @@ Class cancelled on account of snow.
 
 #### Wed 13 March
 
-- *Read*: Florian Cramer and Matthew Fuller, "Interface" in *Software Studies*; John Hermann, ["Internet, Why So Blue?"](https://www.theawl.com/2014/06/internet-why-so-blue/)
+- *Revisit*: Jussi Parikka and Garnet Hertz, "Zombie Media"
 
 #### Fri 15 March
 
-- *Read*: Selections from David Parisi, *Archaeologies of Touch*
+- *Read*: Florian Cramer and Matthew Fuller, "Interface" in *Software Studies*; John Hermann, ["Internet, Why So Blue?"](https://www.theawl.com/2014/06/internet-why-so-blue/)
 - *Deadline*: Lab Report #1 due.
 
 ### Week 8: Spring Break
