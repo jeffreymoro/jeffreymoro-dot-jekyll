@@ -310,7 +310,7 @@ No meetings. I suggest reading the first half of *Infinite Detail*.
 
 - *Read*: Shirin Vossoughi et al., "Making Through the Lens of Culture and Power: Toward Transformative Visions for Educational Equity"
 
-### Week 11: *Play*
+### Week 11: *Play / Glitch*
 
 #### Mon 8 April
 
@@ -324,10 +324,10 @@ No meetings. I suggest reading the first half of *Infinite Detail*.
 
 #### Fri 12 April
 
-- *Play*: Nintendo, *The Legend of Zelda* [Toy around with it for fifteen minutes or so to get a sense of the lay of its land.]; Patrick LeMieux and Stephanie Boluk, [*Triforce*](https://alt254.itch.io/triforce)
-- *Read*: Selections from Patrick LeMieux and Stephanie Boluk, *Metagaming*
+- *Lab*: Prototyping with Twine, Part II
+- *Watch*: Marisa Parham, ["Black Glitch in the Hour of Chaos"](https://media.dlib.indiana.edu/media_objects/1c18dk34d)
 
-### Week 12: *Glitch*
+### Week 12: *Glitch / Play*
 
 #### Mon 15 April
 
@@ -337,8 +337,8 @@ No meetings. I suggest reading the first half of *Infinite Detail*.
 
 #### Wed 17 April
 
-- *Lab*: Prototyping with Twine, Part II
-- *Watch*: Marisa Parham, ["Black Glitch in the Hour of Chaos"](https://media.dlib.indiana.edu/media_objects/1c18dk34d)
+- *Play*: Nintendo, *The Legend of Zelda* [Toy around with it for fifteen minutes or so to get a sense of the lay of its land.]; Patrick LeMieux and Stephanie Boluk, [*Triforce*](https://alt254.itch.io/triforce)
+- *Read*: Selections from Patrick LeMieux and Stephanie Boluk, *Metagaming*
 
 #### Fri 19 April
 
