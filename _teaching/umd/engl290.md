@@ -260,7 +260,7 @@ Class cancelled on account of snow.
 #### Fri 8 March
 
 - *Read*: Mierle Laderman Ukeles, ["Manifesto for Maintenance Art"](https://www.queensmuseum.org/wp-content/uploads/2016/04/Ukeles_MANIFESTO.pdf); Shannon Mattern, ["Maintenance and Care"](https://placesjournal.org/article/maintenance-and-care/)
-- *Deadline*: Short Essay or Object Lesson due. *Extended to Sun 10 March.*
+- *Deadline*: Short Essay or Object Lesson due. *Extended to Sun 10 March*
 
 ### Week 7: *Interface*
 
