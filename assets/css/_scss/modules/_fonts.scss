@@ -53,20 +53,32 @@
     font-style: italic;
 }
 @font-face {
-    font-family: 'Inconsolata';
-    src: url("/assets/fonts/inconsolata.woff");
-    font-weight: 400;
+    font-family: 'iA Writer Duo S';
+    src: url("/assets/fonts/iAWriterDuoS-Bold.woff2");
+    font-weight: 700;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Inconsolata';
-    src: url("/assets/fonts/inconsolata-bold.woff");
+    font-family: 'iA Writer Duo 2';
+    src: url("/assets/fonts/iAWriterDuoS-BoldItalic.woff2");
     font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'iA Writer Duo 2';
+    src: url("/assets/fonts/iAWriterDuoS-Italic.woff2");
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'iA Writer Duo 2';
+    src: url("/assets/fonts/iAWriterDuoS-Regular.woff2");
+    font-weight: 400;
     font-style: normal;
 }
 
 $primaryfont: "Calibre", sans-serif;
-$monospacefont: "Inconsolata", monospace;
+$monospacefont: "iA Writer Duo 2", monospace;
 $essayfont: "Arnhem", serif;
 
 // Fonts Style
