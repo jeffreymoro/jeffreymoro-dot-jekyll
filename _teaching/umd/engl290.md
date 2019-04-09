@@ -325,7 +325,7 @@ No meetings. I suggest reading the first half of *Infinite Detail*.
 #### Fri 12 April
 
 - *Lab*: Prototyping with Twine, Part II
-- *Watch*: Marisa Parham, ["Black Glitch in the Hour of Chaos"](https://media.dlib.indiana.edu/media_objects/1c18dk34d)
+- *Watch*: Marisa Parham, ["This Code Cracks: A #BlackCodeStudies Roundtable"](https://www.youtube.com/watch?v=qhOvS4y3dtU). (Parham's contribution begins at minute 11, though I encourage you to watch the whole, absolutely fantastic panel.)
 
 ### Week 12: *Glitch / Play*
 
