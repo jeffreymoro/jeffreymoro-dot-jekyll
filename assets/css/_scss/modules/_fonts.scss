@@ -25,33 +25,55 @@
 }
 
 @font-face {
-    font-family: 'Arnhem';
-    src:    url("/assets/fonts/arnhem-regular.woff2") format("woff2"),
-            url("/assets/fonts/arnhem-regular.woff") format("woff");
+    font-family: 'Tiempos';
+    src: url("/assets/fonts/TiemposTextWeb-Regular.woff");
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Arnhem';
-    src:    url("/assets/fonts/arnhem-bold.woff2") format("woff2"),
-            url("/assets/fonts/arnhem-bold.woff") format("woff");
+    font-family: 'Tiempos';
+    src: url("/assets/fonts/TiemposTextWeb-Semibold.woff");
     font-weight: 700;
     font-style: normal;
 }
 @font-face {
-    font-family: 'Arnhem';
-    src:    url("/assets/fonts/arnhem-regularitalic.woff2") format("woff2"),
-            url("/assets/fonts/arnhem-regularitalic.woff") format("woff");
+    font-family: 'Tiempos';
+    src: url("/assets/fonts/TiemposTextWeb-RegularItalic.woff");
     font-weight: 400;
     font-style: italic;
 }
 @font-face {
-    font-family: 'Arnhem';
-    src:    url("/assets/fonts/arnhem-bolditalic.woff2") format("woff2"),
-            url("/assets/fonts/arnhem-bolditalic.woff") format("woff");
+    font-family: 'Tiempos';
+    src: url("/assets/fonts/TiemposTextWeb-SemiboldItalic.woff");
     font-weight: 700;
     font-style: italic;
 }
+
+@font-face {
+    font-family: 'Untitled Serif';
+    src: url("/assets/fonts/UntitledSerif-Regular.woff");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Untitled Serif';
+    src: url("/assets/fonts/UntitledSerifWeb-Bold.woff");
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Untitled Serif';
+    src: url("/assets/fonts/UntitledSerif-RegularItalic.woff");
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Tiempos';
+    src: url("/assets/fonts/TiemposTextWeb-SemiboldItalic.woff");
+    font-weight: 700;
+    font-style: italic;
+}
+
 @font-face {
     font-family: 'iA Writer Duo S';
     src: url("/assets/fonts/iAWriterDuoS-Bold.woff2");
@@ -72,14 +94,14 @@
 }
 @font-face {
     font-family: 'iA Writer Duo 2';
-    src: url("/assets/fonts/iAWriterDuoS-Regular.woff2");
+    src: url("/assets/fonts/iAWriterDuoS-Regular.woff");
     font-weight: 400;
     font-style: normal;
 }
 
 $primaryfont: "Calibre", sans-serif;
 $monospacefont: "iA Writer Duo 2", monospace;
-$essayfont: "Arnhem", serif;
+$essayfont: "Untitled Serif", "Tiempos", serif;
 
 // Fonts Style
 .sidebar-about h1, body, .pagination {
@@ -87,37 +109,34 @@ $essayfont: "Arnhem", serif;
 }
 .lead {
     font-family: $essayfont;
-    font-weight: 700;
     font-style: italic;
 }
 .page-title {
 	font-family: $essayfont;
-	font-weight: 700;
-	font-style: italic;
-    margin-bottom: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 .posts, .post, .content {
 	& p {
 		font-family: $essayfont;
         @media (min-width: 38em) {
-            font-size: 0.9em;
-            line-height: 1.45rem;
+            font-size: 0.95em;
+            line-height: 1.4rem;
         }
         text-rendering: optimizelegibility;
 	}
     & ul {
         font-family: $essayfont;
         @media (min-width: 38em) {
-            font-size: 0.9em;
-            line-height: 1.45rem;
+            font-size: 0.85em;
+            line-height: 1.35rem;
         }
         text-rendering: optimizelegibility;
     }
     & ol {
         font-family: $essayfont;
         @media (min-width: 38em) {
-            font-size: 0.9em;
-            line-height: 1.45rem;
+            font-size: 0.85em;
+            line-height: 1.35rem;
         }
         text-rendering: optimizelegibility;
     }
