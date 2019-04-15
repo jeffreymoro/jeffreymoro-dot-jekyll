@@ -28,7 +28,7 @@ number: ENGL290
 </ul>
 </div>
 
-*Updated 7 March 2019.*
+*Updated 14 April 2019.*
 
 ## Description
 
@@ -315,7 +315,7 @@ No meetings. I suggest reading the first half of *Infinite Detail*.
 #### Mon 8 April
 
 - *Play*: Nintendo, *Super Mario Bros*
-- *Read*: Nathan Altice, Selections from "Platforming," *I AM ERROR*
+- *OPTIONAL*: Nathan Altice, Selections from "Platforming," *I AM ERROR*
 
 #### Wed 10 April
 
@@ -338,7 +338,7 @@ No meetings. I suggest reading the first half of *Infinite Detail*.
 #### Wed 17 April
 
 - *Play*: Nintendo, *The Legend of Zelda* [Toy around with it for fifteen minutes or so to get a sense of the lay of its land.]; Patrick LeMieux and Stephanie Boluk, [*Triforce*](https://alt254.itch.io/triforce)
-- *Read*: Selections from Patrick LeMieux and Stephanie Boluk, *Metagaming*
+- (We'll look at selections from Patrick LeMieux and Stephanie Boluk, *Metagaming* in class.)
 
 #### Fri 19 April
 
