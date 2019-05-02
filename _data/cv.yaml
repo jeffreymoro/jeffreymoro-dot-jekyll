@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2018-12-02.pdf"
+  link: "cv-2019-05-02.pdf"
 
 ########### Contact ###########
 contact:
@@ -19,7 +19,7 @@ profile: "I&rsquo;m a doctoral candidate in English at the University of Marylan
 
 ########### Education ###########
 education:
-  - institution: University of Maryland, College Park
+  - institution: University of Maryland
     degree: Ph.D, English
     date: "2021 (Expected)"
     awards: certificate in Digital Studies (in progress)
@@ -101,11 +101,25 @@ conference-talks:
     url: ""
 
 conference-other:
+  - title: "Environmental Justice and the Digital Humanities"
+    institution: Associate for Computers and the Humanities
+    location: Pittsburgh
+    date: July 2019
+    type: Roundtable (Convener)
+    event: "ACH2019"
+    url: ""
+  - title: "The Odors of Mediation"
+    institution: Associate for Computers and the Humanities
+    location: Pittsburgh
+    date: July 2019
+    type: Poster
+    event: "ACH2019"
+    url: ""
   - title: "Surfaces, Standards, Layers, Stacks: Towards a Platform Textuality"
     institution: Society for Textual Scholarship and MITH
     location: College Park
     date: May 2017
-    type: Roundtable
+    type: Roundtable (Convener)
     event: "Textual Embodiments"
     url: "/research/2017/sts/"
   - title: "The Critical Is: Mapping New Approaches to Video Game Criticism"
@@ -173,7 +187,7 @@ courses-umd:
     date: 2019
     url: ""
   - title: "Academic Writing"
-    date: 2018
+    date: 2018, 2020
     url: ""
 
 courses-smith:
@@ -219,6 +233,11 @@ workshop:
 
 ########### Digital ###########
 projects:
+  - title: "Our Beloved Kin: Remapping a New History of King Philip's War"
+    role: Designer
+    url: "https://ourbelovedkin.com"
+    date: "2016–19"
+    context: "A digital companion to *Our Beloved Kin: A New History of King Philip's War*, by Lisa Brooks. Published by Yale University Press."
   - title: "E.LIT / NET.ART"
     role: Curator & Organizer
     url: "https://elit.jeffreymoro.com"
@@ -256,7 +275,7 @@ minor-projects:
 service:
   - title: "President"
     institution: "UMD Graduate English Organization"
-    year: "2018–Present"
+    year: "2018–19"
   - title: "Technology Chair"
     institution: "UMD Graduate English Organization"
     year: "2017–18"
