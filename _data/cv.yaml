@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2019-05-02.pdf"
+  link: "cv-2019-05-03.pdf"
 
 ########### Contact ###########
 contact:
@@ -183,11 +183,14 @@ awards:
 
 ########### Courses and Workshops ###########
 courses-umd:
+  - title: "Film Form and Culture (TA)"
+    date: 2019
+    url: ""
   - title: "Introduction to Digital Studies"
     date: 2019
     url: ""
   - title: "Academic Writing"
-    date: 2018, 2020
+    date: 2018, 2019
     url: ""
 
 courses-smith:
