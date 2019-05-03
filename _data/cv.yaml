@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2019-05-03.pdf"
+  link: "cv-2019-05-04.pdf"
 
 ########### Contact ###########
 contact:
@@ -282,5 +282,12 @@ service:
   - title: "Technology Chair"
     institution: "UMD Graduate English Organization"
     year: "2017–18"
+
+########### Skills ###########
+skills:
+  - title: "Human-Adjacent Languages"
+    things: "French (reading), Spanish (reading)"
+  - title: "Computer-Adjacent Languages"
+    things: "HTML, CSS/SASS, Jekyll + Liquid templating, Javascript, TEI, LaTeX, Python (reading), Perl (reading)"
 
 ---
