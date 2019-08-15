@@ -80,6 +80,24 @@ conference-talks:
     url: ""
 
 conference-other:
+  - title: "Environmental Justice and the Digital Humanities"
+    snippet: 'A roundtable I chaired with Purdom Lindblad, Gabriela Baeza Ventura, and Kim Bain on strategies for centering environmental justice and decolonial thinking in digital humanities work. Open notes and ongoing collaborations are accessible in the link here:'
+    conference: ACH 2019
+    institution: Association for Computers and the Humanities
+    location: Pittsburgh, PA
+    date: July 2019
+    panel: ""
+    event: "ACH 2019"
+    url: "https://environmental-dh.github.io/"  
+  - title: "Breath Control: 3D Printing and Environmental Media"
+    snippet: 'A poster version of an alternate universe version of my first dissertation chapter, developing environmental approaches to maker culture and media toxicity. I tweeted the poster here:'
+    conference: ACH 2019
+    institution: Association for Computers and the Humanities
+    location: Pittsburgh, PA
+    date: July 2019
+    panel: ""
+    event: "ACH 2019"
+    url: "https://twitter.com/jeffreymoro/status/1154449314648772610?s=20"  
   - title: "Surfaces, Standards, Layers, Stacks: Toward a Platform Textuality"
     snippet: 'A roundtable with Kyle Bickoff and Setsuko Yokoyama on the textuality of platforms. My paper close reads the GitHub repository of Paul Ford’s “What is Code?” to think through the version control site’s pervasive logics of hypervisibility and auto-surveillance.'
     conference: Textual Embodiments
@@ -101,6 +119,11 @@ conference-other:
 
 ########### Projects ###########
 projects:
+  - title: "Our Beloved Kin: Remapping a New History of King Philip's War"
+    snippet: "I led a phase of website conceptualization and design for the digital accompaniment to Lisa Brooks' book <em>Our Beloved Kin</em>, published in 2019 by Yale University Press."
+    role: Designer
+    url: "https://ourbelovedkin.com"
+    date: "2016 – 2019"
   - title: The Recirculator
     snippet: "A web app that lets you randomly check out books that have never before circulated within the Five College library system."
     role: PI

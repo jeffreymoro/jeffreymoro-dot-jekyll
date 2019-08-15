@@ -7,9 +7,9 @@ courses-umd:
     snippet: "As it says on the tin: an introduction to digital studies in the humanities. How do we analyze digital objects and cultures, from computer code, to video games, to social media, to electronic waste, and more. The course combines the traditional analytical tools of the humanities with a range of creative and technical practices."
   - title: Academic Writing
     institution: University of Maryland, College Park
-    date: Fall 2018
+    date: Fall 2018, Fall 2019
     number: ENGL101
-    url: ""
+    url: "/teaching/umd/engl101"
     snippet: "College composition. Everyone teaches it. Everyone has a version of it. This one is mine."
 
 courses-smith:
@@ -29,7 +29,7 @@ courses-smith:
 workshops:
   - title: Curating Your Digital Presence
     institution: University of Maryland, College Park
-    date: Recurrent
+    date: Regularly throughout AYs 2017–19
     number: ENGL290
     url: ""
     snippet: "A workshop co-led with Setsuko Yokoyama that introduces graduate students (and anyone else interested at the university) to the ins and outs of developing a digital presence, from best practices for social media to designing and running your own personal website."

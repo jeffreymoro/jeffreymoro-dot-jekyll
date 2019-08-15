@@ -112,14 +112,14 @@ conference-other:
     date: July 2019
     type: Roundtable (Convener)
     event: "ACH2019"
-    url: ""
+    url: "https://environmental-dh.github.io/"
   - title: "Breath Control: 3D Printing and Media Toxicity"
     institution: Association for Computers and the Humanities
     location: Pittsburgh
     date: July 2019
     type: Poster
     event: "ACH2019"
-    url: ""
+    url: "https://twitter.com/jeffreymoro/status/1154449314648772610?s=20"
   - title: "Surfaces, Standards, Layers, Stacks: Towards a Platform Textuality"
     institution: Society for Textual Scholarship and MITH
     location: College Park
@@ -250,7 +250,7 @@ projects:
     role: Designer
     url: "https://ourbelovedkin.com"
     date: "2016–19"
-    context: "A digital companion to *Our Beloved Kin: A New History of King Philip's War*, by Lisa Brooks. Published by Yale University Press."
+    context: "A digital companion to <em>Our Beloved Kin: A New History of King Philip's War</em>, by Lisa Brooks. Published by Yale University Press."
   - title: "E.LIT / NET.ART"
     role: Curator & Organizer
     url: "https://elit.jeffreymoro.com"
