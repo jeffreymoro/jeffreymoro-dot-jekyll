@@ -160,7 +160,7 @@ No class on account of Labor Day.
 
 #### W 11 Sept
 
-- *Read*: Dan Greene, "It Runs Deep and We Can't Talk About It: On Campus Racism and the Murder of Richard Collins III"
+- *Read*: Dan Greene, ["It Runs Deep and We Can't Talk About It: On Campus Racism and the Murder of Richard Collins III"](https://medium.com/@dan.greene10/it-runs-deep-and-we-cant-talk-it-out-on-campus-racism-and-the-murder-of-richard-collins-iii-86f8fe0dde4c)
 
 #### F 13 Sept
 
@@ -254,7 +254,7 @@ No class on account of Jeffrey is traveling (to a conference at UMD, <small>so n
 #### M 14 Oct
 
 - Introduce digital forum assignment
-- *Read*: Jin, "Click Bait vs. Journalism"
+- *Read*: Jin, ["Click Bait vs. Journalism"](https://isclickbaitjournalism.weebly.com/)
 - *Due*: Inquiry Essay
 
 #### W 16 Oct
@@ -296,7 +296,7 @@ No class on account of Jeffrey is traveling (to a conference at UMD, <small>so n
 #### F 1 Nov
 
 - Introduce position paper
-- *Read*: Tsoi, "Discriminatory and Unconstitutional"
+- *Read*: [Tsoi, "Discriminatory and Unconstitutional"](https://www.english.umd.edu/interpolations/17746)
 - *Due*: Digital Forum assignment
 
 ### Week 11: Position Paper I (Argumentation)
