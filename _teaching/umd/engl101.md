@@ -167,7 +167,7 @@ No class on account of Labor Day.
 - Discussing Greene; analyzing exigence and audience
 - *Do*: Skim the texts below; you'll select one for your rhetorical analysis:
   - Barbara Ehrenreich, ["Body Work"](https://thebaffler.com/outbursts/body-work-ehrenreich)
-  - Jia Tolentino, ["The Promise of Vaping and the Rise of Juul"](https://www.newyorker.com/magazine/2018/05/14/the-promise-of-vaping-and-the-rise-of-juul)
+  - Jia Tolentino, ["The Rage of the Incels"](https://www.newyorker.com/culture/cultural-comment/the-rage-of-the-incels)
   - Ron Rosenbaum, ["The Awfulness of Billy Joel, Explained"](https://slate.com/human-interest/2009/01/the-awfulness-of-billy-joel-explained.html)
 
 ### Week 4: Rhetorical Analysis II
