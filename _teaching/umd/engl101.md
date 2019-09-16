@@ -28,7 +28,7 @@ number: ENGL101
 </ul>
 </div>
 
-*Last updated 15 August 2019. This page is always the most up-to-date version of the syllabus. For course policies specific to UMD, please refer to the .pdf version hosted on ELMS.*
+*Last updated 16 September 2019. This page is always the most up-to-date version of the syllabus. For course policies specific to UMD, please refer to the .pdf version hosted on ELMS.*
 
 ## Description
 
@@ -61,7 +61,7 @@ ENGL101 is organized around a seven-part assignment sequence. The breakdown of y
 
 - Participation and smaller writing assignments: 10%
 - Assignment #1, Summary: 5% [due 9 Sept.]
-- Assignment #2, Rhetorical Analysis: 15% [due 23 Sept.]
+- Assignment #2, Rhetorical Analysis: 15% [due 24 Sept.]
 - Assignment #3, Annotated Bibliography: 5% [due 7 Oct.]
 - Assignment #4, Inquiry Essay: 15% [due 14 Oct.]
 - Assignment #5, Digital Forum: 15% [due 1 Nov.]
@@ -195,7 +195,7 @@ No class on account of Jeffrey is traveling.
 #### M 23 Sept
 
 - Introduce Inquiry assignment
-- *Due*: Rhetorical Analysis assignment
+- *Due*: Rhetorical Analysis assignment (now due T 24 Sept)
 - *Read*: *FW*, "The Inquiry Essay"
 
 #### W 25 Sept
