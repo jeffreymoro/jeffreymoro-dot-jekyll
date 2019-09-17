@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2019-07-11.pdf"
+  link: "cv-2019-09-17.pdf"
 
 ########### Contact ###########
 contact:
@@ -57,16 +57,26 @@ journals:
     url: ""
 
 web:
+  - title: "Dance Apocalyptic: Tim Maughan's *Infinite Detail* and Media after the Internet"
+    venue: "Los Angeles Review of Books"
+    date: "Forthcoming (2019)"
+    url: "https://lareviewofbooks.org/article/weird-ways-of-seeing-patrick-nagatanis-nuclear-vision/"
   - title: "Weird Ways of Seeing: Patrick Nagatani’s Nuclear Vision"
     venue: "Los Angeles Review of Books"
     date: "2 June 2018"
     url: "https://lareviewofbooks.org/article/weird-ways-of-seeing-patrick-nagatanis-nuclear-vision/"
-
+  
 other:
 
 ########### Talks ###########
 
 conference-talks:
+  - title: "Air-conditioning the Internet"
+    institution: ASAP
+    location: College Park
+    date: Oct. 2019
+    event: "ASAP/11: Ecologies of the Present"
+    url: ""
   - title: "Want of Water, Want of Data: The Trans-Atlantic Slave Trade Database and Oceanic Computing"
     institution: SIGCIS
     location: St. Louis

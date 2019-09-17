@@ -92,9 +92,9 @@ title: CV
     {% endif %}
         <div class="three-fourths column-last column-bottom clear">
             {% if title.url !="" %}
-                <a href="{{ title.url }}" target="_blank"><b>&ldquo;{{ title.title }}&rdquo;</b><br/></a>
+                <a href="{{ title.url }}" target="_blank"><b>&ldquo;{{ title.title | markdownify | remove: '<p>' | remove: '</p>' }}&rdquo;</b><br/></a>
             {% else %}
-                <b>&ldquo;{{ title.title }}&rdquo;</b><br/>
+                <b>&ldquo;{{ title.title | markdownify | remove: '<p>' | remove: '</p>' }}&rdquo;</b><br/>
             {% endif %}
             <span class="cv-meta">{{ title.date }} • <i>{{ title.venue }}</i></span>
         </div>
