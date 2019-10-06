@@ -28,7 +28,7 @@ number: ENGL101
 </ul>
 </div>
 
-*Last updated 16 September 2019. This page is always the most up-to-date version of the syllabus. For course policies specific to UMD, please refer to the .pdf version hosted on ELMS.*
+*Last updated 3 October 2019. This page is always the most up-to-date version of the syllabus. For course policies specific to UMD, please refer to the .pdf version hosted on ELMS.*
 
 ## Description
 
@@ -63,7 +63,7 @@ ENGL101 is organized around a seven-part assignment sequence. The breakdown of y
 - Assignment #1, Summary: 5% [due 9 Sept.]
 - Assignment #2, Rhetorical Analysis: 15% [due 24 Sept.]
 - Assignment #3, Annotated Bibliography: 5% [due 7 Oct.]
-- Assignment #4, Inquiry Essay: 15% [due 14 Oct.]
+- Assignment #4, Inquiry Essay: 15% [due 16 Oct.]
 - Assignment #5, Digital Forum: 15% [due 1 Nov.]
 - Assignment #6, Position Paper: 20% [due 22 Nov.]
 - Assignment #7, Revision and Reflection: 15% [due 11 Dec.]
@@ -246,21 +246,19 @@ No scheduled class.
 
 No class on account of Jeffrey is traveling (to a conference at UMD, <small>so not even anywhere *fun*</small>). 
 
-- *Do*: Virtual draft workshop #2 by the end of the day
-- *Submit*: Your inquiry draft in advance of class
+- *Write*: Short reflective writing post on ELMS. 
 
 ### Week 8: Digital Forum I
 
 #### M 14 Oct
 
-- Introduce digital forum assignment
-- *Read*: Jin, ["Click Bait vs. Journalism"](https://isclickbaitjournalism.weebly.com/)
-- *Due*: Inquiry Essay
+- Draft workshop #2 on Inquiry Essay
 
 #### W 16 Oct
 
-- Identifying stakeholders 
-- *Read*: TBD
+- Introduce digital forum assignment 
+- *Read*: Jin, ["Click Bait vs. Journalism"](https://isclickbaitjournalism.weebly.com/)
+- *Due*: Inquiry Essay
 
 #### F 18 Oct
 
