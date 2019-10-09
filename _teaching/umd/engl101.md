@@ -63,7 +63,7 @@ ENGL101 is organized around a seven-part assignment sequence. The breakdown of y
 - Assignment #1, Summary: 5% [due 9 Sept.]
 - Assignment #2, Rhetorical Analysis: 15% [due 24 Sept.]
 - Assignment #3, Annotated Bibliography: 5% [due 7 Oct.]
-- Assignment #4, Inquiry Essay: 15% [due 16 Oct.]
+- Assignment #4, Inquiry Essay: 15% [due 18 Oct.]
 - Assignment #5, Digital Forum: 15% [due 1 Nov.]
 - Assignment #6, Position Paper: 20% [due 22 Nov.]
 - Assignment #7, Revision and Reflection: 15% [due 11 Dec.]
@@ -190,7 +190,7 @@ No class on account of Jeffrey is traveling.
 - *Do*: Virtual draft workshop by the end of the day
 - *Submit*: Your rhetorical analysis draft in advance of class
 
-### Week 5: Inquiry I
+### Week 5: Conference Days
 
 #### M 23 Sept
 
@@ -213,7 +213,7 @@ No scheduled class.
 
 **NB**: The university has mandated that all classes after noon are cancelled on account of a football game. We will endeavor to schedule conferences earlier in the week so as to limit our time on campus on Friday, 27 Sept.
 
-### Week 6: Inquiry II (Annotated Bibliography)
+### Week 6: Inquiry I (Annotated Bibliography)
 
 #### M 30 Sept
 
@@ -229,7 +229,7 @@ No scheduled class.
 - Evaluating sources and MLA citation
 - *Read*: Selections from the MLA 8th Edition Handbook
 
-### Week 7: Inquiry III
+### Week 7: Inquiry II
 
 #### M 7 Oct
 
@@ -239,38 +239,40 @@ No scheduled class.
 
 #### W 9 Oct
 
+- Practicing outlining
 - Draft workshop #1 on Inquiry Essay
-- *Do*: Sign up for Wordpress as per in-class instructions
 
 #### F 11 Oct
 
 No class on account of Jeffrey is traveling (to a conference at UMD, <small>so not even anywhere *fun*</small>). 
 
-- *Write*: Short reflective writing post on ELMS. 
+- *Post*: Your introductory paragraph and outline to ELMS. 
 
-### Week 8: Digital Forum I
+### Week 8: Inquiry III
 
 #### M 14 Oct
 
-- Draft workshop #2 on Inquiry Essay
+- Reverse outlining assignment
+- *Read*: *FW*, "Thirteen (Lucky!) Strategies for Revision"
+- *Bring*: A copy of your rhetorical analysis, plus any writing you have for your inquiry essay.
 
 #### W 16 Oct
 
-- Introduce digital forum assignment 
-- *Read*: Jin, ["Click Bait vs. Journalism"](https://isclickbaitjournalism.weebly.com/)
-- *Due*: Inquiry Essay
+- Draft workshop #2 on Inquiry Essay
+- *Bring*: A printed-out copy of your inquiry essay
 
 #### F 18 Oct
 
-- Critiquing multimedia composition 
-- *Read*: John Branch, ["Snow Fall"](http://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=tunnel-creek); Jenn Abelson, Amy Brittain and Sarah Larimer, ["A Dangerous Delay"](https://www.washingtonpost.com/news/national/wp/2019/05/16/feature/university-of-maryland-mold-adenovirus/)
+- Introduce (revised) digital forum assignment
+- *Read*: Jin, ["Click Bait vs. Journalism"](https://isclickbaitjournalism.weebly.com/)
+- *Due*: Inquiry Essay
 
-### Week 9: Digital Forum II
+### Week 9: Digital Forum I
 
 #### M 21 Oct
 
-- Workshop day
-- *Do*: Bring your computer to class; we'll spend the day workshopping individually. 
+- Critiquing multimedia composition
+- *Read*: John Branch, ["Snow Fall"](http://www.nytimes.com/projects/2012/snow-fall/index.html#/?part=tunnel-creek); Jenn Abelson, Amy Brittain and Sarah Larimer, ["A Dangerous Delay"](https://www.washingtonpost.com/news/national/wp/2019/05/16/feature/university-of-maryland-mold-adenovirus/)
 
 #### W 23 Oct
 
@@ -278,18 +280,21 @@ No class on account of Jeffrey is traveling (to a conference at UMD, <small>so n
 
 #### F 25 Oct
 
+- Workshop day (make sure to bring your computers)
+
 - Revising digital composition
 - *Read*: *FW*, "Meditations on Revision: Experiments with Digital Composing"
 
-### Week 10: Digital Forum III
+### Week 10: Digital Forum II
 
 #### M 28 Oct
 
-- Draft workshop #1 on digital forum
+- Revising digital composition
+- *Read*: *FW*, "Meditations on Revision: Experiments with Digital Composing"
 
 #### W 30 Oct
 
-- Draft workshop #2 on digital forum
+- Draft workshop on digital forum
 
 #### F 1 Nov
 
