@@ -25,6 +25,14 @@ other:
 ########### Talks ###########
 
 conference-talks:
+  - title: "Air-conditioning the Internet"
+    snippet: "This is a talk about two technologies that control the planet: air conditioning and the internet."
+    conference: "ASAP/11: Ecologies of the Present"
+    institution: ASAP
+    location: College Park, MD
+    date: October 2019
+    panel: "Managing Media’s Environments"
+    url: "/research/2019/asap2019"
   - title: "Want of Water, Want of Data: The Trans-Atlantic Slave Trade Database and Oceanic Computing"
     snippet: "How might digital humanities projects negotiate the ethical challenges of the Middle Passage? And what can environmental and oceanic critique teach us about how to value indeterminacy in data-driven work?"
     conference: Stored in Memory

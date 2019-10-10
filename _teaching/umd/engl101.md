@@ -28,7 +28,7 @@ number: ENGL101
 </ul>
 </div>
 
-*Last updated 3 October 2019. This page is always the most up-to-date version of the syllabus. For course policies specific to UMD, please refer to the .pdf version hosted on ELMS.*
+*Last updated 9 October 2019. This page is always the most up-to-date version of the syllabus. For course policies specific to UMD, please refer to the .pdf version hosted on ELMS.*
 
 ## Description
 
@@ -281,9 +281,6 @@ No class on account of Jeffrey is traveling (to a conference at UMD, <small>so n
 #### F 25 Oct
 
 - Workshop day (make sure to bring your computers)
-
-- Revising digital composition
-- *Read*: *FW*, "Meditations on Revision: Experiments with Digital Composing"
 
 ### Week 10: Digital Forum II
 

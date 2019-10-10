@@ -60,7 +60,7 @@ web:
   - title: "Dance Apocalyptic: Tim Maughan's *Infinite Detail* and Media after the Internet"
     venue: "Los Angeles Review of Books"
     date: "Forthcoming (2019)"
-    url: "https://lareviewofbooks.org/article/weird-ways-of-seeing-patrick-nagatanis-nuclear-vision/"
+    url: ""
   - title: "Weird Ways of Seeing: Patrick Nagatani’s Nuclear Vision"
     venue: "Los Angeles Review of Books"
     date: "2 June 2018"
@@ -76,7 +76,7 @@ conference-talks:
     location: College Park
     date: Oct. 2019
     event: "ASAP/11: Ecologies of the Present"
-    url: ""
+    url: "/research/2019/asap2019"
   - title: "Want of Water, Want of Data: The Trans-Atlantic Slave Trade Database and Oceanic Computing"
     institution: SIGCIS
     location: St. Louis

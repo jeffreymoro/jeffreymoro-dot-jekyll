@@ -25,31 +25,6 @@
 }
 
 @font-face {
-    font-family: 'Tiempos';
-    src: url("/assets/fonts/TiemposTextWeb-Regular.woff");
-    font-weight: 400;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'Tiempos';
-    src: url("/assets/fonts/TiemposTextWeb-Semibold.woff");
-    font-weight: 700;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'Tiempos';
-    src: url("/assets/fonts/TiemposTextWeb-RegularItalic.woff");
-    font-weight: 400;
-    font-style: italic;
-}
-@font-face {
-    font-family: 'Tiempos';
-    src: url("/assets/fonts/TiemposTextWeb-SemiboldItalic.woff");
-    font-weight: 700;
-    font-style: italic;
-}
-
-@font-face {
     font-family: 'Untitled Serif';
     src: url("/assets/fonts/UntitledSerif-Regular.woff");
     font-weight: 400;
@@ -65,12 +40,6 @@
     font-family: 'Untitled Serif';
     src: url("/assets/fonts/UntitledSerif-RegularItalic.woff");
     font-weight: 400;
-    font-style: italic;
-}
-@font-face {
-    font-family: 'Tiempos';
-    src: url("/assets/fonts/TiemposTextWeb-SemiboldItalic.woff");
-    font-weight: 700;
     font-style: italic;
 }
 
@@ -101,7 +70,7 @@
 
 $primaryfont: "Calibre", sans-serif;
 $monospacefont: "iA Writer Duo 2", monospace;
-$essayfont: "Untitled Serif", "Tiempos", serif;
+$essayfont: "Untitled Serif", serif;
 
 // Fonts Style
 .sidebar-about h1, body, .pagination {
