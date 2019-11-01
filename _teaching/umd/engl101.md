@@ -28,7 +28,7 @@ number: ENGL101
 </ul>
 </div>
 
-*Last updated 9 October 2019. This page is always the most up-to-date version of the syllabus. For course policies specific to UMD, please refer to the .pdf version hosted on ELMS.*
+*Last updated 1 November 2019. This page is always the most up-to-date version of the syllabus. For course policies specific to UMD, please refer to the .pdf version hosted on ELMS.*
 
 ## Description
 
@@ -304,7 +304,7 @@ No class on account of Jeffrey is traveling (to a conference at UMD, <small>so n
 #### M 4 Nov
 
 - Critiquing argumentation
-- *Read*: Jasper Bernes, ["Between the Devil and the Green New Deal"](https://communemag.com/between-the-devil-and-the-green-new-deal/)
+- *Read*: Ami Thaivalappil, ["Daughters of Sabarimala"](http://umdinterpolations.com/uncategorized/2019-issue/)
 
 #### W 6 Nov
 
