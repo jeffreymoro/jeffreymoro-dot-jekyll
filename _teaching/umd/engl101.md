@@ -325,12 +325,12 @@ No class on account of Jeffrey is traveling (to a conference at UMD, <small>so n
 
 #### W 13 Nov
 
-- Logical fallacies; in-class workshop
+- Structuring arguments
+- *FW*, "Structuring Arguments"
 
 #### F 15 Nov
 
-- Structuring arguments
-- *FW*, "Structuring Arguments"
+- Logical fallacies; in-class writing workshop
 
 ### Week 13: Position Paper III (Workshopping)
 
