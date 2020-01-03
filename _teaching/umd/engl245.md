@@ -247,7 +247,7 @@ Our "final exam," such as it is, takes the form of three short essays of c. 750 
 - *Read*:
   - Kirsty Fairclough, Michael N. Goddard, and Anthony N. Smith, ["'I’ll See You in 25 Years': The Return of Twin Peaks and Television Aesthetics"](http://sensesofcinema.com/2016/twin-peaks/return-of-twin-peaks/). (I recommend skimming the essays in this *Sense of Cinema* [special feature](http://sensesofcinema.com/category/twin-peaks/).)
 
-<small>*NB*: I recommend viewing *Twin Peaks* throughout the semester, since it's a substantial undertkaing even in this highly abbreviated version. I'll distribute recommendations for timing screenings in the first few weeks of class.</small>
+<small>*NB*: I recommend viewing *Twin Peaks* throughout the semester, since it's a substantial undertaking even in this highly abbreviated version. I'll distribute recommendations for timing screenings in the first few weeks of class.</small>
 
 ### Week 16, May 12th: Post-cinema II — Fragmentation
 
