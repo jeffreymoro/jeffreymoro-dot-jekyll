@@ -60,7 +60,7 @@ The films we will watch this semester are:
 - *Strike* (Sergei Eisenstein, 1925)
 - *The Shop Around the Corner* (Ernst Lubitsch, 1940)
 - *The Bigamist* (Ida Lupino, 1953)
-- *Daises* (Věra Chytilová, 1966)
+- *Daisies* (Věra Chytilová, 1966)
 - *Do the Right Thing* (Spike Lee, 1989)
 - *Stalker* (Andrei Tarkovsky, 1979)
 - *Love and Anarchy* (Lina Wertmüller, 1973)
@@ -243,7 +243,7 @@ Our "final exam," such as it is, takes the form of three short essays of c. 750 
   - S01E03, "Zen, or the Skill to Catch a Killer"
   - S02E07, "Lonely Souls"
   - S02E22, "Beyond Life and Death"
-  - S03E01 and E02, "Part 1 and Part 2" (aired in one continuous episode)
+  - S03E01, "Part 1"
 - *Read*:
   - Kirsty Fairclough, Michael N. Goddard, and Anthony N. Smith, ["'I’ll See You in 25 Years': The Return of Twin Peaks and Television Aesthetics"](http://sensesofcinema.com/2016/twin-peaks/return-of-twin-peaks/). (I recommend skimming the essays in this *Sense of Cinema* [special feature](http://sensesofcinema.com/category/twin-peaks/).)
 
