@@ -242,8 +242,9 @@ Our "final exam," such as it is, takes the form of three short essays of c. 750 
   - S01E01, "Pilot"
   - S01E03, "Zen, or the Skill to Catch a Killer"
   - S02E07, "Lonely Souls"
-  - S02E22, "Beyond Life and Death"
+  - S02E22, "Beyond Life and Death" (optional, but I recommend watching the last ten minutes to help contextualize season 3.)
   - S03E01, "Part 1"
+  - S03E02, "Part 2" (Parts 1 & 2 aired as one continuous episode)
 - *Read*:
   - Kirsty Fairclough, Michael N. Goddard, and Anthony N. Smith, ["'I’ll See You in 25 Years': The Return of Twin Peaks and Television Aesthetics"](http://sensesofcinema.com/2016/twin-peaks/return-of-twin-peaks/). (I recommend skimming the essays in this *Sense of Cinema* [special feature](http://sensesofcinema.com/category/twin-peaks/).)
 
