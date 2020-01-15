@@ -28,7 +28,7 @@ number: ENGL245
 </ul>
 </div>
 
-*Updated 2 Jan 2020. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the .pdf version above.*
+*Updated 13 Jan 2020. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the .pdf version above.*
 
 ## Description
 
@@ -49,17 +49,17 @@ There is one textbook I would like you to obtain for this class:
 
 - Bordwell, David and Kristin Johnson. *Film Art: An Introduction*.
 
-You will notice there are multiple editions and that some of the more recent ones (11th and 12th) are extremely expensive. However, any edition from the 7th on will suffice for this class—and be much cheaper, especially used. (As of this writing, the 9th edition seems to have many cheap used copies on Amazon.) I will make the textbook's readings for the first few weeks of class available as .pdfs to give you the chance to secure copies. If the textbook presents a financial difficulty for you, please contact me and we can make arrangements. 
+You will notice there are multiple editions and that some of the more recent ones (it's up to the 12th) are extremely expensive. However, any edition from the 7th on will suffice for this class—and be much cheaper, especially used. (As of this writing, the 8th and 9th editions seem to have many cheap used copies on Amazon.) I will make the textbook's readings for the first few weeks of class available as .pdfs to give you the chance to secure copies. If the textbook presents a financial difficulty for you, please contact me and we can make arrangements. 
 
 You can consider the textbook necessary background to our class discussions. We will spend comparatively little time on it directly, but rather focus on the films themselves as well as the other course readings. All these materials will be available on our course website: the films on streaming; and the readings as .pdfs. 
 
 The films we will watch this semester are: 
 
-- *The Love Witch* (Anna Biller, 2016)
+- *A Girl Walks Home Alone at Night* (Ana Lily Amirpour, 2014)
 - *Sherlock, Jr.* (Buster Keaton, 1924)
 - *Strike* (Sergei Eisenstein, 1925)
 - *The Shop Around the Corner* (Ernst Lubitsch, 1940)
-- *The Bigamist* (Ida Lupino, 1953)
+- *In a Lonely Place* (Nicolas Ray, 1950)
 - *Daisies* (Věra Chytilová, 1966)
 - *Do the Right Thing* (Spike Lee, 1989)
 - *Stalker* (Andrei Tarkovsky, 1979)
@@ -136,7 +136,7 @@ Our "final exam," such as it is, takes the form of three short essays of c. 750 
 
 ### Week 1, Jan 28/30th: Introduction
 
-- *The Love Witch* (Anna Biller, 2016)
+- *A Girl Walks Home Alone At Night* (Ana Lily Amirpour, 2014)
 - *Read*:
   - Bordwell/Thompson, chapter 2, "The Significance of Film Form"
 
@@ -153,7 +153,6 @@ Our "final exam," such as it is, takes the form of three short essays of c. 750 
 - *Read*:
   - Sergei Eisenstein, "The Cinematographic Principle and the Ideogram"
   - Karl Marx, ["Theses on Feuerbach"](https://www.marxists.org/subject/dialectics/index.htm) (the first link; whole page is a useful resource on Marxist dialectical thinking)
-  - Bordwell/Thompson, chapter 6, "The Relation of Shot to Shot: Editing"
   - There are some useful notes on Soviet montage in Bordwell/Thompson, chapter 12. 
 
 ### Week 3, Feb 18/20th: Continuity
@@ -161,14 +160,13 @@ Our "final exam," such as it is, takes the form of three short essays of c. 750 
 - *The Shop Around the Corner* (Ernst Lubitsch, 1940)
 - *Read*:
   - Walter Benjamin, "The Work of Art in the Age of its Mechanical Reproducibility" (second version)
-  - Miriam Hansen, "The Mass Production of the Senses"
-  - continue with Bordwell/Thompson, chapter 6
+  - Bordwell/Thompson, chapter 6, "The Relation of Shot to Shot: Editing"
   - There are some useful notes on Hollywood-style continuity in Bordwell/Thompson, chapter 12. 
 - *Due*: Mini-essay due Thu 20 Feb. 
 
 ### Week 5, Feb 25/27th: Cinematography
 
-- *The Bigamist* (Ida Lupino, 1953)
+- *In a Lonely Place* (Nicolas Ray, 1950)
 - *Read*:
   - Maya Deren, "Cinematography: The Creative Use of Reality"
   - Bordwell/Thompson, chapter 5, "Cinematography"
@@ -221,11 +219,10 @@ Our "final exam," such as it is, takes the form of three short essays of c. 750 
 ### Week 13, April 21/23rd: Sound
 
 - *Nashville* (Robert Altman, 1975)
-- *Blue* (Derek Jarman, 1993) [excerpts, in-class viewing]
 - *Read*:
   - Roland Barthes, "The Grain of the Voice"
-  - Alexander Weheliye and Katherine McKittrick, "808s and Heartbreak"
   - Bordwell/Thompson, chapter 7, "Sound in the Cinema"
+  - *Optional*: Alexander Weheliye and Katherine McKittrick, "808s and Heartbreak"
 - *Due*: Short essay #2 (editing project) due on Thu 30 April. 
 
 ### Week 14, April 28/30th: Documentary
@@ -243,8 +240,7 @@ Our "final exam," such as it is, takes the form of three short essays of c. 750 
   - S01E03, "Zen, or the Skill to Catch a Killer"
   - S02E07, "Lonely Souls"
   - S02E22, "Beyond Life and Death" (optional, but I recommend watching the last ten minutes to help contextualize season 3.)
-  - S03E01, "Part 1"
-  - S03E02, "Part 2" (Parts 1 & 2 aired as one continuous episode)
+  - S03E01, "Part 1" & S03E02, "Part 2" (aired as one continuous episode)
 - *Read*:
   - Kirsty Fairclough, Michael N. Goddard, and Anthony N. Smith, ["'I’ll See You in 25 Years': The Return of Twin Peaks and Television Aesthetics"](http://sensesofcinema.com/2016/twin-peaks/return-of-twin-peaks/). (I recommend skimming the essays in this *Sense of Cinema* [special feature](http://sensesofcinema.com/category/twin-peaks/).)
 
