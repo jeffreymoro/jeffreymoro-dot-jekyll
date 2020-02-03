@@ -6,7 +6,7 @@ tags:
 - videogames
 ---
 
-The best game of 2019 is called *A Short Hike*. In it you play a small bird-person on an island in Canada, populated by other small bird-people and also some mice-people and turtle-people and really just a whole host of animal-people. Your objective is to take a nice short hike to the top of the mountain in search of cellphone service, because you're waiting on a call from your mom. It looks like this:
+The best game of 2019 is called [*A Short Hike*](http://ashorthike.com/). In it you play a small bird-person on an island in Canada, populated by other small bird-people and also some mice-people and turtle-people and really just a whole host of animal-people. Your objective is to take a nice short hike to the top of the mountain in search of cellphone service, because you're waiting on a call from your mom. It looks like this:
 
 ![a-short-hike-1](/assets/img/a-short-hike-1.jpg)
 <div class="caption">I think the main character has a name but I can’t quite remember.</div>
