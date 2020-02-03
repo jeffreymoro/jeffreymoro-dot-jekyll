@@ -9,14 +9,17 @@ tags:
 The best game of 2019 is called *A Short Hike*. In it you play a small bird-person on an island in Canada, populated by other small bird-people and also some mice-people and turtle-people and really just a whole host of animal-people. Your objective is to take a nice short hike to the top of the mountain in search of cellphone service, because you're waiting on a call from your mom. It looks like this:
 
 ![a-short-hike-1](/assets/img/a-short-hike-1.jpg)
+<div class="caption">I think the main character has a name but I can’t quite remember.</div>
 
 It is a small game. It takes an hour or two, tops. The gameplay (ugh, *terms*) is as though someone ([@adamgryu](https://adamgryu.com/), the person who made this game) took the climbing parts of *Breath of the Wild* and soldered them to the pleasant joy of *Animal Crossing*. "Soldered" is perhaps not the best term. "Simmered together in a dutch oven for a few hours." There are various things you can collect if you're into that sort of thing. I'm into that sort of thing, so it was nice to collect them, e.g. feathers, sticks, etc. 
 
 ![a-short-hike-2](/assets/img/a-short-hike-2.jpg)
+<div class="caption">The feathers let you fly higher.</div>
 
 Also you can fly! Flying is great. What I like about this game is that it's pleasant just to move around, and it's even more pleasant to talk to the other islanders you come across, and as you move you find more islanders, reinforcing the overall pleasantness. 
 
 ![a-short-hike-3](/assets/img/a-short-hike-3.jpg)
+<div class="caption">I also really like the font on the dialogue.</div>
 
 I have no other reason to write this other than that this game is something that I really loved, and that got me through what we might euphemistically call "a very hard year," one that seems to have let up a bit but <gestures vaguely to 2020>, who knows really. And I don't have a lot of time to myself these days so I value things that are short. 
 
