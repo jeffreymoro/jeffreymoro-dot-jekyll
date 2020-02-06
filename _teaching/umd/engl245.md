@@ -155,7 +155,7 @@ Our "final exam," such as it is, takes the form of three short essays of c. 750 
   - Karl Marx, ["Theses on Feuerbach"](https://www.marxists.org/subject/dialectics/index.htm) (the first link; whole page is a useful resource on Marxist dialectical thinking)
   - There are some useful notes on Soviet montage in Bordwell/Thompson, chapter 12. 
 
-### Week 3, Feb 18/20th: Continuity
+### Week 4, Feb 18/20th: Continuity
 
 - *The Shop Around the Corner* (Ernst Lubitsch, 1940)
 - *Read*:
