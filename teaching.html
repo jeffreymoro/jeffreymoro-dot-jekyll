@@ -6,16 +6,23 @@ title: Teaching
 <div class="tabsWrapper clear" id="t0">
 <ul class="tabs">
     <li>
-        <a href="#t1">UNIVERSITY OF MARYLAND</a></li>
+        <a href="#t1">TEACHING INTERESTS</a></li>
     <li>
-        <a href="#t2">SMITH COLLEGE</a></li>
+        <a href="#t2">UNIVERSITY OF MARYLAND</a></li>
     <li>
-        <a href="#t3">WORKSHOPS</a></li>
+        <a href="#t3">SMITH COLLEGE</a></li>
+    <li>
+        <a href="#t4">WORKSHOPS</a></li>
 </ul>
 </div>
 
 <div>
-  <h2><span id="t1"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> University of Maryland</h2>
+  <h2><span id="t1"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Teaching Interests</h2>
+  <p>As a graduate instructor, I teach a mixture of courses in digital media studies, film studies, and composition. My focus in these classes is often two-fold: first, to help my students encounter a broad range of interesting material in disciplines that they often don’t known exist, let alone that you can make a career out of engaging; and second, to teach my students how to weaponize their curiosity, such that they can learn how to follow hunches, develop sophisticated arguments, and understand the humanities as a function of their own lived experiences. I also run the occasional workshop targeted at my fellow graduate students, on topics such as basic web development, social media, and digital humanities methods.</p>
+</div>
+
+<div>
+  <h2><span id="t2"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> University of Maryland</h2>
   {% for courses-umd in site.data.teaching.courses-umd %}
     <div class="research-title"><h4>{% if courses-umd.url == "" %}{{ courses-umd.title }}{% else %}<a href="{{ courses-umd.url }}">{{ courses-umd.title }}</a>{% endif %}</h4></div>
     <div class="research-meta"><small>{{ courses-umd.date }}, <em>{{ courses-umd.number }}</em>.</small></div>
@@ -24,7 +31,7 @@ title: Teaching
 </div>
 
 <div>
-  <h2><span id="t2"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Smith College</h2>
+  <h2><span id="t3"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Smith College</h2>
   {% for courses-smith in site.data.teaching.courses-smith %}
     <div class="research-title"><h4>{% if courses-smith.url == "" %}{{ courses-umd.smith }}{% else %}<a href="{{ courses-smith.url }}">{{ courses-smith.title }}</a>{% endif %}</h4></div>
     <div class="research-meta"><small>{{ courses-smith.date }}.</small></div>
@@ -33,7 +40,7 @@ title: Teaching
 </div>
 
 <div>
-  <h2><span id="t3"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Workshops</h2>
+  <h2><span id="t4"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Workshops</h2>
   {% for workshops in site.data.teaching.workshops %}
     <div class="research-title"><h4>{% if workshops.url == "" %}{{ workshops.title }}{% else %}<a href="{{ workshops.url }}">{{ workshops.title }}</a>{% endif %}</h4></div>
     <div class="research-meta"><small>{{ workshops.date }}.</small></div>
