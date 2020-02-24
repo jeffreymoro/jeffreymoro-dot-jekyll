@@ -5,3 +5,4 @@ _site
 _dev
 .sass-cache/
 .jekyll-metadata
+.ruby-version
