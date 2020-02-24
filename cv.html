@@ -143,18 +143,26 @@ title: CV
 <!-- 6: Awards -->
 <div class="clear">
 <h2><span id="t6"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Awards + Grants</h2>
-    {% for title in site.data.cv.awards %}
+    {% for title in site.data.cv.fellowships %}
+    {% if forloop.first == true %}
+        <div class="one-fourth column-bottom clear subcat"><em>Fellowships</em></div>
+    {% else %}
         <div class="one-fourth column-bottom clear subcat"></div>
+    {% endif %}
+    <div class="three-fourths column-last column-bottom clear">
+        <b>{{ title.title }}</b><br/>
+        <span class="cv-meta">{{ title.secondary }} • {{ title.date }}.</span>
+    </div>
+    {% endfor %}
+    {% for title in site.data.cv.awards %}
+    {% if forloop.first == true %}
+        <div class="one-fourth column-bottom clear subcat"><em>Awards</em></div>
+    {% else %}
+        <div class="one-fourth column-bottom clear subcat"></div>
+    {% endif %}
         <div class="three-fourths column-last column-bottom clear">
-            {% if title.context !="" %}
-                <b>{{ title.title }}</b>
-                 • <a id="showAward{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a><br/>
-                <span class="cv-meta">{{ title.secondary }} {{ title.date }}</span><br/>
-                <div class="context" id="award{{ forloop.index }}"><p>{{ title.context }}</p></div>
-            {% else %}
-                <b>{{ title.title }}</b><br/>
-                <span class="cv-meta">{{ title.secondary }} {{ title.date }}.</span>
-            {% endif %}
+            <b>{{ title.title }}</b><br/>
+            <span class="cv-meta">{{ title.secondary }} • {{ title.date }}.</span>
         </div>
     {% endfor %}
 </div>
@@ -247,22 +255,20 @@ title: CV
                 {% endfor %}
             </div>-->
         <div class="one-fourth column-bottom clear subcat"></div>
-            <div class="three-fourths column-last column-bottom clear">
-                {% for title in site.data.cv.service %}
-                    <b>{{ title.title }}</b> • <span class="cv-meta">{{ title.institution }}. {{ title.year }}.</span><br/>
-                {% endfor %}
-            </div>
+        <div class="three-fourths column-last column-bottom clear">
+            {% for title in site.data.cv.service %}
+            <b>{{ title.title }}</b> • <span class="cv-meta">{{ title.institution }}. {{ title.year }}.</span><br/>
+            {% endfor %}
+        </div>
 </div>
 
 <!-- 10: Skills -->
 <div class="clear">
 <h2><span id="t10"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Skills</h2>
-
-    {% for title in site.data.cv.skills%}
-            <div class="one-fourth column-bottom clear subcat"></div>
-            <div class="three-fourths column-last column-bottom clear">
-            <b>{{ title.title }}</b> • <span class="cv-meta">{{ title.things }}</span>
-            </div>
-    {% endfor %}
-
+    <div class="one-fourth column-bottom clear subcat"></div>
+    <div class="three-fourths column-last column-bottom clear">
+        {% for title in site.data.cv.skills %}
+        <b>{{ title.title }}</b> • <span class="cv-meta">{{ title.things }}</span>
+        {% endfor %}
+    </div>
 </div>

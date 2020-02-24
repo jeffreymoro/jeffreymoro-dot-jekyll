@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2019-10-26.pdf"
+  link: "cv-2019-02-23.pdf"
 
 ########### Contact ###########
 contact:
@@ -15,7 +15,7 @@ contact:
   keybase: keybase.io/jeffreymoro
 
 ########### Profile ###########
-profile: "I&rsquo;m a doctoral candidate in English at the University of Maryland, College Park, where I work at the crossroads of digital media studies and the environmental humanities. I'm writing a dissertation titled “Atmospheric Media: Computation and the Environmental Imagination,” which explores how we imagine computation in terms of physical and cultural atmospheres. Some of my other research interests include: weather forecasting, speculative fiction, nuclear cultures, digital humanities, cybersecurity, media archaeology, biopolitics, and software emulation."
+profile: "I&rsquo;m a doctoral candidate in English at the University of Maryland, College Park, where I work at the crossroads of digital media studies and the environmental humanities. I&rsquo;m writing a dissertation titled “Atmospheric Media: Computation and the Environmental Imagination,” which explores how we imagine computation in terms of physical and cultural atmospheres. Some of my other research interests include: weather forecasting, speculative fiction, nuclear cultures, digital humanities, cybersecurity, media archaeology, biopolitics, and software emulation."
 
 ########### Education ###########
 education:
@@ -71,8 +71,14 @@ other:
 ########### Talks ###########
 
 conference-talks:
+  - title: "Felling the .amazon: The Colonial Geographies of Top-Level Domains"
+    institution: Society for Cinema and Media Studies
+    location: Denver
+    date: April 2020
+    event: "SCMS 2020"
+    url: ""
   - title: "Air-conditioning the Internet"
-    institution: ASAP
+    institution: Association for the Study of the Arts of the Present
     location: College Park
     date: Oct. 2019
     event: "ASAP/11: Ecologies of the Present"
@@ -145,79 +151,59 @@ conference-other:
     event: "HASTAC 2015: The Art and Science of Digital Humanities"
     url: ""
 
-#other-talks:
-#  - title: "Plastic, Logic, & Time"
-#    institution: Five College Digital Humanities
-#    location: Amherst, MA
-#    date: April 30
-#    year: 2016
-#    type: Lightning talk
-#    event: Five College Digital Humanities Community Showcase
-#    url: "/2016/05/03/showcase-plastic-logic-time/"
-#  - title: "Digital Humanities / Digital Projects"
-#    institution: UMass Amherst
-#    location: Amherst, MA
-#    date: Jan. 2015
-#    year: 2015
-#    type: Talk
-#    event: Applied Humanities Learning Lab
-#    url: ""
-
 ########### Awards ###########
+fellowships:
+  - title: Winnemore Digital Humanities Dissertation Fellowship
+    date: 2020
+    secondary: From the Maryland Institute for Technology in the Humanities
+    latex: ""
+  - title: Flagship Fellowship
+    date: "2016–Present"
+    secondary: From the University of Maryland
+    latex: "University of Maryland"
+
 awards:
   - title: Association for Computers and the Humanities Conference Travel Subvention
     date: "2019"
-    secondary: "For &ldquo;ACH2019.&rdquo;"
-    context: ""
+    secondary: "For &ldquo;ACH2019&rdquo;"
     latex: ""
   - title: Michael S. Mahoney Travel Award
     date: "2018"
-    secondary: "For &ldquo;SIGCIS: Stored in Memory.&rdquo;"
-    context: ""
+    secondary: "For &ldquo;SIGCIS: Stored in Memory&rdquo;"
     latex: "SIGCIS"
   - title: SIGCIS Conference Travel Subvention
     date: "2017"
-    secondary: "For &ldquo;Command Lines: Software, Power, Performance.&rdquo;"
-    context: ""
+    secondary: "For &ldquo;Command Lines: Software, Power, Performance&rdquo;"
     latex: ""
   - title: Jacob K. Goldhaber Travel Award
     date: "2017"
-    secondary: From the University of Maryland.
-    context: ""
+    secondary: From the University of Maryland
     latex: "Graduate School, University of Maryland"
-  - title: Flagship Fellowship
-    date: "2016–Present"
-    secondary: From the University of Maryland.
-    context: "The Flagship Fellowship Program is used to recruit outstanding doctoral students to the University of Maryland Graduate School."
-    latex: "University of Maryland"
   - title: Association for Computers and the Humanities Microgrant
     date: "2014–15"
-    secondary: 'For &ldquo;The_Critical_Is: Mapping New Approaches to Videogame Pedagogy.&rdquo;'
-    context: ""
+    secondary: 'For &ldquo;The_Critical_Is: Mapping New Approaches to Videogame Pedagogy&rdquo;'
     latex: ""
   - title: Five College Digital Humanities Project Grant
     date: "2014–15"
-    secondary: 'For &ldquo;AIRLab (Aerial Innovation and Robotics Laboratory).&rdquo;'
-    context: ""
+    secondary: 'For &ldquo;AIRLab (Aerial Innovation and Robotics Laboratory)&rdquo;'
     latex: ""
 
 ########### Courses and Workshops ###########
 courses-umd:
-  - title: "Film Form and Culture (TA)"
-    date: 2019
-    url: ""
+  - title: "Film Form and Culture"
+    date: 2020
+    url: "/teaching/umd/engl245/"
   - title: "Introduction to Digital Studies"
     date: 2019
-    url: ""
+    url: "/teaching/umd/engl290/"
   - title: "Academic Writing"
     date: 2018, 2019
-    url: ""
+    url: "/teaching/umd/engl101/"
 
 courses-smith:
   - title: "Media Archaeology, Climate Change, and the Digital (Non)humanities"
     date: 2016
     url: "https://ecomedia.jeffreymoro.com"
-  ### 2015 ###
   - title: "E.LIT / NET.ART"
     date: 2015
     url: "https://elit.jeffreymoro.com/course"
