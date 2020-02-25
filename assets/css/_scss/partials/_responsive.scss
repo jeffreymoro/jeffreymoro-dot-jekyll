@@ -59,8 +59,15 @@ img {
 
   //// Sidebar menu adjustment
   .sidebar-nav-item {
-    display: inline;
-    padding-left: 1rem;
-    padding-right: 1rem;
+    display: inline-block;
+    //padding-left: 1rem;
+    //padding-right: 1rem;
+    width: 40%;
+  }
+  .nav-left {
+    text-align: center;
+  }
+  .nav-right {
+    text-align: center;
   }
 }
