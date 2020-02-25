@@ -27,25 +27,18 @@
       <a id="showmailbox"><i class="fa fa-fw fa-envelope-o shareicon"></i></a>
         <div id="mailbox">Write me at jm [at] the domain of this website</div>
         <div id="search">
-          <iframe src="https://duckduckgo.com/search.html?site=jeffreymoro.com&prefill=Search DuckDuckGo" style="overflow:hidden;margin:0;padding:0;width:100%;height:40px;" frameborder="0"></iframe>
+          <form method="get" action="https://duckduckgo.com/" target="_blank">
+            <input type="search" name="q" maxlength="255" placeholder="DuckDuckGo search">
+            <input type="hidden" name="sites" value="jeffreymoro.com">
+            <input type="hidden" name="k7" value="#faf8f8">
+            <input type="hidden" name="kj" value="#b33">
+            <input type="hidden" name="ky" value="#fafafa">
+            <input type="hidden" name="kx" value="b">
+            <input type="hidden" name="ko" value="-1">
+            <input type="hidden" name="k1" value="-1">
+            <input type="submit" value="DuckDuckGo Search" style="">
+          </form>
         </div>
-
-
-
-          <!--<a id="searchsite">
-            <form method="get" action="https://duckduckgo.com/" target="_blank">
-              <input type="search" name="q" maxlength="255" placeholder="DuckDuckGo search">
-              <input type="hidden" name="sites" value="jeffreymoro.com">
-              <input type="hidden" name="k7" value="#faf8f8">
-              <input type="hidden" name="kj" value="#b33">
-              <input type="hidden" name="ky" value="#fafafa">
-              <input type="hidden" name="kx" value="b">
-              <input type="hidden" name="ko" value="-1">
-              <input type="hidden" name="k1" value="-1">
-              <input type="submit" value="DuckDuckGo Search" style="display: none;">
-            </form>
-          </a>-->
-
     </div>
     <div class="credit">
       <p>&copy; {{ site.time | date: '%Y' }} / I built this with <a href="http://jekyllrb.com" target="_blank">Jekyll</a> & <a href="http://hyde.getpoole.com" target="_blank">Hyde</a>.</p>
