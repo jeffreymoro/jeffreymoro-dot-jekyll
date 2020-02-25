@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Quitting Social Media"
+title: We Should Probably Leave Social Media?
 redirect_from: "/2018/03/22/on-quitting/"
 tags:
 - internet

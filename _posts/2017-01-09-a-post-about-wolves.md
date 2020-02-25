@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the Desire to Surround Oneself with Wolves
+title: A Post About Wolves
 redirect_from: "/2017/01/09/on-the-desire-to-surround-oneself-with-wolves/"
 tags:
 - politics

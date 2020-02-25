@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On “the Real World”
+title: Some Quibbles I Have with the Rhetorical Formation “the Real World”
 topic: <a href="http://www.chronicle.com/article/Missouri-Lawmaker-Who-Wants-to/238886/">“Missouri Lawmaker Who Wants to Eliminate Tenure Says It’s ‘Un-American’”</a>
 redirect_from: "/2017/01/12/on-the-fake-real-world/"
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Having Been Qualified, with Notes on Expansive Mediation"
+title: "On Having Been Qualified"
 redirect_from: "/2018/09/13/on-having-been-qualified/"
 tags:
 - academia

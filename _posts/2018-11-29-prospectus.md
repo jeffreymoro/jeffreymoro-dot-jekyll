@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On Mapmaking"
+title: "On Mapmaking: My Dissertation Prospectus"
 tags:
 - academia
 - dissertation

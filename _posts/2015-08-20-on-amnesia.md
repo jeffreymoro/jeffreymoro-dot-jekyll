@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Amnesia
+title: Technological Amnesia and Digital Ghosts
 redirect_from: "/2015/08/20/on-amnesia/"
 tags:
 - media archaeology
