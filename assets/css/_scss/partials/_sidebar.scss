@@ -14,15 +14,22 @@
 
 // Sharesheet
 .sharesheet {
-	padding-bottom: 1rem;
 	font-size: 80%;
 }
 .shareicon {
 	padding-right: 0.85rem;
 	font-size: 1.6rem !important; // 1.4 rem for six icons
 }
+#search {
+	display: none;
+}
+#search input {
+	width: 100%;
+	margin-top: 1rem;
+}
 
 // Credit
 .credit {
 	font-size: 0.9rem;
+	padding-top: 1rem;
 }
