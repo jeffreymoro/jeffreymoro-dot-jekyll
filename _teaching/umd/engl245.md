@@ -28,7 +28,7 @@ number: ENGL245
 </ul>
 </div>
 
-*Updated 22 Jan 2020. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the .pdf version above.*
+*Updated 27 Feb 2020. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the .pdf version above.*
 
 ## Description
 
