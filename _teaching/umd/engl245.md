@@ -24,7 +24,7 @@ number: ENGL245
     <!--<li>
         <a href="#acknowledgements">PAST ITERATIONS</a></li>-->
     <li id="pdftab">
-        <a href="/assets/files/ENGL245-syllabus.pdf">PDF [WITH POLICIES]</a></li>
+        <a href="/assets/files/ENGL245-syllabus-revised.pdf">PDF [WITH POLICIES]</a></li>
 </ul>
 </div>
 
@@ -197,11 +197,13 @@ Our "final exam," such as it is, takes the form of three short essays of c. 750 
   - Sean Cubitt, "Time" from *The Practice of Light*
 - *Due*: Midterm essay due on Thu 26 March.
 
-### Week 10, March 31st / April 2nd: Narrative I — Building
+### Week 10, March 31st: Narrative I — Building
 
 - *Love and Anarchy* (Lina Wertmüller, 1973)    
 - *Read*:
   - Bordwell/Thompson, chapter 3, "Narrative Form"
+
+<small>NB: Class is cancelled on April 2nd as Jeffrey is at a conference.</small>
 
 ### Week 11, April 7/9th: Narrative II — Breaking
 
