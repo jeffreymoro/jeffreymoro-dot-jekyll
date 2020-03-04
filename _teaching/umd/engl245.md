@@ -28,7 +28,7 @@ number: ENGL245
 </ul>
 </div>
 
-*Updated 27 Feb 2020. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the .pdf version above.*
+*Updated 4 March 2020. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the .pdf version above.*
 
 ## Description
 
@@ -89,7 +89,7 @@ Here's the breakdown for the class:
 
 - Participation (25%)
 - Miniature essay (0%) (no, that's not a typo!) [due 20 Feb]
-- Short essay #1 / shot chart assignment (15%) [due 5 March]
+- Short essay #1 / shot chart assignment (15%) [due 5 March (grace period extended to 10 March)]
 - Midterm essay (20%) [due 26 March]
 - Short essay #2 / editing project (15%) [due 30 April]
 - Final essays (25%) [due 18 May]
@@ -177,7 +177,7 @@ Our "final exam," such as it is, takes the form of three short essays of c. 750 
 - *Read*:
   - Laura Mulvey, "Visual Pleasure and Narrative Cinema"
   - Bordwell/Thompson, chapter 4, "The Shot: Mise-en-Scene"
-- *Due*: Short essay #1 (shot chart) due on Thu 5 March. 
+- *Due*: Short essay #1 (shot chart) due on Thu 5 March. (Submission grace period extended to Tue 10 March.)
 
 ### Week 7, March 10/12th: Composition
 
