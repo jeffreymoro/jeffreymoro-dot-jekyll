@@ -10,6 +10,8 @@ number: ENGL245
 <div class="tabsWrapper clear" id="t0">
 <ul class="tabs">
     <li>
+        <a href="#pandemic">PANDEMIC CONTINGENCY MODE</a></li>
+    <li>
         <a href="#description">DESCRIPTION</a></li>
     <li>
         <a href="#aims">AIMS</a></li>
@@ -28,7 +30,113 @@ number: ENGL245
 </ul>
 </div>
 
-*Updated 4 March 2020. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the .pdf version above.*
+*Updated 10 March 2020. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the .pdf version above.*
+
+## Pandemic Contingency Mode
+
+Hi! If you're reading this, we've entered *pandemic contingency mode*. Exciting!
+
+Here are the major modifications to the class given our new reality:
+
+- We now have a two-week spring break, during which there are no classes. We're going to cut *Love and Anarchy* as a result. 
+- After we come back from the break, we will have two weeks of online classes. These will consist of:
+  - Synchronous meetings on Tuesday, during which I will livestream a lecture and you can respond in a chat program, and
+  - Open chat time on Thursday, during which I will camp out in the chat and answer questions and facilitate conversations. 
+
+I will be in touch during spring break about the platforms we will use for these online sessions.
+
+While I hope that we will be back to our regularly scheduled meetings after the two week period, we nevertheless should go forward with the assumption that we will be online for the rest of the semester. 
+
+Remember: no one will be penalized for not having access to course resources online in the event of a pandemic. If you don't have stable internet, housing, food, and otherwise what you need to be able to succeed in the college classroom, please come talk to me.
+
+### Pandemic Assignments
+
+The grade breakdown is now:
+
+- pre-pandemic participation, 15%
+- post-pandemic participation, 10%
+- shot chart, 15%
+- midterm essay, 20% [due April 2nd]
+- editing assignment OR short responses, 15% [due by April 30]
+- final exam, 25% [due 18 May]
+
+I will email out your pre-pandemic participation grade along with grades and comments on your shot chart assignment over the break. I have eliminated the quizzes from the syllabus. I will only use the quizzes as positive evidence of your pre-pandemic participation, which is to say that if you didn't do so hot they won't count against you, but if you did well then they will only improve your participation grade. 
+
+Your post-pandemic participation is straightforward: did you make a clear effort to log in and follow along with the lectures? Did you engage your fellow classmates in the chat as much as engage me? If so, you're golden. 
+
+The midterm essay remains the same. Please feel free to write me over the break if you want to brainstorm topics or have me read work in progress. I am also happy to set up individual virtual meetings. 
+
+I will send out more information about the editing assignment or short responses assignment when we return to instruction at the end of March. Essentially you will have the option either to 1) do the editing assignment as originally devised, or 2) write three short (1-1.5 pp.) papers throughout the back half of the semester. These short papers will be posted as regular discussion threads on ELMS. (Yes, they're basically blog posts! My apologies, but it's what we all voted for before the break.)
+
+The final exam will be the same, but scaled back a bit. Think two short essays instead of three. 
+
+### Pandemic Schedule
+
+#### Weeks 8 and 9 (March 16th through 27th)
+
+Extended Spring Break. No class meetings. 
+
+#### Week 10, March 31st / April 2nd :: Time
+
+- *Stalker* (Andrei Tarkovsky, 1979)
+- *Read*:
+  - W.J.T. Mitchell and Mark B.N. Hansen, "Time and Space"
+  - Sean Cubitt, "Time" from *The Practice of Light*
+- *Due*: Midterm essay due on Thu 2 April.
+
+#### Week 11, April 7/9th: Narrative
+
+- *Daughters of the Dust* (Julie Dash, 1991)
+- *Read*:
+  - Marisa Parham, [".break .dance"](http://smallaxe.net/sxarchipelagos/issue03/parham/parham.html)
+
+#### Week 12, April 14/16: Animation
+
+- *Nausicaa of the Valley of the Wind* (Hayao Miyazaki, 1984)
+- *Read*:
+  - excerpts from Thomas Lamarre, *The Anime Machine*
+  - Alexander Galloway, "Origins of the First-Person Shooter"
+
+#### Week 13, April 21/23rd: Sound
+
+- *Nashville* (Robert Altman, 1975)
+- *Read*:
+  - Roland Barthes, "The Grain of the Voice"
+  - Bordwell/Thompson, chapter 7, "Sound in the Cinema"
+- *Due*: Editing assignment due on Thu 30 April. Alternatively, make sure you have responded to all three short answer threads by this date. 
+
+#### Week 14, April 28/30th: Documentary
+
+- *Paris is Burning* (Jennie Livingston, 1990)
+- *Black Panthers* (Agnès Varda, 1968) [in-class viewing]
+- *Read*:
+  - Bill Nichols, "Documentary Modes of Representation"
+  - Bordwell/Thompson, chapter 10, first twenty pages on documentary
+
+#### Week 15, May 5/7th: Post-cinema I — The New Seriality
+
+- excerpts from *Twin Peaks* (David Lynch and Mark Frost, 1990–2017)
+  - S01E01, "Pilot"
+  - S01E03, "Zen, or the Skill to Catch a Killer"
+  - S02E07, "Lonely Souls"
+  - S02E22, "Beyond Life and Death" (optional, but I recommend watching the last ten minutes to help contextualize season 3.)
+  - S03E01, "Part 1" & S03E02, "Part 2" (aired as one continuous episode)
+- *Read*:
+  - Kirsty Fairclough, Michael N. Goddard, and Anthony N. Smith, ["'I’ll See You in 25 Years': The Return of Twin Peaks and Television Aesthetics"](http://sensesofcinema.com/2016/twin-peaks/return-of-twin-peaks/). (I recommend skimming the essays in this *Sense of Cinema* [special feature](http://sensesofcinema.com/category/twin-peaks/).)
+
+<small>*NB*: I recommend viewing *Twin Peaks* throughout the semester, since it's a substantial undertaking even in this highly abbreviated version. I'll distribute recommendations for timing screenings in the first few weeks of class.</small>
+
+#### Week 16, May 12th: Post-cinema II — Fragmentation
+
+- *Mad Max: Fury Road* (George Miller, 2015)
+- *Read*:
+  - Tom Gunning, "The Cinema of Attractions"
+  - Matt Zoller Seitz, ["Disney Is Quietly Placing Classic Fox Movies Into Its Vault, and That’s Worrying"](https://www.vulture.com/2019/10/disney-is-quietly-placing-classic-fox-movies-into-its-vault.html)
+- *Due*: Final essays due Monday 18 May. 
+
+***
+
+*This is the original version of the syllabus, pre-pandemic.*
 
 ## Description
 
