@@ -30,20 +30,24 @@ number: ENGL245
 </ul>
 </div>
 
-*Updated 10 March 2020. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the .pdf version above.*
 
-## Pandemic Contingency Mode
 
-Hi! If you're reading this, we've entered *pandemic contingency mode*. Exciting!
+
+*Updated 17 March 2020. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the .pdf version above.*
+
+## (Revised) Pandemic Contingency Mode
+
+Hi! If you're reading this, we've entered *pandemic contingency mode*. Exciting! I have revised these edits since before spring break, so please familiarize yourself with the changes below. 
 
 Here are the major modifications to the class given our new reality:
 
-- We now have a two-week spring break, during which there are no classes. We're going to cut *Love and Anarchy* as a result. 
-- After we come back from the break, we will have two weeks of online classes. These will consist of:
-  - Synchronous meetings on Tuesday, during which I will livestream a lecture and you can respond in a chat program, and
-  - Open chat time on Thursday, during which I will camp out in the chat and answer questions and facilitate conversations. 
-
-I will be in touch during spring break about the platforms we will use for these online sessions.
+- We now have a two-week spring break, during which there are no classes. We're going to cut *Love and Anarchy* as a result.
+- After we come back from the break, we will have two weeks of online classes. These will be entirely asynchronous: there are no shared meetings that you have to join in on. This will allow folks who aren't in the East Coast's time zone to participate. 
+- Our class's platform of choice will be **Slack**. It's essentially a glorified chat program. I will circulate links to join our Slack workspace over spring break. 
+- Each Monday, I will post short (think five to seven minutes) videos corresponding to mini-lectures I would have given. These videos are intended to give you an entry point into major concepts, context on the films we're watching, and so forth. I will upload these to a Google Drive folder linked on our ELMS page. 
+- I will then post some discussion-starter questions in Slack. You can dip in and out and respond to these questions and to each other throughout the week. I'm not keeping a hard track of who responds when, and I don't intend for these to be "discussion post" questions or anything. Slack conversation can—and probably *should*—be casual. Emojis and gifs are extremely appreciated. 
+- I will commit to being present on the Slack channel during the times we would have met IRL: T/Th from 2 PM to 3:30 PM. Otherwise, I'll dip in and out. I'll probably take a glance at least once a day, but I won't be lurking all the time. 
+- We'll now use ELMS's assignment submission and grading features more heavily. You can still email me your assignments, but are also now welcome to upload them to ELMS instead. 
 
 While I hope that we will be back to our regularly scheduled meetings after the two week period, we nevertheless should go forward with the assumption that we will be online for the rest of the semester. 
 
