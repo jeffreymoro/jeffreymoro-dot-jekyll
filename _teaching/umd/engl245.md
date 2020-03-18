@@ -42,7 +42,7 @@ Hi! If you're reading this, we've entered *pandemic contingency mode*. Exciting!
 Here are the major modifications to the class given our new reality:
 
 - We now have a two-week spring break, during which there are no classes. We're going to cut *Love and Anarchy* as a result.
-- After we come back from the break, we will have two weeks of online classes. These will be entirely asynchronous: there are no shared meetings that you have to join in on. This will allow folks who aren't in the East Coast's time zone to participate. 
+- After we come back from the break, we will have at least two weeks of online classes. These will be entirely asynchronous: there are no shared meetings that you have to join in on. This will allow folks who aren't in the East Coast's time zone to participate. 
 - Our class's platform of choice will be **Slack**. It's essentially a glorified chat program. I will circulate links to join our Slack workspace over spring break. 
 - Each Monday, I will post short (think five to seven minutes) videos corresponding to mini-lectures I would have given. These videos are intended to give you an entry point into major concepts, context on the films we're watching, and so forth. I will upload these to a Google Drive folder linked on our ELMS page. 
 - I will then post some discussion-starter questions in Slack. You can dip in and out and respond to these questions and to each other throughout the week. I'm not keeping a hard track of who responds when, and I don't intend for these to be "discussion post" questions or anything. Slack conversation can—and probably *should*—be casual. Emojis and gifs are extremely appreciated. 
