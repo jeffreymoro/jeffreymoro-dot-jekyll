@@ -11,6 +11,8 @@ And so in the spirit of "well, I wrote it, and I might as well use it for someth
 
 (I do not know yet if I got the fellowship. I should know in late March? And if I don't get it, we can safely assume that this abstract is violently bad, and that it is all my fault for not managing to secure scraps within a forced environment of competitive precarity. Shame on me, etc.)
 
+*Update*: I did not receive the fellowship. Fun news to get in the middle of a pandemic. I'm still proud of the work I put into it. May we work together to build a world where the most vulnerable among us are not turned against each other to compete for basic dignity!
+
 ***
 
 ## Abstract
