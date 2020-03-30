@@ -30,10 +30,7 @@ number: ENGL245
 </ul>
 </div>
 
-
-
-
-*Updated 17 March 2020. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the .pdf version above.*
+*Updated 30 March 2020. This online syllabus is always the most up-to-date version for readings and class activities. For in-depth policies and assignment descriptions, please consult the .pdf version above.*
 
 ## (Revised) Pandemic Contingency Mode
 
@@ -41,38 +38,31 @@ Hi! If you're reading this, we've entered *pandemic contingency mode*. Exciting!
 
 Here are the major modifications to the class given our new reality:
 
-- We now have a two-week spring break, during which there are no classes. We're going to cut *Love and Anarchy* as a result.
-- After we come back from the break, we will have at least two weeks of online classes. These will be entirely asynchronous: there are no shared meetings that you have to join in on. This will allow folks who aren't in the East Coast's time zone to participate. 
-- Our class's platform of choice will be **Slack**. It's essentially a glorified chat program. I will circulate links to join our Slack workspace over spring break. 
-- Each Monday, I will post short (think five to seven minutes) videos corresponding to mini-lectures I would have given. These videos are intended to give you an entry point into major concepts, context on the films we're watching, and so forth. I will upload these to a Google Drive folder linked on our ELMS page. 
-- I will then post some discussion-starter questions in Slack. You can dip in and out and respond to these questions and to each other throughout the week. I'm not keeping a hard track of who responds when, and I don't intend for these to be "discussion post" questions or anything. Slack conversation can—and probably *should*—be casual. Emojis and gifs are extremely appreciated. 
-- I will commit to being present on the Slack channel during the times we would have met IRL: T/Th from 2 PM to 3:30 PM. Otherwise, I'll dip in and out. I'll probably take a glance at least once a day, but I won't be lurking all the time. 
-- We'll now use ELMS's assignment submission and grading features more heavily. You can still email me your assignments, but are also now welcome to upload them to ELMS instead. 
-
-While I hope that we will be back to our regularly scheduled meetings after the two week period, we nevertheless should go forward with the assumption that we will be online for the rest of the semester. 
+- We now have a two-week spring break. We're going to cut *Love and Anarchy* as a result.
+- After that break, we will conduct class online for the rest of the term. This will be entirely asynchronous: there are no shared meetings you have to join. Our class's platform of choice will be **Slack**. It's essentially a glorified chat program. Throughout the week, you can drop in and out for conversation at your leisure. That replaces our in-person meetings. 
+- Each Monday, I will post a short video or two as a mini-lecture. These videos will give you entry points to major concepts, context on the films, and so forth. I will upload these to a Google Drive folder linked on ELMS and also put the links directly in Slack. 
+- I will post discussion-starter questions in Slack. You can dip in and out and respond to them and to each other throughout the week. I'm not keeping a hard track of who responds when and I don't intend for these to be formal discussion posts. Slack conversation can and perhaps *should* be casual. Think plentiful emoji. 
+- I will commit to being present on Slack during the times we would have met IRL: T/Th from 2 PM to 3:30 PM. Otherwise, I'll dip in and out. I'll take a glance at least once a day but won't be lurking. 
+- This class is **pass/fail** unless you request a grade. Starting immediately I will no longer give grades for assignments. I will still give ample comments, to the extent that I am able. There are no longer late penalties, though I ask that you do your best to turn in assignments at the normal due dates, just to make it easier on all of us. The way UMD does pass/fail is that I still provide a letter grade, which is converted on your transcript to a "pass" if it exceeds a certain threshold. You can safely assume that if you 1) make a good faith effort on the assignments; 2) participate in the Slack to the best of you ability; and 3) stay in touch with me if you need to dip in and out or if things get hard, then that letter grade hiding behind your "pass" will be an A. 
+- Finally, we'll use ELMS's assignment submission features more heavily. You can still email me your work, but I'll give you feedback through ELMS. 
 
 Remember: no one will be penalized for not having access to course resources online in the event of a pandemic. If you don't have stable internet, housing, food, and otherwise what you need to be able to succeed in the college classroom, please come talk to me.
 
 ### Pandemic Assignments
 
-The grade breakdown is now:
+As this course is now **pass/fail**, as detailed above, the calculus for assignments has changed somewhat. 
 
-- pre-pandemic participation, 15%
-- post-pandemic participation, 10%
-- shot chart, 15%
-- midterm essay, 20% [due April 2nd]
-- editing assignment OR short responses, 15% [due by April 30]
-- final exam, 25% [due 18 May]
+The way UMD does pass/fail is that I still provide a letter grade, which is converted on your transcript to a "pass" if it exceeds a certain threshold. You can safely assume that if you 1) make a good faith effort on the assignments; 2) participate in the Slack to the best of you ability; and 3) stay in touch with me if you need to dip in and out or if things get hard, then that letter grade hiding behind your "pass" will be an A. 
 
-I will email out your pre-pandemic participation grade along with grades and comments on your shot chart assignment over the break. I have eliminated the quizzes from the syllabus. I will only use the quizzes as positive evidence of your pre-pandemic participation, which is to say that if you didn't do so hot they won't count against you, but if you did well then they will only improve your participation grade. 
+UMD has also extended the date to withdraw from classes to May 12th, the last day of class. If I feel that your performance in the class doesn't merit a "pass," I will encourage you well in advance of the deadline to consider withdrawing. If you are a senior who needs this course to graduate, obviously come talk to me and we'll be sure to work something out. 
 
-Your post-pandemic participation is straightforward: did you make a clear effort to log in and follow along with the lectures? Did you engage your fellow classmates in the chat as much as engage me? If so, you're golden. 
+As for the remaining assignments—
 
 The midterm essay remains the same. Please feel free to write me over the break if you want to brainstorm topics or have me read work in progress. I am also happy to set up individual virtual meetings. 
 
 I will send out more information about the editing assignment or short responses assignment when we return to instruction at the end of March. Essentially you will have the option either to 1) do the editing assignment as originally devised, or 2) write three short (1-1.5 pp.) papers throughout the back half of the semester. These short papers will be posted as regular discussion threads on ELMS. (Yes, they're basically blog posts! My apologies, but it's what we all voted for before the break.)
 
-The final exam will be the same, but scaled back a bit. Think two short essays instead of three. 
+The final exam will be the same, but scaled back a bit. Think two short essays instead of three. Or perhaps just a short response to the class more generally. We'll think about this together. 
 
 ### Pandemic Schedule
 
