@@ -8,7 +8,7 @@ tags:
 
 While I promise (or apologize) that this is a post about academia, let me begin by saying that I am a long-time Pokémon fanatic. I've been playing the games since they first came out way back in the 1990s, and have kept up with the series through its twists and turns since. Something that Pokémon players have taken notice of since the early 2010's or so is how new Pokémon are substantially stronger than ones from the past. Whether new types, new gimmicks, or just flat out higher stats, these new ones tend to kick the old ones' asses. Moreover, the strategies that the games highlight have become ever more extreme—more powerful evolutions, high-damaging moves, and so forth. This is a perfect example of the concept of "power creep," helpfully defined by our friends [at TV Tropes Dot Org as](https://tvtropes.org/pmwiki/pmwiki.php/Main/PowerCreep):
 
-> A term used in any kind of multi-player game (including Video Games, Collectible Card Game, and Tabletop Games) to describe the process in which newly-added-content can be played along with the old-content, but with the new content being far more powerful/useful in every sense."
+> A term used in any kind of multi-player game (including Video Games, Collectible Card Game, and Tabletop Games) to describe the process in which newly-added-content can be played along with the old-content, but with the new content being far more powerful/useful in every sense.
 
 It is the contention of this post that academia currently suffers from an extreme case of power creep, one which, when coupled with trends toward labor precarity and institutional underfunding, and exacerbated by the pandemic, make the enterprise fundamentally unsustainable except for the rare few who already hold power. 
 
