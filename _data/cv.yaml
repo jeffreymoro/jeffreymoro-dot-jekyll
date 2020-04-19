@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2020-02-23.pdf"
+  link: "cv-2020-04-19.pdf"
 
 ########### Contact ###########
 contact:
@@ -122,6 +122,13 @@ conference-talks:
     url: ""
 
 conference-other:
+  - title: "Reflections on the Post-Post-Baccalaureate"
+    institution: Five College Blended Learning and Digital Humanities
+    location: (virtual)
+    date: April 2020
+    type: Roundtable
+    event: "5CollBLDH End-of-Year Celebration"
+    url: ""
   - title: "Environmental Justice and the Digital Humanities"
     institution: Association for Computers and the Humanities
     location: Pittsburgh
@@ -156,6 +163,10 @@ fellowships:
   - title: Winnemore Digital Humanities Dissertation Fellowship
     date: 2020
     secondary: From the Maryland Institute for Technology in the Humanities
+    latex: ""
+  - title: Departmental Summer Fellowship
+    date: 2020
+    secondary: From the UMD English Department
     latex: ""
   - title: Flagship Fellowship
     date: "2016–Present"
@@ -219,25 +230,10 @@ workshop:
     location: Amherst College
     date: "2015"
     url: "http://thenewrigor.5colldh.org"
-  - title: Five College Digital Humanities Undergraduate Fellowship Workshop
-    organizer: ""
-    location: Amherst College
-    date: 2015
-    url: ""
-  - title: "Five College Digital Humanities Kickoff Celebration & Workshops"
-    organizer: by Five College Digital Humanities
-    location: Amherst College
-    date: 2014
-    url: ""
-  - title: Five College Digital Humanities Speaker Series
+  - title: "Five College Digital Humanities Speaker Series and Student Symposia"
     organizer: Organized by Five College Digital Humanities
-    location: "Amherst College"
+    location: Amherst College
     date: 2014–16
-    url: ""
-  - title: Five College Digital Humanities Student Symposia
-    organizer: Organized by Five College Digital Humanities
-    location: "Smith & Amherst Colleges"
-    date: "2014–16"
     url: ""
 
 ########### Digital ###########
