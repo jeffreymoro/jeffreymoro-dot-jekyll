@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Against Rigor"
+redirect_from: "/blog/2020-04-30-cop-shit-pandemic/"
 tags:
 - higher ed
 - pandemic
@@ -8,7 +9,7 @@ tags:
 
 When I wrote ["Against Cop Shit"](/blog/2020-02-13-against-cop-shit/) back in February, I did so because I was angry about how many educators prefer to assume adversarial relationships to their students rather than to treat them as equal participants in the project of classroom education. Little did I know that the occasion of a global pandemic would give cover to whole new genera of cop shit, and today I saw a post on Twitter that sufficiently broke me such that I felt compelled to Blog Through It:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">hey <a href="https://twitter.com/UofMaryland?ref_src=twsrc%5Etfw">@UofMaryland</a>, as a grad instructor who is probably being paid an order of magnitude less than this prof but still manages to treat my students with empathy and respect, get your fucking house in order <a href="https://t.co/xgJGFYx9Bq">https://t.co/xgJGFYx9Bq</a></p>&mdash; Jeffrey Moro (@jeffreymoro) <a href="https://twitter.com/jeffreymoro/status/1255885889047277568?ref_src=twsrc%5Etfw">April 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/UofMaryland?ref_src=twsrc%5Etfw">@UofMaryland</a> I simply asked my prof for a few days extension on a project because MY DAD died as a result of covid19 and THIS is the response I get. DO. BETTER. 👏🏼👏🏼👏🏼 <a href="https://t.co/OTDKY9mepj">pic.twitter.com/OTDKY9mepj</a></p>&mdash; Saige (@saigedara) <a href="https://twitter.com/saigedara/status/1255475854530011138?ref_src=twsrc%5Etfw">April 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 (On the off-chance that the student who tweeted the post that I'm quoting above deletes it, here's the basic gist: an instructor at my university is demanding that students still hold to extant deadlines and workloads—even increasing those workloads—during a pandemic, rather than practicing compassion and cutting them some slack.)
 
