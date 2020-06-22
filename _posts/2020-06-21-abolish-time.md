@@ -9,7 +9,7 @@ tags:
 
 ## stop the clocks
 
-It is long past time to abolish time. I have felt this strongly for a few years now and the pandemic's askew, endless, perilous temporality has only convinced me further of this. And so, on a Sunday evening, a time once characterized by a far better writer than I as ["the long dark tea-time of the soul"](https://en.wikipedia.org/wiki/The_Long_Dark_Tea-Time_of_the_Soul), I have decided finally to make good on my repeated threats to write preliminary notes fora  manifesto for the abolition of time. 
+It is long past time to abolish time. I have felt this strongly for a few years now and the pandemic's askew, endless, perilous temporality has only convinced me further of this. And so, on a Sunday evening, a time once characterized by a far better writer than I as ["the long dark tea-time of the soul"](https://en.wikipedia.org/wiki/The_Long_Dark_Tea-Time_of_the_Soul), I have decided finally to make good on my repeated threats to write preliminary notes for a  manifesto for the abolition of time. 
 
 ## time is pure commodity
 
