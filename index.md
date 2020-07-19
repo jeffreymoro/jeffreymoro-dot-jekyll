@@ -5,7 +5,7 @@ title: Home
 
 # Hi, I'm Jeffrey Moro.
 
-<img src="/assets/img/selfie-website.jpg" class="selfie"/>
+<img src="/assets/img/selfie-website-summer.jpg" class="selfie"/>
 
 I'm a PhD candidate in English with a certificate in Digital Studies at the [University of Maryland, College Park](http://english.umd.edu). My [research](/research) is at the crossroads of digital media studies and the environmental humanities. I'm writing a dissertation titled "Atmospheric Media: Computation and the Environmental Imagination," which explores how we imagine computation in terms of physical and cultural atmospheres. Some of my other research interests include: weather forecasting, speculative fiction, nuclear cultures, digital humanities, cybersecurity, media archaeology, biopolitics, and software emulation. My writing has appeared in [*Amodern*](https://amodern.net/author/jmoro/) and the [*Los Angeles Review of Books*](https://lareviewofbooks.org/contributor/jeffrey-moro). 
 
