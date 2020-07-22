@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2020-04-19.pdf"
+  link: "cv-2020-07-22.pdf"
 
 ########### Contact ###########
 contact:
@@ -277,6 +277,11 @@ minor-projects:
     context: "Researched and advised on the development of Scalar and Omeka platforms for a material cultures and mapping project. Led focus group on undergraduate digital humanities research and pedagogy."
 
 ########### Membership and Service ###########
+membership:
+  - title: "Co-founder"
+    institution: "Immersive Reality Lab for the Humanities"
+  - title: "Member"
+    institution: "ARHU Environmental Humanities Work Group"
 service:
   - title: "President"
     institution: "UMD Graduate English Organization"
@@ -287,6 +292,9 @@ service:
   - title: "PhD Recruitment Committee"
     institution: "UMD English Department"
     year: "2017–present"
+orgs:
+  - title: "Modern Language Association"
+  - title: "Society for Cinema and Media Studies"
 
 ########### Skills ###########
 skills:

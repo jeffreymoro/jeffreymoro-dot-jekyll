@@ -247,20 +247,26 @@ title: CV
 
 <!-- 9: Membership + Service -->
 <div class="clear">
-<h2><span id="t9"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Service</h2>
-        <!--<div class="one-fourth column-bottom clear subcat">Membership</div>
+    <h2><span id="t9"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Membership + Service</h2>
+            <div class="one-fourth column-bottom clear subcat">Membership</div>
             <div class="three-fourths column-last column-bottom clear">
                 {% for title in site.data.cv.membership%}
-                    <span class="cv-meta">{{ title.title }}<br/></span>
+                <b>{{ title.title }}</b> • <span class="cv-meta">{{ title.institution }}.</span><br/>
                 {% endfor %}
-            </div>-->
-        <div class="one-fourth column-bottom clear subcat"></div>
-        <div class="three-fourths column-last column-bottom clear">
-            {% for title in site.data.cv.service %}
-            <b>{{ title.title }}</b> • <span class="cv-meta">{{ title.institution }}. {{ title.year }}.</span><br/>
-            {% endfor %}
-        </div>
-</div>
+            </div>
+            <div class="one-fourth column-bottom clear subcat">Service</div>
+            <div class="three-fourths column-last column-bottom clear">
+                {% for title in site.data.cv.service %}
+                <b>{{ title.title }}</b> • <span class="cv-meta">{{ title.institution }}. {{ title.year }}.</span><br/>
+                {% endfor %}
+            </div>
+            <div class="one-fourth column-bottom clear subcat">Scholarly Organizations</div>
+            <div class="three-fourths column-last column-bottom clear">
+                {% for title in site.data.cv.orgs%}
+                <span class="cv-meta">{{ title.title }}<br/></span>
+                {% endfor %}
+            </div>
+    </div>
 
 <!-- 10: Skills -->
 <div class="clear">
