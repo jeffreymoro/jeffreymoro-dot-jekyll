@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2020-07-22.pdf"
+  link: "cv-2020-07-23.pdf"
 
 ########### Contact ###########
 contact:
@@ -71,6 +71,12 @@ other:
 ########### Talks ###########
 
 conference-talks:
+  - title: "Time is a Difference of Pressure: Breath-Critical Approaches to Environmental Media Studies"
+    institution: Modern Language Association
+    location: Toronto
+    date: January 2021 (forthcoming)
+    event: "MLA 2021"
+    url: ""
   - title: "Felling the .amazon: The Colonial Geographies of Top-Level Domains"
     institution: Society for Cinema and Media Studies
     location: Denver
