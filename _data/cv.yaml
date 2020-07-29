@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2020-07-28.pdf"
+  link: "cv-2020-07-29.pdf"
 
 ########### Contact ###########
 contact:
@@ -50,16 +50,18 @@ monographs:
 edited:
 
 journals:
-  - title: "Air-conditioning the Internet: Data Center Securitization as Atmospheric Media"
-    journal: Media Fields
-    number: "no. 16: Life Cycles"
-    date: "2020 (forthcoming)"
-    url: ""
   - title: "Grid Techniques for a Planet in Crisis: The Infrastructures of Weather Prediction"
     journal: Amodern
     number: "vol. 9: Techniques and Technologies"
     date: "April 2020"
     url: "https://amodern.net/article/grid-techniques/"
+
+reviews:
+  - title: "Air-conditioning the Internet: Data Center Securitization as Atmospheric Media"
+    journal: Media Fields
+    number: "no. 16: Life Cycles"
+    date: "2020 (forthcoming)"
+    url: ""
 
 web:
   - title: "Dance Apocalyptic: Tim Maughan's *Infinite Detail* and Media after the Internet"

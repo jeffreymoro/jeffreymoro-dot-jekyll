@@ -70,7 +70,23 @@ title: CV
 
 {% for title in site.data.cv.journals %}
     {% if forloop.first == true %}
-        <div class="one-fourth column-bottom clear subcat"><em>Journal Articles</em></div>
+        <div class="one-fourth column-bottom clear subcat"><em>Peer-Reviewed Articles</em></div>
+    {% else %}
+        <div class="one-fourth column-bottom clear subcat"></div>
+    {% endif %}
+        <div class="three-fourths column-last column-bottom clear">
+            {% if title.url !="" %}
+                <a href="{{ title.url }}" target="_blank"><b>&ldquo;{{ title.title }}&rdquo;</b><br/></a>
+            {% else %}
+                <b>&ldquo;{{ title.title }}&rdquo;</b><br/>
+            {% endif %}
+            <span class="cv-meta">{{ title.date }} • <i>{{ title.journal }}</i>, {{ title.number }}</span>
+        </div>
+{% endfor %}
+
+{% for title in site.data.cv.reviews %}
+    {% if forloop.first == true %}
+        <div class="one-fourth column-bottom clear subcat"><em>Short Articles and Reviews</em></div>
     {% else %}
         <div class="one-fourth column-bottom clear subcat"></div>
     {% endif %}
