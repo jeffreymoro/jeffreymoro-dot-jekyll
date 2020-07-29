@@ -1,7 +1,7 @@
 ---
 ########### Meta ###########
 meta:
-  link: "cv-2020-07-23.pdf"
+  link: "cv-2020-07-28.pdf"
 
 ########### Contact ###########
 contact:
@@ -50,10 +50,15 @@ monographs:
 edited:
 
 journals:
+  - title: "Air-conditioning the Internet: Data Center Securitization as Atmospheric Media"
+    journal: Media Fields
+    number: "no. 16: Life Cycles"
+    date: "2020 (forthcoming)"
+    url: ""
   - title: "Grid Techniques for a Planet in Crisis: The Infrastructures of Weather Prediction"
     journal: Amodern
-    number: "vol. 9"
-    date: "Feb. 2020"
+    number: "vol. 9: Techniques and Technologies"
+    date: "April 2020"
     url: "https://amodern.net/article/grid-techniques/"
 
 web:
@@ -219,10 +224,10 @@ courses-umd:
 
 courses-smith:
   - title: "Media Archaeology, Climate Change, and the Digital (Non)humanities"
-    date: 2016
+    date: "2016. (January-term course)"
     url: "https://ecomedia.jeffreymoro.com"
   - title: "E.LIT / NET.ART"
-    date: 2015
+    date: "2015 (January-term course)"
     url: "https://elit.jeffreymoro.com/course"
 
 workshop:
@@ -271,11 +276,6 @@ minor-projects:
     url: "http://stilllife.mp285.com"
     date: "2015–17"
     context: "Essays, maps, and interactive visualizations on Black life, trauma, and social media."
-  - title: The Recirculator
-    role: PI
-    url: "https://github.com/jeffreymoro/recirculator/"
-    date: "2015–16"
-    context: "A web app that lets you randomly check out books that have never before circulated within the Five College library system, and learn more about the collection through data visualizations."
   - title: The Space of Mexico City
     role: Consultant
     url: "http://5colldh.org/spaces-of-mexico-city"
