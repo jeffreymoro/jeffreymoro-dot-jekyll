@@ -26,11 +26,18 @@ title: Research
 <div>
   <h2><span id="t3"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Publications</h2>
 
-  <h3>Peer-Reviewed Journals</h3>
+  <h3>Peer-Reviewed Articles</h3>
   {% for journals in site.data.research.journals %}
     <div class="research-title"><h4>{% if journals.url == "" %}{{ journals.title }}{% else %}<a href="{{ journals.url }}">{{ journals.title }}</a>{% endif %}</h4></div>
     <div class="research-meta"><small><i>{{ journals.venue }}</i>, {{ journals.number }}, {{ journals.date }}.</small></div>
     <div class="research-context"><p>{{ journals.snippet }} {% if journals.permalink == "" %}{% else %}<a href="{{ journals.permalink }}">Permalink.</a>{% endif %}</p></div>
+  {% endfor %}
+
+  <h3>Short Articles and Reviews</h3>
+  {% for reviews in site.data.research.reviews %}
+    <div class="research-title"><h4>{% if reviews.url == "" %}{{ reviews.title }}{% else %}<a href="{{ reviews.url }}">{{ reviews.title }}</a>{% endif %}</h4></div>
+    <div class="research-meta"><small><i>{{ reviews.venue }}</i>, {{ reviews.number }}, {{ reviews.date }}.</small></div>
+    <div class="research-context"><p>{{ reviews.snippet }} {% if reviews.permalink == "" %}{% else %}<a href="{{ reviews.permalink }}">Permalink.</a>{% endif %}</p></div>
   {% endfor %}
 
   <h3>Web</h3>

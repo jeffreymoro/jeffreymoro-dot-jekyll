@@ -12,6 +12,15 @@ journals:
     permalink: "https://web.archive.org/web/20200320165107/https://amodern.net/article/grid-techniques/"
     snippet: "An article about computational weather prediction and cultural techniques, featuring extreme weather, cartographic aesthetics, and more calculus than you might expect."
 
+reviews:
+  - title: "Air-conditioning the Internet: Data Center Securitization as Atmospheric Media"
+    venue: Media Fields
+    number: "no. 16: Life Cycles"
+    date: "2020 (forthcoming)"
+    url: ""
+    permalink: ""
+    snippet: "A short article about the total heat death that awaits all data and the infrastructural technologies data centers employ to delay it, although they can never eliminate it entirely"
+
 web:
   - title: "Dance Apocalyptic: Tim Maughan’s <em>Infinite Detail</em> and Media After the Internet"
     venue: "Los Angeles Review of Books"
