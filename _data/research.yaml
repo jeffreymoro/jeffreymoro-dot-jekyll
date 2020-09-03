@@ -4,6 +4,13 @@ monographs:
 edited:
 
 journals:
+  - title: "Air-conditioning the Internet: Data Center Securitization as Atmospheric Media"
+    venue: Media Fields
+    number: "no. 16: Life Cycles"
+    date: "2020 (in press)"
+    url: ""
+    permalink: ""
+    snippet: "A short article about the total heat death that awaits all data and the infrastructural technologies data centers employ to delay it, although they can never eliminate it entirely"
   - title: "Grid Techniques for a Planet in Crisis: The Infrastructures of Weather Prediction"
     venue: "Amodern"
     number: "vol. 9"
@@ -13,13 +20,6 @@ journals:
     snippet: "An article about computational weather prediction and cultural techniques, featuring extreme weather, cartographic aesthetics, and more calculus than you might expect."
 
 reviews:
-  - title: "Air-conditioning the Internet: Data Center Securitization as Atmospheric Media"
-    venue: Media Fields
-    number: "no. 16: Life Cycles"
-    date: "2020 (forthcoming)"
-    url: ""
-    permalink: ""
-    snippet: "A short article about the total heat death that awaits all data and the infrastructural technologies data centers employ to delay it, although they can never eliminate it entirely"
 
 web:
   - title: "Dance Apocalyptic: Tim Maughan’s <em>Infinite Detail</em> and Media After the Internet"
