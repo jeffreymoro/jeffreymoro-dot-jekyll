@@ -1,0 +1,24 @@
+#!/bin/bash
+
+echo "What is your project's name?"
+read NAME
+mkdir ~/Dropbox/active\ projects/$NAME
+cd ~/Dropbox/active\ projects/$NAME
+mkdir _drafts
+mkdir _research
+mkdir _images
+mkdir _stage
+cp ~/.pandoc/TEMPLATE.md $NAME.md
+touch README.markdown
+touch scratch-$NAME.md
+cp ~/.pandoc/Makefile Makefile
+cp ~/.pandoc/vc-git.awk .
+touch .gitignore
+echo ".DS_Store" >> .gitignore
+echo "vc.tex" >> .gitignore
+echo "_stage" >> .gitignore
+cat .gitignore
+git init
+git add * .gitignore
+git commit -m "initial commit"
+vc

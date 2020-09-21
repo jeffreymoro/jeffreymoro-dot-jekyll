@@ -1,0 +1,54 @@
+## Markdown extension (e.g. md, markdown, mdown).
+MEXT = md
+
+## All markdown files in the working directory
+SRC = $(wildcard *.$(MEXT))
+
+## Location of Pandoc support files.
+PREFIX = /Users/jeffreymoro/.pandoc
+
+## Project name
+PROJ = $(shell basename $(CURDIR))
+
+## Location of your working bibliography file
+## BIB = $(CURDIR)/$(PROJ).bib
+BIB = /Users/jeffreymoro/Documents/Zotero/zotero.bib
+
+## CSL stylesheet (located in the csl folder of the PREFIX directory).
+CSL = chicago-fullnote-bibliography
+
+PDFS=$(SRC:.md=.pdf)
+DOCX=$(SRC:.md=.docx)
+TEX=$(SRC:.md=.tex)
+
+all:	clean-product vc $(PDFS) $(DOCX) clean-meta stage
+
+pdf:	clean-product $(PDFS) clean-meta
+docx:	clean-product $(DOCX)
+
+clean:  clean-product clean-meta
+
+%.docx:	%.md
+	pandoc -s --csl=$(PREFIX)/csl/$(CSL).csl --bibliography=$(BIB) --reference-doc=$(PREFIX)/ref.docx -o _stage/$@ $<
+
+%.pdf:	%.md
+	pandoc -s --pdf-engine=xelatex --listings --template=$(PREFIX)/templates/essay.tex --csl=$(PREFIX)/csl/$(CSL).csl --bibliography=$(BIB) --biblatex -o $@.tex $<
+	xelatex $@.tex
+	biber $@
+	xelatex $@
+	xelatex $@
+	mv *.pdf _stage/
+
+clean-product:
+	rm -f _stage/*.pdf _stage/*.docx
+
+clean-meta:
+	rm -f *.aux *.bbl *.blg *.bcf *.log *.out *.xml
+
+vc:
+	vc
+
+stage:
+	mv *.pdf _stage
+#	mv *.docx _stage
+	mv *.pdf.tex _stage
