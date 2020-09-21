@@ -5,7 +5,7 @@ tags:
 - how to
 ---
 
-The other day, a friend asked me how I write. Not like, existentially or anything (although it's a challenge these days!), more my workflows for writing. Since they're not the first to ask this, and since I went ahead and wrote it up for them, I thought I might as well post it on here for anyone else interested in workflows that incorporate plain text, citation integrations, and open-source software. 
+Earlier today, a friend asked me how I write. Not like, existentially or anything (although it's a challenge these days!), more my workflows for writing. Since they're not the first to ask this, and since I went ahead and wrote it up for them, I thought I might as well post it on here for anyone else interested in workflows that incorporate plain text, citation integrations, and open-source software. 
 
 My workflow is one that I developed early on in my graduate studies with the intention of maximizing flexibility and minimizing the temptation to fiddle with it further. There's definitely stuff in it that only works for me because I'm willing to tolerate. It's also one that strongly draws from a few others': in particular Scott Selisker's ["Plain Text Workflow for Writing with Atom"](http://u.arizona.edu/~selisker/post/workflow/) and Grant Wythoff's and Dennis Tenen's ["Sustainable Authorship in Plain Text using Pandoc and Markdown"](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown). These lessons are honestly better and more schematic than my post, but since this space changes so frequently I thought it'd be worth having my contribution for 2020. 
 
