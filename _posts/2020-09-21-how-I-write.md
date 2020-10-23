@@ -29,7 +29,7 @@ The actual writing itself is fairly uninteresting and honestly you've got your o
 
 The real clincher for me is adding in citations. I keep all my citations in [Zotero](https://www.zotero.org/), which I resisted for a long time but then just took a week to make it happen and I can't imagine life without it. In Zotero, I use a plugin called [Better BibTeX](https://retorque.re/zotero-better-bibtex/), which can export my entire library in a database file with the extension .bib. This becomes the key to the enterprise. Using a plugin in VS Code (I told you it was an unnecessary complex system!) called [Pandoc Citer](https://marketplace.visualstudio.com/items?itemName=notZaki.pandocciter), I can direct my text editor to that database file. I can then call up citation shortcodes from within VS Code, as such: 
 
-![how-i-write-3](/assets/img/how-I-write-3.jpg)
+![how-i-write-3](/assets/img/how-i-write-3.jpg)
 <div class="caption">Shortcodes in action.</div>
 
 Now, all this looks human-readable enough, but it's also coder garbage. Here a delightful command line tool called [pandoc](https://pandoc.org/) steps in. pandoc is amazing. I basically think it redeems computers. It can take basically any kind of text and turn it into other kinds of text. In my situation, it turns markdown files into...pretty much anything. Mostly .docx, because let's be real that's where academic work in the humanities always ends up.
