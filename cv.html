@@ -4,8 +4,8 @@ title: CV
 ---
 <div class="tabsWrapper clear" id="t0">
 <ul class="tabs">
-    <li>
-        <a href="#t1">ABOUT ME</a></li>
+    <!--<li>
+        <a href="#t1">ABOUT ME</a></li>-->
     <li>
         <a href="#t2">EDUCATION</a></li>
     <li>
@@ -31,13 +31,13 @@ title: CV
 </ul>
 </div>
 
-<!-- 1: Profile -->
+<!-- 1: Profile
 <div class="clear">
 <h2><span id="t1"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Hi, I&rsquo;m Jeffrey Moro</h2>
     <div class="column-last column-bottom clear">
         <p>{{ site.data.cv.profile }}</p>
     </div>
-</div>
+</div>-->
 
 <!-- 2: Education -->
 <div class="clear">
@@ -84,7 +84,7 @@ title: CV
         </div>
 {% endfor %}
 
-<!--{% for title in site.data.cv.reviews %}
+{% for title in site.data.cv.reviews %}
     {% if forloop.first == true %}
         <div class="one-fourth column-bottom clear subcat"><em>Short Articles and Reviews</em></div>
     {% else %}
@@ -98,7 +98,7 @@ title: CV
             {% endif %}
             <span class="cv-meta">{{ title.date }} • <i>{{ title.journal }}</i>, {{ title.number }}</span>
         </div>
-{% endfor %}-->
+{% endfor %}
 
 {% for title in site.data.cv.web %}
     {% if forloop.first == true %}

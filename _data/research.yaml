@@ -10,7 +10,7 @@ journals:
     date: "2020 (in press)"
     url: ""
     permalink: ""
-    snippet: "A short article about the total heat death that awaits all data and the infrastructural technologies data centers employ to delay it, although they can never eliminate it entirely"
+    snippet: "An article about the total heat death that awaits all data and the infrastructural technologies data centers employ to delay it, although they can never eliminate it entirely."
   - title: "Grid Techniques for a Planet in Crisis: The Infrastructures of Weather Prediction"
     venue: "Amodern"
     number: "vol. 9"
@@ -20,6 +20,13 @@ journals:
     snippet: "An article about computational weather prediction and cultural techniques, featuring extreme weather, cartographic aesthetics, and more calculus than you might expect."
 
 reviews:
+  - title: "Collective Tissue"
+    venue: Qui Parle
+    number: "Special Forum: Breath / Inhale : Exhale"
+    date: "2021 (forthcoming)"
+    url: ""
+    permalink: ""
+    snippet: "A brief reflection on the human breath and the mediation of geologic time."
 
 web:
   - title: "Dance Apocalyptic: Tim Maughan’s <em>Infinite Detail</em> and Media After the Internet"
@@ -41,7 +48,7 @@ other:
 
 conference-talks:
   - title: "Air-conditioning the Internet"
-    snippet: "This is a talk about two technologies that control the planet: air conditioning and the internet."
+    snippet: "A talk about two technologies that control the planet: air conditioning and the internet."
     conference: "ASAP/11: Ecologies of the Present"
     institution: ASAP
     location: College Park, MD
