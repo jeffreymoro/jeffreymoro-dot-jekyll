@@ -24,7 +24,7 @@
 
 // Animated links
 
-.content a, .credit a, .projectName {
+.content a, .credit a, .projectName, .cv-pub-list a {
     position: relative;
     padding-bottom: 0px;
 
@@ -132,7 +132,7 @@
 }
 
 // Link Color
-.container a, .page a, .projectName, .related-posts li a {
+a {
     -moz-transition: color .5s ease;
     -webkit-transition: color .5s ease;
     -o-transition: color .5s ease;

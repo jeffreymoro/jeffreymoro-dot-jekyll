@@ -1,4 +1,8 @@
-# jeffreymoro [dot] com
+# jeffreymoro [dot] com [FURTHER DEPRECATED]
+
+This version of the site has been deprecated as I switched from jekyll to hugo. The updated version is [here](https://github.com/jeffreymoro/jeffreymoro-dot-hugo).
+
+***
 
 The code that powers my website / blog / lifestyle.
 
